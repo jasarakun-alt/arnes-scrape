@@ -1,0 +1,740 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Energetika\" AND open_data:true",
+  "total_datasets": 61,
+  "datasets": [
+    {
+      "title": "Proizvodnja električne energije po vrstah elektrarn (GWh), Slovenija, letno",
+      "name": "sursh029s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh029s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H029S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije (EUR/kWh), Slovenija, četrtletno",
+      "name": "sursh032s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh032s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H032S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Trdna, tekoča in plinasta goriva, Slovenija, mesečno",
+      "name": "surs1818001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1818001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1818001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Primerjava cen za zemeljski plin in električno energijo za izbrane porabnike, Slovenija in EU, polletno",
+      "name": "surs1817550s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817550s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817550S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za negospodinjske odjemalce, Slovenija, polletno",
+      "name": "surs1817535s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817535s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817535S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Register udeležencev na veleprodajnem energetskem trgu, ki sklepajo posle, o katerih je treba poročati ACER",
+      "name": "register-udelezencev-na-veleprodajnem-energetskem-trgu-ki-sklepajo-posle-o-katerih-je-treba-porocati",
+      "dataset_url": "https://podatki.gov.si/data/dataset/register-udelezencev-na-veleprodajnem-energetskem-trgu-ki-sklepajo-posle-o-katerih-je-treba-porocati",
+      "links": {
+        "html": [
+          "https://www.acer-remit.eu/portal/european-register",
+          "https://www.agen-rs.si/"
+        ],
+        "xml": [
+          "https://www.acer-remit.eu/portal/export-xml-public-eu-register"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije za negospodinjske odjemalce (EUR/kWh), Slovenija, letno",
+      "name": "surs1817570s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817570s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817570S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene zemeljskega plina (EUR/kWh), Slovenija, četrtletno",
+      "name": "sursh033s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh033s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H033S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije za gospodinjske odjemalce (EUR/kWh), Slovenija, četrtletno",
+      "name": "surs1817515s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817515s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817515S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za gospodinjske odjemalce, Slovenija, polletno",
+      "name": "surs1817525s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817525s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817525S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Električna energija (GWh), Slovenija, mesečno",
+      "name": "surs1817601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene energentov, Slovenija, četrtletno",
+      "name": "sursh028s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh028s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H028S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za gospodinjske odjemalce, Slovenija, četrtletno",
+      "name": "surs1817505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba energije in goriv v gospodinjstvih (TJ) po energetskih virih, Slovenija, letno",
+      "name": "sursh031s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh031s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H031S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije za negospodinjske odjemalce (EUR/kWh), Slovenija, polletno",
+      "name": "surs1817545s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817545s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817545S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije za gospodinjske odjemalce (EUR/kWh), Slovenija, letno",
+      "name": "surs1817565s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817565s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817565S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energija za ogrevanje stanovanj in sanitarne vode po načinu ogrevanja (%), gospodinjstva, Slovenija, letno",
+      "name": "surs1815410s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815410s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815410S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska bilanca (TJ), Slovenija, letno",
+      "name": "surs1817903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817903S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodnja nuklearne toplote, Slovenija, 2004M01 - 2025M12",
+      "name": "surs1817605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba energentov po namenih rabe, v izbranih proizvodnjih dejavnostih (SKD 2008), v TJ, Slovenija, letno",
+      "name": "surs1817808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817808S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 11549",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Maloprodajna cena toplotne energije za izbrano porabniško skupino v gospodinjstvih (EUR/MWh), Slovenija, 2004M01 - 2017M12",
+      "name": "surs1817507s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817507s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817507S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba električne energije (kWh) v proizvodnih in storitvenih dejavnostih (SKD 2008), občine, Slovenija, mesečno",
+      "name": "surs1817608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817608S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Električna energija (GWh), Slovenija, letno",
+      "name": "surs1817602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Končna poraba energije po namenu in vrsti energetskega vira (TJ), gospodinjstva, Slovenija, letno",
+      "name": "surs1815406s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815406s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815406S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba obnovljivih virov energije in odpadkov (TJ), Slovenija, letno",
+      "name": "surs1822303s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1822303s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1822303S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodnja in dejanska moč v elektrarnah - glavna dejavnost, samoproizvajalci in male zasebne hidroelektrare, Slovenija, letno",
+      "name": "surs1817604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817604S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene naftnih proizvodov [EUR/l], Slovenija, 2004M01 - 2014M06",
+      "name": "surs1817506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817506S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeks cen (%) zemeljskega plina in električne energije (EU=100), Slovenija in EU, polletno",
+      "name": "sursh034s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh034s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H034S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska poraba goriv, električne energije in toplotne energije po dejavnosti [SKD 2002], v TJ, Slovenija, 2003 - 2007",
+      "name": "surs1817892s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817892s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817892S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska poraba goriv, električne energije in toplotne energije po dejavnosti [SKD 2002], naravne enote, Slovenija, 2003 - 2007",
+      "name": "surs1817891s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817891s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817891S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raba električne energije po namenu (GWh), gospodinjstva, Slovenija, letno",
+      "name": "surs1815408s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815408s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815408S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska bilanca (1000 toe), Slovenija, letno",
+      "name": "surs1817901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Viri za ogrevanje stanovanj in sanitarne vode (TJ), gospodinjstva, Slovenija, letno",
+      "name": "surs1815412s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815412s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815412S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca trdnih, tekočih in plinastih goriv, Slovenija, letno",
+      "name": "surs1818002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1818002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1818002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki porabe energije in goriv, gospodinjstva, Slovenija, večletno",
+      "name": "surs1815402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetski kazalniki, Slovenija, letno",
+      "name": "surs1817902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska poraba goriv, električne energije in toplotne energije po dejavnosti (SKD 2008), naravne enote, Slovenija, letno",
+      "name": "surs1817801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 11549",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Končna poraba energije po vrsti energetskega vira (naravne enote), gospodinjstva, Slovenija, letno",
+      "name": "surs1815404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Energetska poraba goriv, električne energije in toplotne energije po dejavnosti (SKD 2008), v TJ, Slovenija, letno",
+      "name": "surs1817802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817802S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 11549",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba energentov po namenih rabe, naravne enote, Slovenija, letno",
+      "name": "surs1817806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817806S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 11549",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Končna poraba energije in goriv v gospodinjstvih po vrsti energetskega vira [stara metodologija], Slovenija, 1996, 2002",
+      "name": "surs1815452s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815452s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815452S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "PEFA - Energetski kazalniki (TJ), Slovenija, letno",
+      "name": "surs2731601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7792",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za negospodinjske odjemalce, Slovenija, letno",
+      "name": "surs1817560s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817560s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817560S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene električne energije za gospodinjske odjemalce (EUR/kWh), Slovenija, polletno",
+      "name": "surs1817540s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817540s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817540S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za gospodinjske odjemalce, Slovenija, letno",
+      "name": "surs1817555s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817555s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817555S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca toplote (TJ), Slovenija, letno",
+      "name": "surs1817701s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817701s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817701S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "PEFA - Raba energije po rezidenčnenm principu (TJ), Slovenija, letno",
+      "name": "surs2731602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7792",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Cene za zemeljski plin za negospodinjske odjemalce, Slovenija, četrtletno",
+      "name": "surs1817510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8130",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ogrevanje stanovanj in sanitarne vode ter naprave za kuhanje po energetskih virih [%] [stara metodologija], Slovenija, 1996, 2002",
+      "name": "surs1815453s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815453s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815453S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba električne energije (kWh) po vrsti odjemalca, občine, Slovenija, mesečno",
+      "name": "surs1817607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817607S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba električne energije (kWh) po vrsti odjemalca, občine, Slovenija, letno",
+      "name": "surs1817609s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817609s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817609S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba električne energije (kWh) v proizvodnih in storitvenih dejavnostih (SKD 2008), občine, Slovenija, letno",
+      "name": "surs1817610s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817610s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817610S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba električne energije (kWh) v gospodinjstvih in pri poslovnih subjektih po vrsti odjemalca, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs1817611s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817611s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817611S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki porabe električne energije v gospodinjstvih in pri poslovnih subjektih, občine, Slovenija, letno",
+      "name": "surs1817904s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817904s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817904S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki porabe električne energije v gospodinjstvih in pri poslovnih subjektih, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs1817905s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1817905s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1817905S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8261",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba goriv, električne energije in toplotne energije (naravne enote) v komercialnih in javnih storitvah po dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs1883901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1883901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1883901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba goriv, električne energije in toplotne energije (TJ) v komercialnih in javnih storitvah po dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs1883902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1883902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1883902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Končna poraba energije v prometu – železniški prevoz, Slovenija, letno",
+      "name": "surs1888001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1888001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1888001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Končna poraba energije v prometu – cestni prevoz, Slovenija, letno",
+      "name": "surs1888002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1888002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1888002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "PEFA - tabela oskrbe z energijo po dejavnosti (TJ), Slovenija, letno",
+      "name": "surs2731603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7792",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "PEFA - tabela porabe energije po dejavnosti (TJ), Slovenija, letno",
+      "name": "surs2731604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731604S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7792",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Energetika",
+    "open_data": true
+  }
+}

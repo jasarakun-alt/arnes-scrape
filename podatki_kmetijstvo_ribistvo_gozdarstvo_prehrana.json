@@ -1,0 +1,4252 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Kmetijstvo. ribištvo. gozdarstvo in prehrana\" AND open_data:true",
+  "total_datasets": 354,
+  "datasets": [
+    {
+      "title": "Odstrel divjadi (število), Slovenija, letno",
+      "name": "surs1673150s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673150s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673150S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava grozdja v vinogradih (ha, število trt, t, t/ha, kg/trto), Slovenija, letno",
+      "name": "surs1502406s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502406s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502406S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, skupni KZU, GVŽ in povprečni GVŽ na ha KZU, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0214s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0214s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0214S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gastronomske regije Slovenije",
+      "name": "gastronomske-regije-slovenije",
+      "dataset_url": "https://podatki.gov.si/data/dataset/gastronomske-regije-slovenije",
+      "links": {
+        "html": [
+          "http://www.mk.gov.si/"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava sena s trajnih travinj (ha, t, t/ha), Slovenija, letno",
+      "name": "surs1502407s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502407s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502407S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količine in povprečne cene odkupljenih kmetijskih pridelkov, Slovenija, letno",
+      "name": "surs1505000s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1505000s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1505000S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7799",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po rabi vseh in kmetijskih zemljišč v uporabi, po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stopnja samooskrbe (%) po vrstah kmetijskih proizvodov, koledarsko leto, Slovenija, letno",
+      "name": "sursh205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Povprečni pridelek (t/ha) pomembnejših kmetijskih kultur, po statističnih regijah, Slovenija, letno",
+      "name": "surs1502410s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502410s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502410S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine po vrstah in kategorijah živali, po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila goveda, krav, krav molznic in drugih krav, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca pridelovalcev in predelovalcev ekoloških in integriranih kmetijskih pridelkov ali živil",
+      "name": "evidenca-pridelovalcev-in-predelovalcev-ekoloskih-in-integriranih-kmetijskih-pridelkov-ali-zivil",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-pridelovalcev-in-predelovalcev-ekoloskih-in-integriranih-kmetijskih-pridelkov-ali-zivil",
+      "links": {
+        "html": [
+          "http://www.mkgp.gov.si/",
+          "https://webapl.mkgp.gov.si/bioWeb/informacije.php"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/f42e6c27-4a52-41c5-852e-aaa9a796455a/resource/aeedb28d-b675-4211-badf-15e1b8b747a5/download/certifikati.csv"
+        ]
+      }
+    },
+    {
+      "title": "Odkup lesa, Slovenija, mesečno",
+      "name": "surs1656401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1656401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1656401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8205",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zakol živine v klavnicah, Slovenija, mesečno",
+      "name": "surs1505801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1505801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1505801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8231",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava sadja v intenzivnih sadovnjakih in oljk v intenzivnih oljčnikih (ha, število dreves, t, t/ha), Slovenija, letno",
+      "name": "surs1502404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Razpoložljiva količina vina za prehrano na prebivalca (l), tržno leto, Slovenija, letno",
+      "name": "sursh207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki intenzivnosti rabe naravnih virov, Slovenija, 1995 - 2015",
+      "name": "surs3269202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3269202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3269202S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev po tehnikah nanašanja gnoja, gnojevke in gnojnice na kmetijska zemljišča v uporabi, Slovenija, 2016",
+      "name": "surs1579830s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579830s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579830S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lesna zaloga in letni prirastek, Slovenija, letno",
+      "name": "surs1673110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ki redijo živino, po velikostnih razredih KZU, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0213s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0213s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0213S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Izvoz in uvoz mleka in mlečnih izdelkov, Slovenija, letno",
+      "name": "surs1514505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11897",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Čebelarstvo, pridelava medu, Slovenija, letno",
+      "name": "surs1517306s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517306s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517306S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odkupljeno kravje mleko in proizvodnja mlečnih izdelkov v mlekarnah, Slovenija, mesečno",
+      "name": "surs1514501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11895",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raba kmetijskih zemljišč, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje mesa (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Glave velike živine [GVŽ], po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska zemljišča v uporabi z ekološko pridelavo (ha), po rabi kmetijskih zemljišč v uporabi, Slovenija, letno",
+      "name": "surs1561902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina in število vinogradov glede na naklon zemljišča pred terasiranjem, vinorodne dežele in okoliši, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528325s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528325s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528325S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gostinski ponudniki v občini Radeče",
+      "name": "gostinski-ponudniki-v-obcini-radece",
+      "dataset_url": "https://podatki.gov.si/data/dataset/gostinski-ponudniki-v-obcini-radece",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1b2f2786-d146-406b-8020-9dfde5cd48c2/resource/c2354ff9-0838-4fc4-9d8f-4cba8db23b02/download/opsiradecegostinskiobrati.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število kokoši nesnic konzumnih jajc po velikostnih razredih, Slovenija, letno",
+      "name": "surs1517307s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517307s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517307S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje zelenjave (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563506S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca izvajalcev gostinske dejavnosti v občini Dolenjske Toplice",
+      "name": "evidenca-izvajalcev-gostinske-dejavnosti-v-obcini-dolenjske-toplice",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-izvajalcev-gostinske-dejavnosti-v-obcini-dolenjske-toplice",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1247bcc4-6d99-4de7-94fb-c29c70b0e37a/resource/451609a3-c45c-4154-a365-60a6d8091f32/download/evidencaizvajalcevgostinskedejavnostivobinidolenjsketoplice.csv"
+        ]
+      }
+    },
+    {
+      "title": "Prireja in uporaba mleka na kmetijskih gospodarstvih (t), Slovenija, letno",
+      "name": "surs1514503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11899",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Glave velike živine [GVŽ], po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Živinoreja, Slovenija, letno",
+      "name": "sursh204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci in neto površina nasadov breskev, nektarin in marelic po gostoti sajenja dreves, Slovenija, 2002, 2012",
+      "name": "surs1506807s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1506807s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1506807S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov v kmetijstvu (kg), Slovenija, 2014",
+      "name": "surs1570810s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570810s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570810S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakalne površine in dejansko namakane površine na prostem, po načinu namakanja in vodnem viru, Slovenija, 2016",
+      "name": "surs1579820s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579820s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579820S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva [KMG] z napravami za proizvodnjo energije iz obnovljivih virov, po tipu obnovljivega vira, po načinu porabe, po kohezijskih regijah, Slovenija, 2010",
+      "name": "surs15p3070s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3070s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3070S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema, Slovenija, večletno",
+      "name": "surs1516301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki ekološkega kmetijstva, Slovenija, 2004 - 2015",
+      "name": "surs3268606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3268606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3268606S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov za žita (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, 2014",
+      "name": "surs1570821s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570821s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570821S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dopolnilne dejavnosti na družinskih kmetijah, Slovenija, 2000, 2003, 2005, 2007, 2010, 2013, 2016",
+      "name": "surs1516106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število lastnih dvoosnih traktorjev po velikostnih razredih števila lastnih dvoosnih traktorjev, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p3215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava okrasnih rastlin in rezanega cvetja, Slovenija, večletno",
+      "name": "surs15p6007s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6007s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6007S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba mineralnih gnojil v kmetijstvu, Slovenija, letno",
+      "name": "surs1517001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7798, 7981",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava poljščin (ha, t, t/ha), Slovenija, letno",
+      "name": "surs1502402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela v kmetijstvu, Slovenija, večletno",
+      "name": "sursh196s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh196s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H196S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gastronomska ponudba v občini Krško",
+      "name": "gastronomska-ponudba-v-obcini-krsko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/gastronomska-ponudba-v-obcini-krsko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/4fbbb2ad-5cb7-4a72-92ec-fa1cdad4dd62/resource/b74fb80f-1a6e-4211-8bc5-d5e01ca6431e/download/gastronomskaponudbakk.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanje gozdov, Slovenija, letno",
+      "name": "sursh192s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh192s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H192S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina pomembnejših kmetijskih kultur (ha), Slovenija, letno",
+      "name": "sursh200s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh200s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H200S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen kmetijskih pridelkov pri pridelovalcih (povprečje 2015=100), Slovenija, 2010M01 - 2023M12",
+      "name": "surs0410805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0410805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0410805S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7809",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba mineralnih gnojil po kmetijskih kulturah, Slovenija, dveletno",
+      "name": "surs1517005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7796",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površine njiv glede na način obdelave, Slovenija, 2010, 2016",
+      "name": "surs1579805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579805S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Registrirana ribiška plovila, po dolžini, Slovenija, letno",
+      "name": "surs1519105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki bilance fosforja na ha kmetijskih zemljišč v uporabi (kg/ha), Slovenija, letno",
+      "name": "surs1529240s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1529240s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1529240S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8406",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih glav velike živine [GVŽ], Slovenija, večletno",
+      "name": "surs1516601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološka pridelava, Slovenija, 2010",
+      "name": "surs15p0210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zakol živine v klavnicah, Slovenija, letno",
+      "name": "sursh202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8231",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih kmetijskih zemljišč v uporabi [KZU] in kohezijskih regijah, Slovenija, večletno",
+      "name": "surs1560023s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560023s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560023S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količine doma porabljenih živil in pijač na člana gospodinjstva, Slovenija, večletno",
+      "name": "sursh155s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh155s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H155S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7782",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen inputov v kmetijstvu (povprečje 2015=100), Slovenija, 2010M01 - 2023M12",
+      "name": "surs1514005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8165",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gozdarska mehanizacija na kmetijskih gospodarstvih, Slovenija, večletno",
+      "name": "surs1679115s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1679115s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1679115S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9584",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število prašičev, kohezijski regiji, Slovenija, letno",
+      "name": "surs1517402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, dreves ali grmov ter bruto površina po velikostnih razredih površine intenzivnih sadovnjakov, Slovenija, večletno",
+      "name": "surs15p6503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število opravljenih delovnih ur v gozdarstvu na kmetijskih gospodarstvih, Slovenija, večletno",
+      "name": "surs1679110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1679110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1679110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9584",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa po lastništvu gozda in po vrstah drevja (1000 m3), Slovenija, letno",
+      "name": "surs1673130s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673130s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673130S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Perutnina, prireja mesa in jajc, Slovenija, letno",
+      "name": "surs1517303s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517303s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517303S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prodaja kmetijskih pridelkov iz lastne pridelave na živilskih trgih, Slovenija, 2000 - 2023",
+      "name": "surs1527501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1527501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1527501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7804",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Glave velike živine [GVŽ], po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupine zemljiških kategorij in njivskih posevkov (ha), Slovenija, letno",
+      "name": "surs1502401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic po skupinah, statistične regije, Slovenija, večletno",
+      "name": "surs15p6005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količina proizvedenih mlečnih izdelkov, delež maščob in beljakovin, mlekarne, Slovenija, letno",
+      "name": "surs1514504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11897",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca dušika (t), Slovenija, letno",
+      "name": "surs1529210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1529210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1529210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8284",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uvoz in izvoz živinskih gnojil na / iz kmetijskega gospodarstva, Slovenija, 2010, 2016",
+      "name": "surs1579825s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579825s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579825S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Osnovna površina tržnega vrtnarstva glede na prostor pridelave, statistične regije, Slovenija, večletno",
+      "name": "surs15p6002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število nasadov, bruto površina ter število dreves jablan in hrušk po gostoti sajenja, Slovenija, večletno",
+      "name": "surs15p6506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6506S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raba kmetijskih zemljišč, po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki proizvodi živalskega izvora (t), po kategorijah proizvodov, Slovenija, letno",
+      "name": "surs1561906s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561906s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561906S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zakol živine, Slovenija, letno",
+      "name": "surs1505802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1505802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1505802S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8231",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Akvakultura - masa vzrejenih vodnih organizmov in vrednost vzreje, Slovenija, letno",
+      "name": "surs1519102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva - splošni pregled po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p0402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, neto in bruto površina nasadov jablan in hrušk ter število dreves po starosti, Slovenija, večletno",
+      "name": "surs15p6504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živali, Slovenija, letno",
+      "name": "sursh203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število perutnine, kohezijski regiji, Slovenija, letno",
+      "name": "surs1517403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517403S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina njiv, ki je del načrtovanega kolobarja, Slovenija, 2016",
+      "name": "surs1579815s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579815s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579815S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dopolnilne dejavnosti na družinskih kmetijah, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p4118s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4118s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4118S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila kokoši nesnic, Slovenija, večletno",
+      "name": "surs1516608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516608S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca fosforja (t), Slovenija, letno",
+      "name": "surs1529230s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1529230s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1529230S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8406",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in porabe vina (1000hl), vinsko leto, Slovenija, letno",
+      "name": "surs1563407s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563407s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563407S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, skupni KZU, GVŽ in povprečni GVŽ na ha KZU, po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0414s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0414s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0414S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Razpoložljiva količina kmetijskih proizvodov za prehrano na prebivalca (kg), koledarsko leto, Slovenija, letno",
+      "name": "sursh206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic (ha, t, t/ha), Slovenija, letno",
+      "name": "surs1502403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502403S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava sadja v ekstenzivnih sadovnjakih in oljk v ekstenzivnih oljčnikih (število dreves, t, kg/drevo), Slovenija, letno",
+      "name": "surs1502405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raba trajnih travnikov in pašnikov, Slovenija, večletno",
+      "name": "surs1516505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina vinogradov z najpogostejšimi sortami po starostnih razredih, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528317s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528317s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528317S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost in KZU po tipu kmetovanja, kohezijski regiji, Slovenija, večletno",
+      "name": "surs1560026s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560026s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560026S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število lastnih dvoosnih traktorjev po velikostnih razredih števila lastnih dvoosnih traktorjev, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3015s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3015s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3015S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva glede na uporabo računalnika, po velikostnih razredih starosti gospodarja, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3125s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3125s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3125S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sečnja in poraba okroglega lesa v gozdarski dejavnosti (m3), po vrsti aktivnosti, poslovni subjekti, Slovenija, letno",
+      "name": "surs1671501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1671501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1671501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8236",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število goveda, kohezijski regiji, Slovenija, letno",
+      "name": "surs1517401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki bilance dušika na ha kmetijskih zemljišč v uporabi (kg/ha), Slovenija, letno",
+      "name": "surs1529220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1529220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1529220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8284",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površine njiv glede na pokrovnost čez zimo, Slovenija, 2010, 2016",
+      "name": "surs1579810s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579810s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579810S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci, površina, število vinogradov in število sadik glede na sedež kmetijskega gospodarstva, statistične regije, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528305s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528305s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528305S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina, število vinogradov in število sadik po velikostnih razredih vinogradov, vinorodne dežele in okoliši, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528311s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528311s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528311S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina in število vinogradov glede na nagib vertikal, vinorodne dežele in okoliši, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528323s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528323s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528323S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje žit (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje sladkorja (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila drobnice, ovc in koz, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekonomski računi za gozdarstvo po proizvodih in vrednostih, Slovenija, letno",
+      "name": "surs1622730s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622730s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622730S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Osutost krošenj po drevesnih vrstah (število dreves), Slovenija, letno",
+      "name": "surs1622760s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622760s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622760S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološko kmetovanje, Slovenija, letno",
+      "name": "sursh197s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh197s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H197S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupna in kmetijska zemljišča kmetijskih gospodarstev, Slovenija, večletno",
+      "name": "surs1516501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Govedo, bilanca števila, prireja mesa in mleka, Slovenija, letno",
+      "name": "surs1517301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Morski gospodarski ribolov, ribolovni zavržek po vrstah vodnih živali v kilogramih, Slovenija, letno",
+      "name": "surs1519108s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519108s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519108S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina vinogradov in število sadik najpogostejših sort, vinorodne dežele, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528315s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528315s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528315S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava ekoloških rastlinskih pridelkov (t), po pomembnejših skupinah kmetijskih kultur, Slovenija, letno",
+      "name": "surs1561905s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561905s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561905S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje žit (1000 t), tržno leto, Slovenija, letno",
+      "name": "surs1563401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje riža (1000 t), tržno leto, Slovenija, letno",
+      "name": "surs1563405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje jajc (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje sadja (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563508s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563508s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563508S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila čebeljih družin, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1011s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1011s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1011S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic po vrstah na prostem in v zaščitenem prostoru, Slovenija, večletno",
+      "name": "surs15p6004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6004S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po tipih kmetovanja, občine, Slovenija, 2010, 2020",
+      "name": "surs15p7205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odkup lesa, Slovenija, letno",
+      "name": "surs1656402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1656402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1656402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8205",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odkupljeno kravje mleko in proizvodnja mlečnih izdelkov v mlekarnah, Slovenija, letno",
+      "name": "surs1514502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11897",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število družinskih kmetij po dopolnilnih dejavnostih (vzorčni podatki, EU-prag za zajem, 2020), kohezijski regiji, Slovenija, 2020",
+      "name": "surs1516112s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516112s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516112S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila konj, Slovenija, večletno",
+      "name": "surs1516606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516606S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število ovc, kohezijski regiji, Slovenija, letno",
+      "name": "surs1517404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število koz, kohezijski regiji, Slovenija, letno",
+      "name": "surs1517405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8230",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci, površina, število vinogradov in število sadik glede na sedež kmetijskega gospodarstva, občine, Slovenija, 2009",
+      "name": "surs1528307s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528307s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528307S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba fitofarmacevtskih sredstev za žita (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, večletno",
+      "name": "surs1570807s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570807s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570807S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba fitofarmacevtskih sredstev za nekatere kulture (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, večletno",
+      "name": "surs1570808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570808S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva - splošni pregled, statistične regije, Slovenija, večletno",
+      "name": "surs1573801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, občine, Slovenija, 2010, 2020",
+      "name": "surs15p7201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg vloženega dela v polnovrednih delovnih močeh [PDM] po velikostnih razredih kmetijskih zemljišč v uporabi [KZU], Slovenija, 2000, 2003, 2005, 2007, 2010, 2013, 2016",
+      "name": "surs1516102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prašiči, bilanca števila, prireja mesa, Slovenija, letno",
+      "name": "surs1517302s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517302s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517302S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina in število nasadov, vinorodne dežele, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528309s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528309s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528309S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje krompirja (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine, statistične regije, Slovenija, večletno",
+      "name": "surs1573804s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573804s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573804S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bivalni objekti goved (vzorčni podatki, EU-prag za zajem, 2020), kohezijski in statistične regije, Slovenija, 2020",
+      "name": "surs1585701s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585701s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585701S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p3203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM], po izvoru delovne sile, po kohezijskih regijah, Slovenija, 2010",
+      "name": "surs15p4003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, dreves, neto ter bruto površina nekaterih pomembnejših sadnih vrst in oljk, Slovenija, večletno",
+      "name": "surs15p6509s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6509s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6509S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina gozda in drugih gozdnih zemljišč (1000 ha), Slovenija, letno",
+      "name": "surs1622710s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622710s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622710S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število strojev gozdarske mehanizacije in opreme, poslovni subjekti, Slovenija, letno",
+      "name": "surs1671502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1671502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1671502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8236",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodnja gozdnih lesnih sortimentov (1000 m3), Slovenija, letno",
+      "name": "surs1673145s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673145s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673145S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količina doma porabljenih živil in pijač na člana gospodinjstva, letno povprečje, Slovenija, večletno",
+      "name": "surs0878705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0878705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0878705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7782",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število pridelovalcev, število intenzivnih nasadov ter bruto površina sadnega drevja in jagodičja [brez oljk] po upravnih enotah, Slovenija, 2002, 2007",
+      "name": "surs1506815s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1506815s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1506815S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic, jagod, gojenih gob, fižola za zrnje, sadik in zelišč po različnih kategorijah po statističnih regijah [SKTE 3], Slovenija, 2000 - 2006",
+      "name": "surs1512431s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1512431s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1512431S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava okrasnih rastlin, Slovenija, 2000 - 2006",
+      "name": "surs1512435s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1512435s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1512435S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM] (vzorčni podatki, EU-prag za zajem, 2020), po izvoru delovne sile, kohezijski regiji, Slovenija, 2020",
+      "name": "surs1516117s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516117s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516117S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posevki na njivah, osnovna površina, Slovenija, večletno",
+      "name": "surs1516503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prodaja fitofarmacevtskih sredstev po kemijskih razredih (kg aktivnih snovi) - nova EU klasifikacija, Slovenija, letno",
+      "name": "surs1517200s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517200s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517200S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8177",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina, število vinogradov in število sadik glede na zatravljenost tal, vinorodne dežele in okoliši, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528327s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528327s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528327S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev po tehnikah nanašanja gnoja, gnojevke in gnojnice na kmetijska zemljišča v uporabi (vzorčni podatki, EU-prag za zajem, 2020), Slovenija, 2020",
+      "name": "surs1585706s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585706s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585706S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila prašičev, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine gozda, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2124s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2124s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2124S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna gozdarska in druga mehanizacija in oprema po velikostnih razredih površine gozdov, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3060s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3060s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3060S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema po velikostnih razredih GVŽ, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število lastnih dvoosnih traktorjev po velikostnih razredih števila lastnih dvoosnih traktorjev, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3115s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3115s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3115S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, dreves ali grmov ter bruto in neto površina po sadnih vrstah, Slovenija, večletno",
+      "name": "surs15p6501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obnova, nega in varstvo gozdov po lastništvu gozda, Slovenija, letno",
+      "name": "surs1673125s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673125s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673125S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sanitarna sečnja (m3), Slovenija, letno",
+      "name": "surs1673140s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673140s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673140S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pomembnejši kazalniki ekonomskih računov v kmetijstvu (tekoče cene), Slovenija, letno",
+      "name": "sursh191s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh191s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H191S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7786",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prodaja fitofarmacevtskih sredstev (kg aktivnih snovi) po glavnih skupinah, Slovenija, letno",
+      "name": "sursh199s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh199s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H199S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8177",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic, jagod, gojenih gob, fižola za zrnje, sadik in zelišč po statističnih regijah [SKTE 3], Slovenija, 2000 - 2006",
+      "name": "surs1512430s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1512430s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1512430S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava zelenjadnic po vrstah na prostem in v zaščitenem prostoru, Slovenija, 2000 - 2006",
+      "name": "surs1512434s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1512434s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1512434S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev po ekonomski velikosti in tipu kmetovanja, Slovenija, večletno",
+      "name": "surs1516404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci, površina, število vinogradov in število sadik po velikostnih razredih pridelovalcev, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528310s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528310s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528310S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina vinogradov in število sadik po starostnih razredih, vinorodne dežele in okoliši, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528313s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528313s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528313S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci in površina vinogradov po pridelku na hektar glede na sedež kmetijskega gospodarstva, kohezijski regiji, Slovenija, 2009",
+      "name": "surs1528329s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528329s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528329S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje zelenjave (1000 t), tržno leto, Slovenija, letno",
+      "name": "surs1563404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje riža (1000 t), koledarsko leto, Slovenija, letno",
+      "name": "surs1563507s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563507s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563507S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba fitofarmacevtskih sredstev za vinograde in sadovnjake (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, večletno",
+      "name": "surs1570809s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570809s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570809S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva s površino z ekološkim pomenom, Slovenija, 2016",
+      "name": "surs1579835s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1579835s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1579835S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bivalni objekti kokoši nesnic (vzorčni podatki, EU-prag za zajem, 2020), kohezijski in statističnih regijah, Slovenija, 2020",
+      "name": "surs1585702s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585702s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585702S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bivalni objekti prašičev (vzorčni podatki, EU-prag za zajem, 2020), kohezijski in statistične regije, Slovenija, 2020",
+      "name": "surs1585703s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585703s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585703S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Objekti in zmogljivosti za skladiščenje živinskih gnojil (vzorčni podatki, EU-prag za zajem, 2020), kohezijski in statistične regije, Slovenija, 2020",
+      "name": "surs1585704s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585704s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585704S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uvoz in izvoz živinskih gnojil na / iz kmetijskega gospodarstva (vzorčni podatki, EU-prag za zajem, 2020), Slovenija, 2020",
+      "name": "surs1585705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1585705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1585705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, skupni KZU, GVŽ in povprečni GVŽ na ha KZU, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0314s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0314s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0314S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine po vrstah in kategorijah živali, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila čebeljih družin, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1111s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1111s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1111S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Molzna oprema po velikostnih razredih kategorij goveje živine, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3020s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3020s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3020S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dopolnilne dejavnosti na družinskih kmetijah, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p4018s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4018s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4018S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, KZU in ekonomska velikost po tipih kmetovanja, kohezijski regiji, Slovenija, 2010, 2020",
+      "name": "surs15p7005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina gozda in drugih gozdnih zemljišč (mio EUR), Slovenija, letno",
+      "name": "surs1622715s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622715s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622715S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodnja gozdarske dejavnosti po tipu proizvodnje (mio EUR), Slovenija, letno",
+      "name": "surs1622735s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622735s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622735S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa po vrstah sečnje (m3), Slovenija, letno",
+      "name": "surs1673135s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673135s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673135S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakanje po vrstah zemljišč, Slovenija, letno",
+      "name": "surs2722203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, ki imajo posamezno vrsto živine, Slovenija, večletno",
+      "name": "sursh195s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh195s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H195S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba rastlinskih makrohranil iz mineralnih gnojil v kmetijstvu, Slovenija, letno",
+      "name": "sursh198s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh198s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H198S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7798",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odkup kravjega mleka na kmetijskih gospodarstvih, po velikostnih razredih odkupljenega mleka (t), Slovenija, letno",
+      "name": "surs1514507s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514507s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514507S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11895",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila prašičev, Slovenija, večletno",
+      "name": "surs1516605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila pitovnih piščancev, Slovenija, večletno",
+      "name": "surs1516607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516607S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Športni sladkovodni ribolov v kilogramih, Slovenija, letno",
+      "name": "surs1519103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Akvakultura - vzreja vodnih organizmov v kilogramih, Slovenija, 1990 - 2011",
+      "name": "surs1519192s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519192s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519192S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina vinogradov in število sadik glede na gojitveno obliko, vinorodne dežele, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528319s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528319s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528319S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakane površine in količine potrebne vode za namakanje, Slovenija, 2009",
+      "name": "surs1530402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1530402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1530402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število ekoloških kmetijskih gospodarstev in kmetijskih gospodarstev v preusmeritvi, Slovenija, letno",
+      "name": "surs1561901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živali v ekološki reji, po vrsti živali, Slovenija, letno",
+      "name": "surs1561903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561903S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološko vzrejeni vodni organizmi, po vrsti organizmov, Slovenija, letno",
+      "name": "surs1561904s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561904s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561904S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8142",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba fitofarmacevtskih sredstev na izbranih kmetijskih površinah (kg) in tretirane površine (ha), Slovenija, večletno",
+      "name": "surs1570805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570805S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva - splošni pregled po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p0202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva - splošni pregled po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p0302s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0302s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0302S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen kmetijske pridelave, po občinah, Slovenija, 2010",
+      "name": "surs15p0415s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0415s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0415S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine po vrstah in kategorijah živali, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1000s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1000s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1000S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine po vrstah in kategorijah živali, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila prašičev, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površin trajnih travnikov in pašnikov, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2019s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2019s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2019S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po vrsti rabe vseh zemljišč v uporabi, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p2112s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2112s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2112S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih kmetijskih zemljišč v uporabi [KZU], po občinah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2211s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2211s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2211S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na družinskih kmetijah v polnovrednih delovnih močeh [PDM] v gozdarstvu po velikostnih razredih gozda, po kohezijskih regijah, Slovenija, 2010",
+      "name": "surs15p4023s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4023s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4023S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM] po velikostnih razredih kmetijskih zemljišč v uporabi [KZU], po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p4105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, nasadov, dreves ali grmov ter bruto in neto površina intenzivnih sadovnjakov, statistične regije, Slovenija, večletno",
+      "name": "surs15p6502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, neto in bruto površina ter število dreves breskev, nektarin in marelic po starosti, Slovenija, večletno",
+      "name": "surs15p6505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zaloge lesa v gozdu in na drugih gozdnih zemljiščih (mio EUR), Slovenija, letno",
+      "name": "surs1622725s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622725s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622725S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa na kmetijskih gospodarstvih po namenu uporabe, Slovenija, večletno",
+      "name": "surs1679105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1679105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1679105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9584",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupine zemljiških kategorij in njivskih posevkov (ha) po kohezijskih regijah, Slovenija, letno",
+      "name": "surs1502408s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502408s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502408S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelava pomembnejših kmetijskih kultur, po kohezijskih regijah, Slovenija, letno",
+      "name": "surs1502409s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502409s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502409S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci in neto površina nasadov jablan in hrušk po gostoti sajenja dreves, Slovenija, 2002, 2007, 2012",
+      "name": "surs1506806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1506806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1506806S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost, KZU, GVŽ in PDM po velikostnih razredih ekonomske velikosti, Slovenija, večletno",
+      "name": "surs1516401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost in po tipih kmetovanja, Slovenija, večletno",
+      "name": "surs1516402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih kmetijskih zemljišč v uporabi [KZU], Slovenija, večletno",
+      "name": "surs1516502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila krav molznic, Slovenija, večletno",
+      "name": "surs1516604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516604S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prodaja pesticidov po kemijskih razredih (kg) - stara EU klasifikacija, Slovenija, 2011 - 2015",
+      "name": "surs1517202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8177",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ovce, prireja mesa, mleka in volne, Slovenija, letno",
+      "name": "surs1517304s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517304s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517304S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Koze, prireja mesa in mleka, Slovenija, letno",
+      "name": "surs1517305s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517305s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517305S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Morski prostočasni ribolov v kilogramih, Slovenija, letno",
+      "name": "surs1519107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pridelovalci, površina, število vinogradov in število sadik glede na sedež kmetijskega gospodarstva, kohezijski regiji, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528303s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528303s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528303S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakalne površine in dejansko namakane površine na prostem, kohezijski regiji, Slovenija, 2009",
+      "name": "surs1530401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1530401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1530401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, splošni pregled, Slovenija, večletno",
+      "name": "surs1556001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1556001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1556001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po tipu kmetovanja in kohezijskih regijah [uporabljeni SGM koeficienti], Slovenija, 2007",
+      "name": "surs1560028s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560028s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560028S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje krompirja (1000 t), tržno leto, Slovenija, letno",
+      "name": "surs1563402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Bilanca proizvodnje in potrošnje sladkorja (1000 t), tržno leto, Slovenija, letno",
+      "name": "surs1563403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1563403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1563403S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9744",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov za zeleno krmo z njiv (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, 2014",
+      "name": "surs1570823s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570823s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570823S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupna in kmetijska zemljišča kmetijskih gospodarstev, statistične regije, Slovenija, večletno",
+      "name": "surs1573802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573802S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost, KZU, GVŽ in PDM po velikostnih razredih ekonomske velikosti, statistične regije, Slovenija, večletno",
+      "name": "surs1573805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573805S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po tipu kmetovanja in statističnih regijah [uporabljeni SGM koeficienti], Slovenija, 2003, 2005, 2007",
+      "name": "surs1573808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573808S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen kmetijske pridelave po kohezijskih regijah, Slovenija, 2010",
+      "name": "surs15p0215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg dela na družinskih kmetijah v kmetijstvu in dejavnostih povezanih s kmetijskim gospodarstvom, Slovenija, 2010",
+      "name": "surs15p0220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih glav velike živine [GVŽ], po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0312s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0312s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0312S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ki redijo živino, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0313s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0313s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0313S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen kmetijske pridelave, po statističnih regijah, Slovenija, 2010",
+      "name": "surs15p0315s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0315s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0315S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila plemenskih svinj, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1004S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila perutnine, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1008s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1008s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1008S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila plemenskih ovc in koz, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila kuncev, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1112s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1112s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1112S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po rabi vseh in kmetijskih zemljišč v uporabi, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva z vinogradi, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2007s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2007s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2007S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po vrsti rabe vseh zemljišč v uporabi, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2012s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2012s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2012S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine vinogradov, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2021s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2021s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2021S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva z vinogradi, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema po velikostnih razredih GVŽ, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3010s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3010s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3010S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva (KMG) glede na uporaba računalnika, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3025s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3025s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3025S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna gozdarska in druga mehanizacija in oprema na kmetijskih gospodarstvih [KMG], po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3050s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3050s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3050S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna in skupna kmetijska mehanizacija in oprema, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Molzna oprema po velikostnih razredih kategorij goveje živine, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3120s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3120s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3120S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM], po izvoru delovne sile, po statističnih regijah, Slovenija, 2010",
+      "name": "surs15p4103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število dreves ter bruto površina po gojitvenih oblikah in sadnih vrstah, Slovenija, večletno",
+      "name": "surs15p6510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število dreves ter bruto površina po podlagah in sadnih vrstah, Slovenija, večletno",
+      "name": "surs15p6511s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6511s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6511S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, nasadov, dreves ali grmov in bruto površina po namakanju, protitočni zaščiti ter napravi sadovnjaka, Slovenija, večletno",
+      "name": "surs15p6516s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6516s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6516S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost po tipih kmetovanja, velikostnih razredih ekonomske velikosti, kohezijski regiji, Slovenija, 2010, 2020",
+      "name": "surs15p7015s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7015s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7015S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost, KZU, GVŽ in PDM po velikostnih razredih ekonomske velikosti, statistične regije, Slovenija, 2010, 2020",
+      "name": "surs15p7101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, KZU in ekonomska velikost po tipih kmetovanja, statistične regije, Slovenija, 2010, 2020",
+      "name": "surs15p7105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raba kmetijskih zemljišč, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p9001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ponudba nepredelanih gozdarskih proizvodov po vrsti dejavnosti (mio EUR), Slovenija, letno",
+      "name": "surs1622740s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622740s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622740S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba nepredelanih gozdarskih proizvodih po vrsti dejavnosti (mio EUR), Slovenija, letno",
+      "name": "surs1622745s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622745s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622745S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ponudba nepredelanih gozdarskih proizvodov po vrsti dejavnosti (1000 m3 s skorjo), Slovenija, letno",
+      "name": "surs1622750s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622750s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622750S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obnova, nega in varstvo gozdov po vrstah del, Slovenija, letno",
+      "name": "surs1673120s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673120s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673120S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odkup pomembnejših kmetijskih pridelkov, Slovenija, 2000 - 2012",
+      "name": "surs1505092s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1505092s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1505092S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7799",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM], po izvoru delovne sile, Slovenija, 2000, 2003, 2005, 2007, 2010, 2013, 2016",
+      "name": "surs1516101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa na družinskih kmetijah po namenu uporabe, Slovenija, večletno",
+      "name": "surs1516201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine, Slovenija, večletno",
+      "name": "surs1516602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prodaja pesticidov [kg], Slovenija, 1997 - 2011",
+      "name": "surs1517201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8177",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina vinogradov in število sadik glede na podlage, vinorodne dežele, Slovenija, 2009, 2015, 2020",
+      "name": "surs1528321s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1528321s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1528321S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8222",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakane površine in potrebe po vodi po načinu namakanja, Slovenija, 2009",
+      "name": "surs1530403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1530403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1530403S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakane površine in potrebe po vodi po vodnem viru, Slovenija, 2009",
+      "name": "surs1530404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1530404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1530404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva - splošni pregled, kohezijski regiji, Slovenija, večletno",
+      "name": "surs1560021s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560021s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560021S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupna in kmetijska zemljišča kmetijskih gospodarstev, kohezijski regiji, Slovenija, večletno",
+      "name": "surs1560022s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560022s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560022S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost, KZU, GVŽ in PDM po velikostnih razredih ekonomske velikosti, kohezijski regiji, Slovenija, večletno",
+      "name": "surs1560025s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560025s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560025S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih ekonomske velikosti [ESU] [uporabljeni SGM koeficienti], kohezijski regiji, Slovenija, 2007",
+      "name": "surs1560027s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560027s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560027S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba fitofarmacevtskih sredstev na izbranih kmetijskih površinah (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, večletno",
+      "name": "surs1570806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570806S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov na kmetijskih zemljiščih v uporabi (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, 2014",
+      "name": "surs1570820s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570820s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570820S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov za nekatere skupine kultur z njiv (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, 2014",
+      "name": "surs1570822s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570822s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570822S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Poraba pesticidov v trajnih nasadih (kg) in tretirane površine (ha) po aktivnih snoveh, Slovenija, 2014",
+      "name": "surs1570824s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1570824s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1570824S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8735",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih kmetijskih zemljišč v uporabi [KZU] in statističnih regijah, Slovenija, večletno",
+      "name": "surs1573803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost in KZU po tipu kmetovanja, statistične regije, Slovenija, večletno",
+      "name": "surs1573806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573806S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih ekonomske velikosti [ESU] in statističnih regijah [uporabljeni SGM koeficienti], Slovenija, 2003, 2005, 2007",
+      "name": "surs1573807s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1573807s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1573807S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih glav velike živine [GVŽ], po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p0212s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0212s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0212S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ki redijo živino, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p0413s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p0413s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P0413S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila goveda, krav, krav molznic in drugih krav, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila konj, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila drobnice, ovc in koz, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1006s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1006s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1006S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila plemenskih ovc in koz, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1007s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1007s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1007S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila pitovnih piščancev, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1009s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1009s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1009S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila kokoši nesnic, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1010s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1010s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1010S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila lihoprstnih kopitarjev, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p1105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p1105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P1105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po rabi vseh in kmetijskih zemljišč v uporabi, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2000s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2000s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2000S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po številu dreves v kmečkih sadovnjakih, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p2006s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2006s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2006S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva z gojenimi gobami, Slovenija, 2000, 2010",
+      "name": "surs15p2008s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2008s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2008S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih in vrsti rabe vseh zemljišč v uporabi, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2011s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2011s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2011S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine njiv in poljščin, po kohezijskih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2014s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2014s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2014S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine sadovnjakov, Slovenija, 2010, 2020",
+      "name": "surs15p2020s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2020s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2020S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine gozda, Slovenija, po kohezijskih regijah, 2000, 2010, 2020",
+      "name": "surs15p2024s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2024s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2024S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po rabi vseh in kmetijskih zemljišč v uporabi, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po številu dreves v kmečkih sadovnjakih, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p2106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površin trajnih travnikov in pašnikov, po statističnih regijah, Slovenija, 2000, 2010, 2020",
+      "name": "surs15p2119s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2119s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2119S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po številu dreves v kmečkih sadovnjakih, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p2206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p2206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P2206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna in skupna kmetijska mehanizacija in oprema, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema po velikostnih razredih KZU, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna kmetijska mehanizacija in oprema po velikostnih razredih KZU, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna gozdarska in druga mehanizacija in oprema na kmetijskih gospodarstvih, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3150s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3150s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3150S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna gozdarska in druga mehanizacija in oprema po velikostnih razredih površine gozdov, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p3160s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3160s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3160S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lastna gozdarska in druga mehanizacija in oprema, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p3250s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p3250s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P3250S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na družinskih kmetijah v polnovrednih delovnih močeh [PDM] v gozdarstvu po izvoru dela, po kohezijskih regijah, Slovenija, 2010",
+      "name": "surs15p4021s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4021s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4021S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na družinskih kmetijah v polnovrednih delovnih močeh [PDM] v gozdarstvu po izvoru dela, po statističnih regijah, Slovenija, 2010",
+      "name": "surs15p4121s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4121s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4121S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na družinskih kmetijah v polnovrednih delovnih močeh [PDM] v gozdarstvu, po velikostnih razredih gozda, po statističnih regijah, Slovenija, 2010",
+      "name": "surs15p4123s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4123s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4123S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na kmetijskih gospodarstvih v polnovrednih delovnih močeh [PDM], po velikostnih razredih kmetijskih zemljišč v uporabi [KZU], po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p4205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela na družinskih kmetijah v polnovrednih delovnih močeh [PDM] v gozdarstvu, po občinah, Slovenija, 2010",
+      "name": "surs15p4221s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p4221s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P4221S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa na družinskih kmetijah po namenu uporabe, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p5001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p5001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P5001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa na družinskih kmetijah po namenu uporabe, po velikostnih razredih površine gozda, Slovenija, 2000, 2010",
+      "name": "surs15p5002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p5002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P5002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Posek lesa na družinskih kmetijah po namenu uporabe, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p5101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p5101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P5101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število nasadov, bruto površina in število dreves breskev, nektarin in marelic po gostoti sajenja, Slovenija, večletno",
+      "name": "surs15p6507s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6507s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6507S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število kmetijskih gospodarstev, ki namakajo in namakana bruto površina intenzivnih sadovnjakov po načinu namakanja, Slovenija, večletno",
+      "name": "surs15p6514s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6514s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6514S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, ekonomska velikost, KZU, GVŽ in PDM po velikostnih razredih ekonomske velikosti, kohezijski regiji, Slovenija, 2010, 2020",
+      "name": "surs15p7001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodarjev-upraviteljev po starostnih razredih in tipih kmetovanja, statistične regije, Slovenija, 2010, 2020",
+      "name": "surs15p7111s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7111s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7111S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela v kmetijstvu [PDM], po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p9003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Mehanizacija na kmetijskih gospodarstvih, po kohezijskih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p9005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela v kmetijstvu [PDM], po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p9103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Mehanizacija na kmetijskih gospodarstvih, po statističnih regijah, Slovenija, 2000, 2010",
+      "name": "surs15p9105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vložek dela v kmetijstvu [PDM], po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p9203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Mehanizacija na kmetijskih gospodarstvih, po občinah, Slovenija, 2000, 2010",
+      "name": "surs15p9205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p9205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P9205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zaloge lesa v gozdu in na drugih gozdnih zemljiščih (1000 m3 s skorjo), Slovenija, letno",
+      "name": "surs1622720s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1622720s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1622720S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8195",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gospodarske dejavnosti v ribištvu, Slovenija, letno",
+      "name": "sursh201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Jesenska setev ozimnih žit in oljne ogrščice (ha), Slovenija, letno",
+      "name": "surs1502411s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502411s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502411S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sortni pregled nekaterih pomembnejših sadnih vrst in oljk, Slovenija, 1997, 2002",
+      "name": "surs1506803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1506803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1506803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namakane površine intenzivnih sadovnjakov in oljčnikov po nekaterih sadnih vrstah, Slovenija, 2002, 2007",
+      "name": "surs1506808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1506808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1506808S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8221",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prireja in odkup kravjega mleka na kmetijskih gospodarstvih (t), kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs1514506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514506S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11895",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, SGM, KZU in GVŽ po velikostnih razredih ekonomske velikosti [ESU] [uporabljeni SGM koeficienti], Slovenija, 2003, 2005, 2007",
+      "name": "surs1516491s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516491s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516491S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva, KZU in SGM po tipih kmetovanja [uporabljeni SGM koeficienti], Slovenija, 2003, 2005, 2007",
+      "name": "surs1516492s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516492s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516492S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih površine njiv, Slovenija, večletno",
+      "name": "surs1516504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kmetijska gospodarstva po velikostnih razredih števila goveda, Slovenija, večletno",
+      "name": "surs1516603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1516603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1516603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število živine, kohezijski regiji, Slovenija, večletno",
+      "name": "surs1560024s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1560024s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1560024S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen kmetijskih pridelkov pri pridelovalcih (mesec / povprečje leta 2020), Slovenija, mesečno",
+      "name": "surs0410811s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0410811s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0410811S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7809",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen kmetijskih pridelkov pri pridelovalcih (leto / povprečje leta 2020), Slovenija, letno",
+      "name": "surs0410812s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0410812s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0410812S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7809",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Napoved povprečnega pridelka pomembnejših kmetijskih kultur, Slovenija, letno",
+      "name": "surs1502412s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1502412s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1502412S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8196",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena zakola živine izven klavnic, Slovenija, mesečno",
+      "name": "surs1505803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1505803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1505803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8231",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen inputov v kmetijstvu (mesec / povprečje leta 2020), Slovenija, mesečno",
+      "name": "surs1514003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8165",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi cen inputov v kmetijstvu (leto / povprečje leta 2020), Slovenija, letno",
+      "name": "surs1514004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1514004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1514004S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8165",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Februarska napoved bruto domače proizvodnje goveda za zakol, Slovenija, polletno",
+      "name": "surs1517308s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517308s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517308S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Februarska napoved bruto domače proizvodnje prašičev za zakol, Slovenija, četrtletno",
+      "name": "surs1517309s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1517309s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1517309S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8232",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekonomski računi za kmetijstvo po proizvodih in vrednostih v tekočih cenah (mio. EUR), kohezijski regiji, Slovenija, letno",
+      "name": "surs1561504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1561504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1561504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7786",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodarjev-upraviteljev po starostnih razredih in tipih kmetovanja, kohezijski regiji, Slovenija, 2010, 2020",
+      "name": "surs15p7011s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p7011s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P7011S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8225",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Kmetijstvo. ribištvo. gozdarstvo in prehrana",
+    "open_data": true
+  }
+}

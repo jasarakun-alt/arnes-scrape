@@ -1,0 +1,4634 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Okolje in prostor\" AND open_data:true",
+  "total_datasets": 395,
+  "datasets": [
+    {
+      "title": "Stavbe, za katere so bila izdana gradbena dovoljenja, Slovenija, mesečno",
+      "name": "surs1970713s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970713s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970713S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Varstveni režimi kulturne dediščine (eVrd)",
+      "name": "varstveni-rezimi-kulturne-dediscine-evrd",
+      "dataset_url": "https://podatki.gov.si/data/dataset/varstveni-rezimi-kulturne-dediscine-evrd",
+      "links": {
+        "html": [
+          "https://eprostor.gov.si/imps/srv/slv/catalog.search#/metadata/3873f3c0-03d9-4410-b730-4f72bd7c9bff",
+          "https://geohub.gov.si/ghapp/giskd/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam izdanih pooblastil za bonitiranje",
+      "name": "seznam-izdanih-pooblastil-za-bonitiranje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-izdanih-pooblastil-za-bonitiranje",
+      "links": {
+        "html": [
+          "https://www.e-prostor.gov.si/podrocja/parcele-in-stavbe/kataster-nepremicnin/?acitem=1714-2251",
+          "https://www.gov.si/drzavni-organi/organi-v-sestavi/geodetska-uprava/"
+        ],
+        "csv": [
+          "https://www.e-prostor.gov.si/fileadmin/Podrocja/Parcele_stavbe/Kataster_nepremicnin/Podatki_o_parcelah/Bonitiranje/SEZNAM_IZDANIH_POOBLASTIL_za_bonitiranje_dec2025.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število stavb, za katera so bila izdana gradbena dovoljenja, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe, statistične regije, Slovenija, mesečno",
+      "name": "surs1970712s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970712s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970712S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Podatki o kakovosti zunanjega zraka in padavin – PM10, O3, SO2, CO, NOx, VOC, sestava delcev, kakovost padavin, napoved ravni onesnaževal",
+      "name": "podatki-o-kakovosti-zunanjega-zraka-in-padavin-pm10-o3-so2-co-nox-voc-sestava-delcev-kakovost-padavi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/podatki-o-kakovosti-zunanjega-zraka-in-padavin-pm10-o3-so2-co-nox-voc-sestava-delcev-kakovost-padavi",
+      "links": {
+        "html": [
+          "http://www.arso.gov.si/zrak/kakovost%20zraka/poro%C4%8Dila%20in%20publikacije/",
+          "http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/"
+        ],
+        "xml": [
+          "http://www.arso.gov.si/xml/zrak/ones_zrak_urni_podatki_zadnji.xml",
+          "http://www.arso.gov.si/xml/zrak/ones_zrak_dnevni_podatki_zadnji.xml"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po številu sob, občine, Slovenija, večletno",
+      "name": "surs0861106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pohodniške poti v občini Vrhnika",
+      "name": "pohodniske-poti-v-obcini-vrhnika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/pohodniske-poti-v-obcini-vrhnika",
+      "links": {
+        "html": [
+          "http://www.vrhnika.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/bb6cf688-ae34-467b-b0ec-719ebc058b3c/resource/905576c6-268c-4a57-87fe-3122fe25d9ef/download/pohodniskepotivrhnika.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije zbiralnikov odpadnega jedilnega olja v občini Sevnica",
+      "name": "lokacije-zbiralnikov-odpadnega-jedilnega-olja-v-obcini-sevnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-zbiralnikov-odpadnega-jedilnega-olja-v-obcini-sevnica",
+      "links": {
+        "html": [
+          "https://www.google.com/maps/d/edit?mid=1HY0Ve_vDRirvAl71r_H-IPDS-Sj5ObIC&usp=sharing"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/83c7e79c-eff6-4e99-8de3-c1942ba86188/resource/84f76597-64d8-4e9e-9351-4df81b08aae5/download/lokacijezbiralnikovzaodpadnojedilnooljevobinisevnica.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije ekoloških otokov v občini Sevnica",
+      "name": "lokacije-ekoloskih-otokov-v-obcini-sevnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-ekoloskih-otokov-v-obcini-sevnica",
+      "links": {
+        "html": [
+          "https://www.komunala-sevnica.si/odpadki",
+          "https://www.google.com/maps/d/edit?mid=1XfvoOJcsVuMEadBky3BlIrvrPFg-6jI4&usp=sharing"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/6ab6a37a-3f94-4261-b779-ebdac00a0f19/resource/a7b950b1-5748-4dc8-b37a-0bca81bebbf7/download/lokacijeekolokihotokovvobinisevnica.csv"
+        ]
+      }
+    },
+    {
+      "title": "Uvoz, izvoz odpadkov (tone) po vrsti odpadkov, Slovenija, letno",
+      "name": "surs2706318s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706318s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706318S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Radovljica",
+      "name": "ekoloski-otoki-v-obcini-radovljica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-radovljica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c9e045df-33a2-4a99-8713-40883760041a/resource/2fe4a188-7dea-4154-8fa6-17d410473ea4/download/012ob012radovljicaseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam turističnih točk v Občini Hrastnik",
+      "name": "seznam-turisticnih-tock-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-turisticnih-tock-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/",
+          "https://visithrastnik.si/",
+          "https://krc-hrastnik.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/14f0ddc3-9544-4975-b46a-10ab8d5b3c3f/resource/d06e2371-ccfb-4aa6-8923-0dcea8c1b192/download/seznamturisticnihtockvobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Register gensko spremenjenih organizmov",
+      "name": "register-gensko-spremenjenih-organizmov",
+      "dataset_url": "https://podatki.gov.si/data/dataset/register-gensko-spremenjenih-organizmov",
+      "links": {}
+    },
+    {
+      "title": "Seznam ekoloških otokov v Mestni občini Novo mesto",
+      "name": "seznam-ekoloskih-otokov-v-mestni-obcini-novo-mesto",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-mestni-obcini-novo-mesto",
+      "links": {
+        "html": [
+          "https://novomesto.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/4e6b0e53-3a0c-4168-b797-519afdbd2723/resource/dce8c5c6-4b00-4e58-80ac-18e9190e77c4/download/novomestoopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbirka ekoloških otokov v Občini Trzin",
+      "name": "obcina_trzin_ekoloski_otoki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obcina_trzin_ekoloski_otoki",
+      "links": {
+        "html": [
+          "https://www.prodnik.si/ekoloski-otoki"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/de791aac-d99d-4452-b733-6138c65b88ec/resource/2940888c-5639-484b-99f8-18dddf943377/download/03obcinatrzinekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Turistične točke v Občini Trzin",
+      "name": "obcina_trzin_turisticne_tocke",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obcina_trzin_turisticne_tocke",
+      "links": {
+        "html": [
+          "https://odmestadovasi.si/trzin"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/6c539675-30b0-4a55-9ece-5e81f18429ec/resource/a316e35b-a1a0-4881-8927-15b9da787555/download/06obcinatrzinturisticnetocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "ekološki otoki",
+      "name": "ekoloski-otoki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f0444225-8b7b-499d-90d2-3a0eb7ee9fdd/resource/3d9df2ea-f67f-4974-9eb6-e0529b0bc82b/download/seznamzbirkekootoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Kranjska Gora",
+      "name": "ekoloski-otoki-v-obcini-kranjska-gora",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-kranjska-gora",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/7bf743c4-39da-4c0e-99ce-f11741852ffa/resource/792f786d-6201-4d6e-a4a7-312b5dd7f22d/download/012ob009kranjskagoraseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Območja invazivnih tujerodnih vrst v Občini Hrastnik",
+      "name": "obmocja-invazivnih-tujerodnih-vrst-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocja-invazivnih-tujerodnih-vrst-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/",
+          "https://www.invazivke.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/97880668-46d0-4eed-a17b-da3707db9a30/resource/e54d4414-4abf-4635-88b9-6793ba9ffb1c/download/obmocjainvazivnihtujerodnihvrstvobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Cerklje na Gorenjskem",
+      "name": "ekoloski-otoki-v-obcini-cerklje-na-gorenjskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-cerklje-na-gorenjskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/82465af2-521a-4550-a827-38c8b0ba0d0f/resource/fc10b62d-a464-48f0-9e64-ab54c03074be/download/012ob003cerkljenagorenjskemseznamekoloskihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Velike Lašče",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-velike-lasce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-velike-lasce",
+      "links": {
+        "html": [
+          "https://obcina.velike-lasce.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/9d91814d-20fe-49f1-b4b6-13099edf4a9a/resource/0c695cf2-f0ed-490d-8f20-3a7e9ebbca7c/download/008ob009velikelascekoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Kostel",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-kostel",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-kostel",
+      "links": {
+        "html": [
+          "https://www.kostel.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/7425f0f6-33ca-410e-8cbe-ede6968ec0aa/resource/60365a94-3915-4d91-aac4-f9f395ad3990/download/007ob003kostelzbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v Občini Dol pri Ljubljani",
+      "name": "ekoloski-otoki-v-obcini-dol-pri-ljubljani",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-dol-pri-ljubljani",
+      "links": {
+        "html": [
+          "https://www.dol.si/sl/content/lokalno/komunalne-storitve.html"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/6adde106-639f-46c1-8def-a78f20457b35/resource/4a6ad6fd-984b-483f-9934-d8e27a0c73ee/download/ekolokiotokivobinidolpriljubljani.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Trebnje",
+      "name": "seznam-ekoloskih-otokov-v-obcini-trebnje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-trebnje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d30d5665-7cbe-4fb2-9cd5-43f8546b7ed2/resource/34e02bc3-93d9-4cb3-b0d4-fd2c83b1299b/download/trebnjeopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja glede na površino in število sob, povprečna površina stanovanj in povprečno število sob, naselja, Slovenija, popis 2002",
+      "name": "surs05w0606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0606S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Mengeš",
+      "name": "ekoloski-otoki-v-obcini-menges",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-menges",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a4f413fc-556c-4f90-8b50-02f645b37a65/resource/d6148e87-c33b-4542-a0fc-d1ba6a2deeba/download/ekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Javne klopi v občini Menges",
+      "name": "javne-klopi-v-obcini-menges",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-klopi-v-obcini-menges",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/e22c0b9c-aa4d-4f85-be1b-33df8bd8206e/resource/4c04f479-5188-46ff-83bc-8ed8a2a0f1d5/download/javneklopi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Velike Lašče",
+      "name": "seznam-ekoloskih-otokov-v-obcini-velike-lasce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-velike-lasce",
+      "links": {
+        "html": [
+          "https://obcina.velike-lasce.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/a16d58b7-25a3-4764-bc84-f46bf1d0511d/resource/d6d806c0-fd61-4061-813a-2aa01cb1d699/download/005ob009velikelasceekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini  Mirna Peč",
+      "name": "seznam-ekoloskih-otokov-v-obcini-mirna-pec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-mirna-pec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/09d2ae33-83fc-473b-8d2f-f56c8f66d34b/resource/1e256e4e-5411-488e-843e-e34ed30e6355/download/mirnapecopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe v lasti Občine Litija",
+      "name": "stavbe-v-v-lasti-obcine-litija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/stavbe-v-v-lasti-obcine-litija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/sites/default/files/attachments/10%20Stavbe%20v%20ob%C4%8Dinski%20lasti%20Ob%C4%8Dine%20Litija.csv",
+          "https://podatki.gov.si/sites/default/files/attachments/Stavbe v občinski lasti Občine Litija.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih klopi v Občini Hrastnik",
+      "name": "seznam-javnih-klopi-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-klopi-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/",
+          "https://www.ksphrastnik.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/2e59c34f-3937-4afc-9eee-94cf562aa26d/resource/5d4f2ccc-7d36-4e86-9a97-30db430e5a10/download/seznamjavnihklopivobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki na območju občine AJDOVŠČINA-1",
+      "name": "ekoloski-otoki-na-obmocju-obcine-ajdovscina-1",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-na-obmocju-obcine-ajdovscina-1",
+      "links": {
+        "csv": [
+          "http://Ekološki otoki na območju občine Ajdovščina.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Naklo.",
+      "name": "ekoloski-otoki-v-obcini-naklo",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-naklo",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5146262c-0924-4553-907b-03bdd8bbd163/resource/ecd3a433-2db4-4d50-94b0-1e7a902f184f/download/012ob010nakloseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov s posodami",
+      "name": "seznam-ekoloskih-otokov-s-posodami",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-s-posodami",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a6bf2e87-fcfd-4939-9cd3-77df74e75def/resource/e9700e4b-ce27-4aeb-8ab3-7988a601ddc3/download/seznamekolokihotokovsposodami.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbirka ekoloških otokov v Občini Šentrupert",
+      "name": "zbirka-ekoloskih-otokov-v-obcini-sentrupert",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbirka-ekoloskih-otokov-v-obcini-sentrupert",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2f3050e2-16a2-4ee2-b22c-bddd1d51cb15/resource/d3cbd3a5-8403-499d-b3a7-2a8365309e7d/download/seznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije ekoloških otokov v Občini Mokronog-Trebelno",
+      "name": "lokacije-ekoloskih-otokov-v-obcini-mokronog-trebelno",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-ekoloskih-otokov-v-obcini-mokronog-trebelno",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/913932db-f51b-4b75-b543-31ec2d6e21e1/resource/7f0c243d-aba2-4a89-a5dd-349e7c4d3d66/download/lokacijeekoloskihotokovvobcinimokronogtrebelno.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam otroških igrišč v občini Šentrupert",
+      "name": "seznam-otroskih-igrisc-v-obcini-sentrupert",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-otroskih-igrisc-v-obcini-sentrupert",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/58c68f28-8a50-4669-b4ef-647e0ccc17ad/resource/cd211cba-25d5-4211-8d4a-e44a23a59833/download/spisekjavnihklopi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Turistične točke v Občini Šmartno pri Litiji",
+      "name": "turisticne-tocke-v-obcini-smartno-pri-litiji",
+      "dataset_url": "https://podatki.gov.si/data/dataset/turisticne-tocke-v-obcini-smartno-pri-litiji",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/9fbd7ea8-f4fc-464d-b41f-e9493332c4c2/resource/d1f94e87-ee1e-4191-8722-b3d7f1f8f301/download/najboljobiskanejavnetoketuristinegainteresa.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Kostel",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-kostel",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-kostel",
+      "links": {
+        "html": [
+          "https://www.kostel.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/445b643b-10b9-4f73-ba5d-919dac858958/resource/0a87d949-3b30-4575-a802-7b73e757bb06/download/008ob003kostelkolicinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Kočevje",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-kocevje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-kocevje",
+      "links": {
+        "html": [
+          "https://www.kocevje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/d2e06ad8-dc82-47c5-bb18-0c1747efbb2e/resource/e7851e2b-7bab-4cef-8fe0-c2e5ef7ceb33/download/006ob002koevjezbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Loški Potok",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-loski-potok",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-loski-potok",
+      "links": {
+        "html": [
+          "https://www.loski-potok.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/2e31c3bd-f6ae-4514-b911-da6dd723af5b/resource/d2bcfe2d-9424-4a0a-aa8b-987f7d981519/download/006ob004lokipotokzbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Ribnica",
+      "name": "seznam-ekoloskih-otokov-v-obcini-ribnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-ribnica",
+      "links": {
+        "html": [
+          "https://www.ribnica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/62145cf6-6013-4b89-a377-999bd6b0ba0d/resource/29f56df6-6875-427b-9ac6-7b82ca558339/download/005ob006ribnicaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Metlika",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-metlika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-metlika",
+      "links": {
+        "html": [
+          "https://www.metlika.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/64d226b9-d85b-4343-a1cf-57b036510c57/resource/188c37c5-b412-4363-bd30-447989f31c29/download/008ob005metlikakoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Črnomelj",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-crnomelj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-crnomelj",
+      "links": {
+        "html": [
+          "http://www.crnomelj.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/4b6e2980-7d16-4d23-bc95-36fe9e388926/resource/e5123ba6-3253-457e-88c4-c0975675ec92/download/006ob001rnomeljzbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi novogradenj (mesec / povprečje leta 2021), originalni podatki in podatki z izločenimi vplivi sezone in koledarja, Slovenija, mesečno",
+      "name": "surs1970714s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970714s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970714S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Loški Potok",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-loski-potok",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-loski-potok",
+      "links": {
+        "html": [
+          "https://www.loski-potok.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/2c814940-3c15-4eab-8c83-941605c2718e/resource/76b61224-d92b-4438-8eb0-d088c8e4b2c0/download/008ob004lokipotokkoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Sodražica",
+      "name": "seznam-ekoloskih-otokov-v-obcini-sodrazica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-sodrazica",
+      "links": {
+        "html": [
+          "https://sodrazica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/4595f51c-bb03-4ac7-a07e-40ab6929f1f0/resource/016f7268-8a50-4a4a-8a47-72939c7d22d5/download/005ob008sodraicaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Loški Potok",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-loski-potok",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-loski-potok",
+      "links": {
+        "html": [
+          "https://www.loski-potok.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/670e52a4-8482-4813-8ca9-8cab586e2716/resource/0674129a-3535-4d78-b0bc-1f3b8aa88baa/download/007ob004lokipotokzbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Semič",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-semic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-semic",
+      "links": {
+        "html": [
+          "https://www.semic.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/92e106fe-251b-4152-a2ad-a658056eccd4/resource/543add69-3410-4fc5-8b58-8cb7cc8267f6/download/007ob007semizbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Kostel",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-kostel",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-kostel",
+      "links": {
+        "html": [
+          "https://www.kostel.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/385e092a-5202-4d0e-a5b5-01e19b0ff7da/resource/678cfbf5-1d3e-43d3-8b70-fea5a695cc5e/download/006ob003kostelzbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po uporabi, drugi naseljeni prostori ter število oseb v stanovanjih, upravne enote, Slovenija, popis 2002",
+      "name": "surs05w3001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w3001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W3001S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količine nastalih, zbranih in odloženih komunalnih odpadkov (tone), občine, Slovenija, letno",
+      "name": "surs2706104s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706104s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706104S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po številu sob, statistične regije, Slovenija, večletno",
+      "name": "surs0861206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vodovodno omrežje, priključki na vodovod, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ključni podatki o vodah, Slovenija, letno",
+      "name": "sursh002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213, 8214, 8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Letna poraba vode v Občini Hrastnik",
+      "name": "letna-poraba-vode-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/letna-poraba-vode-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/46b5ad10-c55a-40cf-b569-db4b0e5e7d6b/resource/e9bb4664-795c-4d52-9d69-9812690ea897/download/letnaporabavodevobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije in vrste hidrantov v občini Tržič",
+      "name": "lokacije-in-vrste-hidrantov-v-obcini-trzic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-in-vrste-hidrantov-v-obcini-trzic",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/cff1e4c1-ab85-46c3-a4cd-18ccf39b0fc0/resource/31c2545e-2868-4e0e-8e88-28e8e91e5f8f/download/009ob014trilokacijeinvrstehidrantov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Območje invazivk v Občini Zagorje ob Savi",
+      "name": "obmocje-invazivk-v-obcini-zagorje-ob-savi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocje-invazivk-v-obcini-zagorje-ob-savi",
+      "links": {
+        "html": [
+          "https://www.gov.si/teme/invazivne-tujerodne-vrste-rastlin-in-zivali/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c433344c-27ae-46dc-a937-a606a793d013/resource/3b75ce43-1154-4eb7-bd74-bb42569cdd53/download/invazivkeseznamnajdbzagorjeobsavi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Mestni občini Velenje",
+      "name": "seznam-ekoloskih-otokov-v-mestni-obcini-velenje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-mestni-obcini-velenje",
+      "links": {
+        "html": [
+          "https://www.velenje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/23f86ab2-14ca-47b7-83d0-0a7f376b116a/resource/d7442834-317a-4880-8888-b9bf31483d73/download/velenjeopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Mirna",
+      "name": "ekoloski-otoki-v-obcini-mirna",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-mirna",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/147cbc0a-b1a3-4257-b009-7698bd18d4a8/resource/b4bd30a8-0aa7-4c82-8bc0-b977c9c13d7e/download/mirnaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Bled",
+      "name": "ekoloski-otoki-v-obcini-bled",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-bled",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b818374d-9c90-4691-9555-af85898cbe32/resource/0a609700-b799-4539-b696-1eae5ae2f769/download/012on001bledseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije zbiralnikov odpadnega jedilnega olja v občini Krško",
+      "name": "lokacije-zbiralnikov-odpadnega-jedilnega-olja-v-obcini-krsko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-zbiralnikov-odpadnega-jedilnega-olja-v-obcini-krsko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/0a84b984-581f-4f41-8fc2-2f002a18a92d/resource/d7ae2aa3-e696-4232-bd7f-caa307b75bde/download/lokacijeodpadnoolje.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralnice ločenih frakciji - ekolološki otoki Zagorje ob Savi",
+      "name": "zbiralnice-locenih-frakciji-ekololoski-otoki-zagorje-ob-savi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralnice-locenih-frakciji-ekololoski-otoki-zagorje-ob-savi",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/37a60983-45eb-4898-b1ca-2a513b73f689/resource/68250e56-07c7-4caa-bcde-5f4b73ea4f05/download/zbiralniceloenihfrakcijiekololokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije EKO otokov v občini Krško",
+      "name": "eko-otoki-v-obcini-krsko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/eko-otoki-v-obcini-krsko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/805d2dc0-180f-4115-97aa-1d391e336d73/resource/b6ba906f-f48f-4716-bc3a-de7334b47fe6/download/ekootoki2610gospodinjstvakk.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Ravne na Koroškem",
+      "name": "ekoloski-otoki-v-obcini-ravne-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-ravne-na-koroskem",
+      "links": {
+        "html": [
+          "https://www.ravne.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c597d57a-2aaf-426a-8ed6-1630caf5050f/resource/f4d13406-3000-4b43-981e-3adb367f77e0/download/009ob009ravnenakorokemekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Bohinj",
+      "name": "ekoloski-otoki-v-obcini-bohinj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-bohinj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/97c5a1cd-ff0e-491b-be71-5510a4ae249e/resource/3c7d2a23-0d93-49e9-abd2-09f240228241/download/012ob02bohinjseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralnice ločenih frakcij",
+      "name": "zbiralnice-locenih-frakcij",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralnice-locenih-frakcij",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b27a59e2-788a-4dc9-9b69-c2d94ad72960/resource/44fa9c2a-c802-4292-9ddf-600e90bcd8e5/download/ekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Šenčur",
+      "name": "ekoloski-otoki-v-obcini-sencur",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-sencur",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/4345e5d2-4e0b-4a30-8dce-9f3d0b6f713b/resource/55f50d14-cce2-4657-ad2a-3de63904490a/download/012ob013enurekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam zbirnih centrov za ločeno zbiranje odpadkov v občini Bistrica ob Sotli",
+      "name": "seznam-zbirnih-centrov-za-loceno-zbiranje-odpadkov-v-obcini-bistrica-ob-sotli",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-zbirnih-centrov-za-loceno-zbiranje-odpadkov-v-obcini-bistrica-ob-sotli",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c9e2043f-5dc6-4558-8055-7ca9ca20c766/resource/972b9398-015e-415b-865a-da5e51724364/download/seznamzbirnihcentrovzaloenozbiranjeodpadkovvobinibistricaobsotli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Žirovnica",
+      "name": "ekoloski-otoki-v-obcini-zirovnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-zirovnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b746e06d-597b-446a-90bc-99d7fa8277d8/resource/75490e6e-4f1e-4573-8a02-1538c831f2b9/download/012ob017irovnicaseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam otroških igrišč v občini Moravče",
+      "name": "seznam-otroskih-igrisc-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-otroskih-igrisc-v-obcini-moravce",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2056f209-baaf-4423-aa04-b1aa3836f81e/resource/e2c0fc17-a95a-4921-be79-60614888dc08/download/11seznamotrokihigrivobinimorave.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbirka ekoloških otokov v Občini Moravče",
+      "name": "zbirka-ekoloskih-otokov-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbirka-ekoloskih-otokov-v-obcini-moravce",
+      "links": {
+        "html": [
+          "https://www.prodnik.si/ekoloski-otoki"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/7820cfcc-b87d-4060-b6e8-f683871a29e6/resource/b34d7ddd-262e-48e6-9092-89944edb2a64/download/6zbirkaekolokihotokovvobinimorave.csv"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po občinah, Slovenija, 1996 - 2018",
+      "name": "surs0214811s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214811s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214811S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "točke turističnega interesa",
+      "name": "tocke-turisticnega-interesa",
+      "dataset_url": "https://podatki.gov.si/data/dataset/tocke-turisticnega-interesa",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/42dd9083-23f7-47fe-a144-67eb3be15f2e/resource/7d4a2a1b-a598-45b0-84f5-dfc3c336abac/download/seznamtoketur.interesa.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam otroških igrišč v Občini Trzin",
+      "name": "14_obcina_trzin_seznam_otroskih_igrisc",
+      "dataset_url": "https://podatki.gov.si/data/dataset/14_obcina_trzin_seznam_otroskih_igrisc",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a9765f18-e196-4a82-87aa-f662a403436d/resource/5f164cb0-076c-4d80-af60-f3f996883e8d/download/14obcinatrzinseznamotroskihigrisc.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Jesenice",
+      "name": "ekoloski-otoki-v-obcini-jesenice",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-jesenice",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/9fea4597-695d-473b-ad29-ab1bd846ad08/resource/864b2657-8e5d-4849-8cb1-c2b4abdb5327/download/012ob006jeseniceseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Kostanjevica na Krki",
+      "name": "ekoloski-otoki-v-obcini-kostanjevica-na-krki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-kostanjevica-na-krki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2e5e260b-4eca-42c0-bb11-7804374c9f63/resource/3de0f091-81bd-4881-80a7-a8196c5c8917/download/ekootoki2021.csv"
+        ]
+      }
+    },
+    {
+      "title": "Javne klopi v Občini Dol pri Ljubljani",
+      "name": "javne-klopi-v-obcini-dol-pri-ljubljani",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-klopi-v-obcini-dol-pri-ljubljani",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/06e98a75-4dc0-48fc-9124-0b7c4df38253/resource/8e6895f1-7d72-4cb2-9a52-232f1e5c719b/download/javneklopivobinidolpriljubljani.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Jezersko",
+      "name": "ekoloski-otoki-v-obcini-jezersko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-jezersko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ccaa7847-f52b-4557-aae1-b22a76519169/resource/94bf3092-34ba-436a-8741-5815689ad165/download/012ob014jezerskoseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Kostel",
+      "name": "seznam-ekoloskih-otokov-v-obcini-kostel",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-kostel",
+      "links": {
+        "html": [
+          "https://www.kostel.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/dd7bd984-2d1b-4f1f-b16e-ba3f9406f6e6/resource/26e836bf-ce62-48b5-acfa-54e0d114a3e8/download/005ob003kostelekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih klopi v občini Zagorje ob Savi",
+      "name": "seznam-javnih-klopi-v-obcini-zagorje-ob-savi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-klopi-v-obcini-zagorje-ob-savi",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f97f687e-1133-44fd-b495-27d1062bc26c/resource/d6fd0d4a-a5bb-4f60-bf9a-fe31c42a21f3/download/seznamjavnihklopivobinizagorjeobsavi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Črnomelj",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-crnomelj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-crnomelj",
+      "links": {
+        "html": [
+          "http://www.crnomelj.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/5e719554-2a79-44ad-a184-c180e926c1b4/resource/f4773a07-0b56-48ce-96de-67cf49b6170e/download/008ob001rnomeljkolicinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Ribnica",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-ribnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-ribnica",
+      "links": {
+        "html": [
+          "https://www.ribnica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/95a91c74-470a-4cf5-8de8-cdb6890e888e/resource/a9795bd1-4416-4172-a341-74875cac19e5/download/006ob006ribnicazbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Radlje ob Dravi",
+      "name": "ekoloski-otoki-v-obcini-radlje-ob-dravi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-radlje-ob-dravi",
+      "links": {
+        "html": [
+          "http://www.obcina-radlje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/933722e4-139e-4fea-989b-165fca1a6123/resource/bb9a7a8a-10f5-4ddb-8763-9f8afae3745a/download/009ob008radljeobdraviekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Letna poraba vode v občini Litija",
+      "name": "letna-poraba-vode-v-obcini-litija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/letna-poraba-vode-v-obcini-litija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/sites/default/files/attachments/Letna poraba vode v občini Litija.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Trbovlje",
+      "name": "seznam-ekoloskih-otokov-v-obcini-trbovlje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-trbovlje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/137fa8ca-cb3a-49e9-b879-ecd043399b79/resource/e4cb2b88-593a-413c-96cd-0bcc6d8fb169/download/trbovljeopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Mežica",
+      "name": "ekoloski-otoki-v-obcini-mezica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-mezica",
+      "links": {
+        "html": [
+          "https://www.mezica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/df0937d2-a0d2-495b-ab1a-32abbc523d82/resource/190a9cdc-fe86-4db6-9abb-b81e396ed15f/download/009ob003meicaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Semič",
+      "name": "seznam-ekoloskih-otokov-v-obcini-semic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-semic",
+      "links": {
+        "html": [
+          "https://www.semic.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c66422b0-d090-4cc4-aaeb-b5cb5210eb95/resource/5d625a0c-7c93-46d7-8632-7472d775d217/download/005ob007semiekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Spisek javnih klopi v občini Šentrupert",
+      "name": "spisek-javnih-klopi-v-obcini-sentrupert",
+      "dataset_url": "https://podatki.gov.si/data/dataset/spisek-javnih-klopi-v-obcini-sentrupert",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d610ef85-deda-4feb-9fd2-8101c4f084fd/resource/46cce5ba-efdc-429a-8ca6-15c295261a0f/download/spisekjavnihklopi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Črna na Koroškem",
+      "name": "ekoloski-otoki-v-obcini-crna-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-crna-na-koroskem",
+      "links": {
+        "html": [
+          "http://www.crna.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/60b0f768-f271-4571-a07b-a1629bbc7a4c/resource/2e578de6-3968-4378-9fb2-7bd14ec0cef8/download/009ob001rnanakorokemekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Mislinja",
+      "name": "ekoloski-otoki-v-obcini-mislinja",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-mislinja",
+      "links": {
+        "html": [
+          "https://www.mislinja.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/a403a060-65dc-4a6e-a5de-1869864aad36/resource/aee661a7-6556-4910-a5bb-7065ca619bfe/download/009ob004mislinjaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po statističnih regijah, Slovenija, 1996 - 2018",
+      "name": "surs0214821s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214821s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214821S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež gospodinjstev (%) po stanovanjskih razmerah in stanovanjskem razmerju gospodinjstva, Slovenija, letno",
+      "name": "surs0867715s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0867715s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0867715S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Metlika",
+      "name": "seznam-ekoloskih-otokov-v-obcini-metlika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-metlika",
+      "links": {
+        "html": [
+          "https://www.metlika.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/aef08e67-9984-46c9-89cf-abdd126de52d/resource/ee048be6-bf89-4a83-85a3-c87bb3b7c7d4/download/005ob005metlikaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadnega olja v občini Radeče",
+      "name": "zbiralniki-odpadnega-olja-v-obcini-radece",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadnega-olja-v-obcini-radece",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f4ff2fa4-3604-4d8d-b300-855fb078249c/resource/40ec7bc0-b55b-4121-bd93-86a1ef588cdb/download/opsiradeceodpadnoolje.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Sodražica",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-sodrazica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-sodrazica",
+      "links": {
+        "html": [
+          "https://sodrazica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/34c61e6e-08d2-4a28-a006-6e5da713d9a1/resource/50ea446f-4f12-47c5-bc7e-1d30ccf8bbad/download/006ob008sodraicazbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Šentjernej",
+      "name": "seznam-ekoloskih-otokov-v-obcini-sentjernej",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-sentjernej",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f35c101e-1a8f-4bd2-8eb0-770e847c9171/resource/33bbb640-653c-414a-83d8-5214dce72911/download/strazaopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po lastništvu ter povprečna površina stanovanj, občine, Slovenija, popis 2002",
+      "name": "surs05w1207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1207S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zemljišča, pripravljena za namakanje, dejansko namakana zemljišča in količina vode porabljene za namakanje, Slovenija, letno",
+      "name": "surs2722202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadna voda v industriji po dejavnosti (SKD 2008) in mestu izpusta (1000 m3), Slovenija, letno",
+      "name": "surs2750335s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750335s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750335S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki okoljskih razsežnosti kakovosti življenja, Slovenija, letno",
+      "name": "surs2775203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2775203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2775203S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitek in rekreacijo po številu sob, površini, vrsti stavbe in tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2417s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2417s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2417S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji in drugimi bivalnimi prostori glede na vrsto stavbe, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2403S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Tržič",
+      "name": "ekoloski-otoki-v-obcini-trzic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-trzic",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a4897e00-de11-46f7-a1c0-369528be9a37/resource/19c66f19-1cfb-43da-9439-8cdfc31b9fe4/download/012ob014trzicseznamekolokihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki naravnih virov, Slovenija, statistične regije, 2000 - 2015",
+      "name": "surs3268904s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3268904s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3268904S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število in površina stavb, za katere so bila izdana gradbena dovoljenja, Slovenija, mesečno",
+      "name": "surs1970710s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970710s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970710S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastali, zbrani in odloženi komunalni odpadki, občine, Slovenija, letno",
+      "name": "surs2700020s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700020s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700020S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadki (tone), Slovenija, letno",
+      "name": "sursh003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število naseljenih stanovanj po uporabni površini in številu prebivalcev, občine, Slovenija, večletno",
+      "name": "surs0861105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vlažnost, padavine, oblačnost in vetrovi po meteoroloških postajah, Slovenija, 1981 - 2014",
+      "name": "surs0156103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0156103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0156103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8228",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vodni viri in količina zajete vode v letu 2020  Zagorje ob Savi",
+      "name": "vodni-viri-in-kolicina-zajete-vode-v-letu-2020-zagorje-ob-savi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/vodni-viri-in-kolicina-zajete-vode-v-letu-2020-zagorje-ob-savi",
+      "links": {
+        "html": [
+          "http://www.zagorje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/d2074970-5ca3-4769-9791-5595b42a1627/resource/762742e6-a6ca-4758-b3e2-ed0ab83eb503/download/seznamvodnihvirovzagorjeobsavi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po viru onesnaženja [1000 m3], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za okoljske investicije, Slovenija, letno",
+      "name": "surs2700004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700004S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8209",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Območje invazivk v Občini Trzin",
+      "name": "obcina_trzin_obmocje_invazivk",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obcina_trzin_obmocje_invazivk",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bf80df98-0ed0-4b95-9265-166ee085acfd/resource/2ca2859f-4d3c-4062-8a99-a04812d79032/download/08obcinatrzinobmocjeinvazivk.csv"
+        ]
+      }
+    },
+    {
+      "title": "Predelane, odstranjene količine odpadkov (tone) po evropski statistični klasifikaciji odpadkov (EWC - Stat), Slovenija, letno",
+      "name": "surs2706310s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706310s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706310S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupna poraba pitne vode v občini Trzin",
+      "name": "obcina_trzin_letna_poraba_vode",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obcina_trzin_letna_poraba_vode",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/077e3238-d79b-40e6-b081-e12f0bc746df/resource/e64878cc-4ee5-411c-bad4-e93474b49bd6/download/01obcinatrzinletnaporabavode.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Hrastnik",
+      "name": "seznam-ekoloskih-otokov-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/",
+          "https://ksphrastnik.si/dejavnosti/odpadki/80-ekoloski-otoki-odvoz-locenih-frakcij.html"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/8e392bc1-597b-4502-a784-9a3ac3261ee8/resource/76afb9e5-0713-47bf-828d-4cd4c1c96b14/download/ekoloskiotokivobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število stanovanj po naseljenosti, naselja, Slovenija, večletno",
+      "name": "surs0871201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0871201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0871201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gradbena dovoljenja - izbrani kazalniki, po občinah, Slovenija, letno",
+      "name": "surs1970721s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970721s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970721S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Divja odlagališča v Občini Trzin",
+      "name": "obcina_trzin_divja_odlagalisca",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obcina_trzin_divja_odlagalisca",
+      "links": {
+        "html": [
+          "https://www.geopedia.world/?locale=sl#T313_L2463_x1620958.1658487665_y5801182.15130214_s14_b362"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/1aa70925-3a33-4455-bef7-ceba9b361fae/resource/df617a01-a8a4-40ed-b836-29feb1965af4/download/04obcinatrzindivjaodlagalisca.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in uporabni površini, Slovenija, 2011, 2015, 2018",
+      "name": "surs0861055s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861055s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861055S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki na območju občine Litija",
+      "name": "ekoloski-otoki-na-obmocju-obcine-litija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-na-obmocju-obcine-litija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/sites/default/files/attachments/Ekološki otoki v občini Litija.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v mestni občini Slovenj Gradec",
+      "name": "ekoloski-otoki-v-mestni-obcini-slovenj-gradec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-mestni-obcini-slovenj-gradec",
+      "links": {
+        "html": [
+          "https://www.slovenjgradec.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/a7fb1cf1-0741-441b-bc1c-289f9f429527/resource/2bfbaf08-2a8a-403e-bfd0-7d86374eeafb/download/009ob011slovenjgradecekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam otroških igrišč v Občini Hrastnik",
+      "name": "seznam-otroskih-igrisc-v-obcini-hrastnik",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-otroskih-igrisc-v-obcini-hrastnik",
+      "links": {
+        "html": [
+          "https://www.hrastnik.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c2ea7dcd-8b27-4422-af79-a6c4c2661bb6/resource/8006b823-9e6d-4d61-b058-0b9c38d96a9e/download/otroskaigriscavobcinihrastnik.csv"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba sveže vode v industriji po dejavnosti (SKD 2008) in namenu uporabe (1000 m3), Slovenija, letno",
+      "name": "surs2750320s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750320s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750320S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Turistične informacije v Občini Trzin",
+      "name": "07_obcina_trzin_turisticne_informacije",
+      "dataset_url": "https://podatki.gov.si/data/dataset/07_obcina_trzin_turisticne_informacije",
+      "links": {
+        "html": [
+          "http://www.td-trzin.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/a5c74601-49fa-4cf8-a660-0d82b05c9cb5/resource/127a7b0d-cd28-417b-bb8d-28743b14e973/download/07obcinatrzinturisticneinformacije.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število in površina stanovanj, za katera so bila izdana gradbena dovoljenja, Slovenija, mesečno",
+      "name": "surs1970711s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970711s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970711S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Območja invazivk v Občini Dol pri Ljubljani",
+      "name": "obmocja-invazivk-v-obcini-dol-pri-ljubljani",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocja-invazivk-v-obcini-dol-pri-ljubljani",
+      "links": {
+        "html": [
+          "https://www.dol.si/sl/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/8b45b311-1471-44f6-ba95-e586e2f4fab3/resource/967ff85e-902b-479b-a8f6-4c7be8bcc0b8/download/obmojainvazivkvobinidolpriljubljani.csv"
+        ]
+      }
+    },
+    {
+      "title": "Območja invazivk v občini Šentrupert",
+      "name": "obmocja-invazivk-v-obcini-sentrupert",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocja-invazivk-v-obcini-sentrupert",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/802975de-35d7-4e9f-b985-563186512e4c/resource/31703b90-5f9a-492f-a012-ad1df245d9ee/download/obmojainvazivkvobinientrupert.csv",
+          "https://podatki.gov.si/dataset/802975de-35d7-4e9f-b985-563186512e4c/resource/38905395-7d1d-4ef5-b6af-c5962b05aa17/download/obmojainvazivkvobinientrupert.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Dravograd",
+      "name": "ekoloski-otoki-v-obcini-dravograd",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-dravograd",
+      "links": {
+        "html": [
+          "https://www.dravograd.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/6eefb207-9ba6-41b3-a4b3-a9448b792fbe/resource/b1626b36-1c6c-41aa-bcd0-1ac39c61fb8e/download/009ob002dravogradekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki ravnanja z odpadki, Slovenija, letno",
+      "name": "surs2683902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2683902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2683902S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v Mestni občini Kranj",
+      "name": "ekoloski-otoki-v-mestni-obcini-kranj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-mestni-obcini-kranj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/11647aa8-459b-4298-bcfd-48b4bee79229/resource/168ed34a-21fd-49fc-886d-86f896f534a5/download/012ob008kranjekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, po statističnih regijah, Slovenija, letno",
+      "name": "surs1970716s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970716s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970716S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene vode v občini Zagorje ob Savi",
+      "name": "kolicina-porabljene-vode-v-obcini-zagorje-ob-savi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-vode-v-obcini-zagorje-ob-savi",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/257bebb0-4341-4b01-9695-35fa746482a3/resource/2b3dadae-4035-40c5-94cf-1edf9b9c3028/download/koliinaporabljenevodezagorjeobsavi20162020.csv"
+        ]
+      }
+    },
+    {
+      "title": "Divja odlagališča na območju občine AJDOVŠČINA",
+      "name": "divja-odlagalisca-na-obmocju-obcine-ajdovscina",
+      "dataset_url": "https://podatki.gov.si/data/dataset/divja-odlagalisca-na-obmocju-obcine-ajdovscina",
+      "links": {
+        "csv": [
+          "http://Divja odlagališča na območju občine Ajdovščina.csv"
+        ]
+      }
+    },
+    {
+      "title": "Območje invazivnih tujerodnih vrst v občini Litija",
+      "name": "obmocje-invazivnih-tujerodnih-vrst-v-obcini-litija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocje-invazivnih-tujerodnih-vrst-v-obcini-litija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/sites/default/files/attachments/Območje invazivk v občini Litija_0.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in letu izgradnje, občine, Slovenija, večletno",
+      "name": "surs0861111s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861111s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861111S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki produktivnosti pri uporabi okoljskih sredstev in naravnih virov, Slovenija, letno",
+      "name": "surs2775201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2775201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2775201S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po občinah, Slovenija, 2004H2 - 2018H2",
+      "name": "surs0214809s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214809s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214809S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "NAMEA emisije v zrak (SKD 2008), Slovenija, letno",
+      "name": "surs2719901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2719901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8173",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skupna poraba pitne vode v občini Moravče",
+      "name": "skupna-poraba-pitne-vode-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/skupna-poraba-pitne-vode-v-obcini-moravce",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/eebf224f-5c41-4d53-97b1-8cb9b76ed758/resource/07264584-6f15-4a46-a391-b8aee330eab5/download/1obinamoraveskupnaporabapitnevode.csv"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po tipu lastništva in gostoti naseljenosti (površina na osebo), statistične regije, Slovenija, večletno",
+      "name": "surs0861203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež neprečiščene odpadne vode in prečiščene odpadne vode po stopnjah čiščenja, [%], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750230s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750230s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750230S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Območje invazivk v Občini Moravče",
+      "name": "obmocje-invazivk-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocje-invazivk-v-obcini-moravce",
+      "links": {
+        "html": [
+          "https://www.invazivke.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/1eac8a23-e62d-44a4-b486-116984af332d/resource/f5a6090b-7898-4719-82ba-fde4e698c3ff/download/2obmojainvazivkvobinimorave.csv"
+        ]
+      }
+    },
+    {
+      "title": "Javne klopi v Občini Šmartno pri Litiji",
+      "name": "javne-klopi-v-obcini-smartno-pri-litiji",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-klopi-v-obcini-smartno-pri-litiji",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1a142ff1-736b-4065-95cd-aa96a6938725/resource/66bd088d-5090-4983-bb7e-989c1bba05f7/download/javneklopi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Divja odlagališča v Občini Moravče",
+      "name": "divja-odlagalisca-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/divja-odlagalisca-v-obcini-moravce",
+      "links": {
+        "html": [
+          "https://www.geopedia.world/?locale=sl#T313_L2463_x1642936.866116025_y5803277.673085727_s14_b362"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/8664a0f2-6a77-4a21-8b9c-efdd8690c7a6/resource/0be2fd7b-dcff-4ceb-80c5-e326b4aa0ea1/download/4obinamoravedivjaodlagalia.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Prevalje",
+      "name": "ekoloski-otoki-v-obcini-prevalje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-prevalje",
+      "links": {
+        "html": [
+          "http://www.prevalje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/7e20dac1-667e-466f-ad94-531dc10f9184/resource/60cd4a5b-2579-4c5d-961c-613bc78fc8de/download/009ob007prevaljeekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Kočevje",
+      "name": "seznam-ekoloskih-otokov-v-obcini-kocevje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-kocevje",
+      "links": {
+        "html": [
+          "https://www.kocevje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/5c7b516c-2215-4adb-8779-39c1f821f44a/resource/6f62d303-1783-404a-830a-edd154fc6bb0/download/005ob002koevjeekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja in površina po načinu uporabe, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0604S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po številu sob in številu oseb v stanovanju, občine, Slovenija, večletno",
+      "name": "surs0861104s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861104s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861104S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in uporabni površini, statistične regije, Slovenija, 2011, 2015, 2018",
+      "name": "surs0861255s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861255s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861255S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pregled toka odpadkov (tone), Slovenija, letno",
+      "name": "surs2779405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2779405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2779405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Črnomelj",
+      "name": "seznam-ekoloskih-otokov-v-obcini-crnomelj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-crnomelj",
+      "links": {
+        "html": [
+          "http://www.crnomelj.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c783b2a5-40cd-47a4-95d3-69a6b85a8f89/resource/acacf59f-3c6a-4989-945c-0f5451e9e711/download/005ob001rnomeljekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in vrsti stavbe, občine, Slovenija, večletno",
+      "name": "surs0861110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe, po občinah, Slovenija, letno",
+      "name": "surs1970717s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970717s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970717S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količine odloženih odpadkov po vrsti odpadka in vrsti odlagališča (tone), Slovenija, letno",
+      "name": "surs2706106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba vode v industriji po dejavnosti (SKD 2008) in vrsti vode (1000 m3), Slovenija, letno",
+      "name": "surs2750315s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750315s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750315S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski standard, Slovenija, večletno",
+      "name": "sursh151s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh151s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H151S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8224",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Železniki",
+      "name": "ekoloski-otoki-v-obcini-zelezniki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-zelezniki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/321bb786-b26b-4964-a2c5-d48b3fdf884c/resource/ca55268e-4182-49eb-8624-a3403166aa85/download/012ob015zeleznikiseznamekoloskihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Turistične informacije v Občini Moravče",
+      "name": "turisticne-informacije-v-obcini-moravce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/turisticne-informacije-v-obcini-moravce",
+      "links": {
+        "html": [
+          "https://turisticnodrustvo-moravce.org/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/3fa4832f-97bf-48c6-a668-3646d0547673/resource/b92b720e-d17c-44c1-9444-a3ec1689b7c2/download/5obinamoraveturistineinformacije.csv"
+        ]
+      }
+    },
+    {
+      "title": "Izbrani kazalniki stanovanjskega standarda, občine, Slovenija, večletno",
+      "name": "surs0861101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gradbena dovoljenja - izbrani kazalniki, statistične regije, Slovenija, letno",
+      "name": "surs1970720s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970720s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970720S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastajanje odpadne hrane po izvoru in ravnanje z njo (tone), Slovenija, letno",
+      "name": "surs2780705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2780705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2780705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10183",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Gorenja vas - Poljane",
+      "name": "ekoloski-otoki-v-obcini-gorenja-vas-poljane",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-gorenja-vas-poljane",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/e8212d34-44e8-4675-8f0a-aa0235c32087/resource/b9363e70-2529-4948-93ff-94e495cc87d3/download/012ob0gorenjavaspoljaneseznamekolotkihotokov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Metlika",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-metlika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-metlika",
+      "links": {
+        "html": [
+          "https://www.metlika.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/b52dc2a9-82f4-473a-9b52-29158437d17f/resource/d2b83c35-bbb7-486b-865e-88a605d25e88/download/006ob005metlikazbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Deleži vrednosti opravljenih gradbenih del in pogodb v gradbeništvu (SKD 2008) po vrsti objektov, Slovenija, mesečno, 1998M01 - 2020M12",
+      "name": "surs1957501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1957501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1957501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8208",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "seznam vodnih objektov",
+      "name": "seznam-vodnih-objektov",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-vodnih-objektov",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/15bc35cf-a3b9-4a2b-852f-11217b8d8741/resource/3557b8c9-535a-454c-a845-a31d3d7ad8f3/download/seznamstavbevlasti.csv"
+        ]
+      }
+    },
+    {
+      "title": "Kanalizacijsko omrežje, priključki na kanalizacijo, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750225s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750225s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750225S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Ribnica",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-ribnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-ribnica",
+      "links": {
+        "html": [
+          "https://www.ribnica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/36c48d28-9e6d-40f3-a3a7-bde0b19241d9/resource/b52a3d13-91e4-478f-9e32-ea99e7a764dc/download/007ob006ribnicazbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Preddvor",
+      "name": "ekoloski-otoki-v-obcini-preddvor",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-preddvor",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f27687ef-50b9-406e-abbd-5be6fe3a66df/resource/10297c9a-a21c-4bee-a9a3-db720c18bc6d/download/002ob011preddvorekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po napeljavah in pomožnih prostorih, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558868s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558868s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558868S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po povprečni površini stanovanja na osebo, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0605S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno",
+      "name": "surs1906901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Kočevje",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-kocevje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-kocevje",
+      "links": {
+        "html": [
+          "https://www.kocevje.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/e8289d3d-2c36-4e57-b333-68d2993386b7/resource/b26fb32a-6437-4e3b-ae72-b40c80d65942/download/007ob002koevjezbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Sodražica",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-sodrazica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-sodrazica",
+      "links": {
+        "html": [
+          "https://sodrazica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/d1a1d107-58b4-41e2-93ea-542227bcd00b/resource/8a179e50-a838-4964-816f-d2876c59e752/download/007ob008sodraicazbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Muta",
+      "name": "ekoloski-otoki-v-obcini-muta",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-muta",
+      "links": {
+        "html": [
+          "https://www.muta.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/39eaa927-5718-40fc-8436-daa5cd748b78/resource/f0b57487-d455-4774-8cb5-6f63ebd6338e/download/009ob005mutaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Sodražica",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-sodrazica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-sodrazica",
+      "links": {
+        "html": [
+          "https://sodrazica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/a60058aa-aff9-4d2f-8552-edd68f8ee955/resource/01f3a9f7-96f2-48b1-9f04-f1abacc16eb2/download/008ob008sodraicakoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Velike Lašče",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-velike-lasce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-velike-lasce",
+      "links": {
+        "html": [
+          "https://obcina.velike-lasce.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/287bea95-6250-48a0-9e8a-99d91334b8fb/resource/95ce1d5b-c7bc-4565-ad17-653764e37aa0/download/006ob009velikelascezbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Območje invazivk v Občini Lukovica",
+      "name": "obmocje-invazivk-v-obcini-lukovica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/obmocje-invazivk-v-obcini-lukovica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c5db370c-1ec6-462a-88aa-e32f3b017247/resource/c6fce600-8f9a-4341-9165-c18c079c938c/download/seznamobcinalukovicaobmocjeinvazivk.csv"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za investicije za varstvo okolja po kohezijskih in statističnih regijah, Slovenija, letno",
+      "name": "surs2700012s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700012s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700012S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8209",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadki, pripeljani na odlagališča glede na izvor in postopke obdelave odpadkov (tone), Slovenija, 2002 - 2015",
+      "name": "surs2706103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8272",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Velike Lašče",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-velike-lasce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-velike-lasce",
+      "links": {
+        "html": [
+          "https://obcina.velike-lasce.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/4bdca9be-a8ae-4862-b72f-7ec944705301/resource/5991d8cd-be12-430a-89d8-87d3aba4f339/download/007ob009velikelascezbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Ribnica",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-ribnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-ribnica",
+      "links": {
+        "html": [
+          "https://www.ribnica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/37c74c79-1e4a-4174-87c3-f605aeb91af6/resource/b47c6107-e62a-4a10-8fc6-32870e214191/download/008ob006ribnicakoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina porabljene soli za posipanje v občini Semič",
+      "name": "kolicina-porabljene-soli-za-posipanje-v-obcini-semic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-porabljene-soli-za-posipanje-v-obcini-semic",
+      "links": {
+        "html": [
+          "https://www.semic.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/90ebcb19-b1f5-4ef7-ab6b-02cacb542103/resource/942e3578-afbf-4f08-ae82-c42fde539116/download/008ob007semikoliinaporabljenesoli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Količina zbranih odpadkov v občini Semič",
+      "name": "kolicina-zbranih-odpadkov-v-obcini-semic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/kolicina-zbranih-odpadkov-v-obcini-semic",
+      "links": {
+        "html": [
+          "https://www.semic.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/42f05776-d074-4888-b2ac-b10c35b59368/resource/2e06e970-56fb-403c-bc17-09dec60b06db/download/006ob007semizbraniodpadki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Straža",
+      "name": "seznam-ekoloskih-otokov-v-obcini-straza",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-straza",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ef2fda78-a1b1-48a6-8683-7d9957589293/resource/b262035f-64eb-44e6-88dd-eec58e248e80/download/strazaopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število stanovanj po naseljenosti, vrsti stavbe in številu sob, statistične regije, Slovenija, večletno",
+      "name": "surs0861215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež gospodinjstev (%) po stanovanjskih razmerah, statistične regije, Slovenija, letno",
+      "name": "surs0867725s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0867725s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0867725S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po uporabni površini, naselja, Slovenija, večletno",
+      "name": "surs0871203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0871203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0871203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Deleži vrednosti opravljenih gradbenih del in pogodb v gradbeništvu (SKD 2008) po vrsti stavb, Slovenija, mesečno, 1998M01 - 2020M12",
+      "name": "surs1957502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1957502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1957502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8208",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji glede na material nosilne konstrukcije in vrsto strešne kritine, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558863s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558863s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558863S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Površina gozda (ha), Slovenija, letno",
+      "name": "surs1673105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1673105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1673105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8220",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vrednost opravljenih gradbenih del (v EUR) po vrsti gradbenih del in vrsti objektov, Slovenija, 2019",
+      "name": "surs1919803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1919803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1919803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8189",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za odpadke, Slovenija, letno",
+      "name": "surs2700001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "NAMEA emisije v zrak, Slovenija, 1995 - 2008",
+      "name": "surs2719991s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2719991s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719991S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Preskrba poslovnih subjektov z vodo glede na področje dejavnosti (SKD 2008) in vrsto oskrbe (1000 m3), Slovenija, letno",
+      "name": "surs2750301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki kakovosti zraka, Slovenija, 2000 - 2015",
+      "name": "surs3268602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3268602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3268602S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Črnomelj",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-crnomelj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-crnomelj",
+      "links": {
+        "html": [
+          "http://www.crnomelj.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/74465577-30ff-4054-acbf-294c38afc165/resource/5fddf907-6655-4fac-a194-6dbc110cb608/download/007ob001rnomeljzbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zbiralniki odpadne elektronske in električne opreme v občini Metlika",
+      "name": "zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-metlika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zbiralniki-odpadne-elektronske-in-elektricne-opreme-v-obcini-metlika",
+      "links": {
+        "html": [
+          "https://www.metlika.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/77448597-7c14-4540-9326-f0714a0b968c/resource/69fc8760-7fa8-4f36-bb25-c8040b9f4c4e/download/007ob005metlikazbiralnikioeeo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Vuzenica",
+      "name": "ekoloski-otoki-v-obcini-vuzenica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-vuzenica",
+      "links": {
+        "html": [
+          "http://www.vuzenica.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/fa1722b1-206c-426d-ba27-680f30bcde95/resource/afc5b6cd-351f-4838-9978-e6681f857475/download/009ob012vuzenicaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v Občini Šoštanj",
+      "name": "seznam-ekoloskih-otokov-v-obcini-sostanj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-sostanj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/514585a2-8b9b-4510-8117-c734b2c0615b/resource/2e3c2142-2298-4f7b-a08d-1347ef5fe459/download/sostanjopsiekoloskiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Skupne letne in mesečne padavine [mm] po meteoroloških postajah, Slovenija, 1981 - 2014",
+      "name": "surs0156102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0156102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0156102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8228",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe in stanovanja, naselja, Slovenija, popis 2002",
+      "name": "surs05w0601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0601S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in številu sob, statistične regije, Slovenija, večletno",
+      "name": "surs0861250s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861250s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861250S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Podvelka",
+      "name": "ekoloski-otoki-v-obcini-podvelka",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-podvelka",
+      "links": {
+        "html": [
+          "https://www.podvelka.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/4f347c41-87fb-4bba-a4b6-e058678ae8fd/resource/d24b53b4-bf98-4431-8222-a7207f9322c6/download/009ob006podvelkaekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam ekoloških otokov v občini Loški Potok",
+      "name": "seznam-ekoloskih-otokov-v-obcini-loski-potok",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-ekoloskih-otokov-v-obcini-loski-potok",
+      "links": {
+        "html": [
+          "https://www.loski-potok.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/59cb7acd-201c-41f3-9d5f-aec5dcc72ef0/resource/a164000f-99fa-4016-8b8f-ff18e8aa86d8/download/005ob004lokipotokekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po lastništvu in površina stanovanj, naselja, Slovenija, popis 2002",
+      "name": "surs05w0603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0603S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini in številu sob, občine, Slovenija, popis 2002",
+      "name": "surs05w1202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1202S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stanovanj po številu sob in površini, po občinah, Slovenija, letno",
+      "name": "surs1906903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906903S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stanovanj - izbrani kazalniki, po občinah, Slovenija, letno",
+      "name": "surs1906911s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906911s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906911S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno",
+      "name": "surs1923801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1923801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1923801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dejansko namakana zemljišča [ha], porabljena voda za namakanje [1000 m3], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2722207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja in prebivalci po tipu lastništva, vrsti stavbe in uporabni površini, Slovenija, večletno",
+      "name": "surs0861010s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861010s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861010S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po tipu lastništva, občine, Slovenija, večletno",
+      "name": "surs0861102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za vode, Slovenija, letno",
+      "name": "surs2700002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ravnanje z odpadki na odlagališčih (tone), Slovenija, letno",
+      "name": "surs2706102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Tekoči izdatki za varstvo okolja po dejavnosti in namenu, organizacijsko načelo - SKD 2008 (1000 EUR), Slovenija, letno",
+      "name": "surs2711811s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2711811s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2711811S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8209",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kanalizacijsko omrežje (km), priključki na kanalizacijo, Slovenija, 2003 - 2016",
+      "name": "surs2750205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po mestu izpusta [1000 m3], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba vode v industriji po namenu (1000 m3), Slovenija, letno",
+      "name": "surs2750310s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750310s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750310S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ekološki otoki v občini Ribnica na Pohorju",
+      "name": "ekoloski-otoki-v-obcini-ribnica-na-pohorju",
+      "dataset_url": "https://podatki.gov.si/data/dataset/ekoloski-otoki-v-obcini-ribnica-na-pohorju",
+      "links": {
+        "html": [
+          "https://www.ribnicanapohorju.si/"
+        ],
+        "csv": [
+          "https://podatki.gov.si/dataset/c5ae5048-4ce9-4683-b2bc-0f269b1ff5e4/resource/b78540f9-e497-4012-b51f-c3ae913fc438/download/009ob010ribnicanapohorjuekolokiotoki.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število, vrednost in površina prodanih poslovnih nepremičnin po vrstah poslovnih nepremičnin, Slovenija, četrtletno",
+      "name": "surs0419040s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0419040s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0419040S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11467",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji z azbestno-cementno kritino glede na leto zadnje menjave strešne kritine in tip naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2410s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2410s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2410S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti, vrsti stavbe in številu sob, Slovenija, večletno",
+      "name": "surs0861015s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861015s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861015S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in načinu ogrevanja, občine, Slovenija, večletno",
+      "name": "surs0861120s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861120s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861120S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in uporabni površini, občine, Slovenija, 2011, 2015, 2018",
+      "name": "surs0861155s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861155s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861155S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število naseljenih stanovanj po številu sob in številu oseb v stanovanju, statistične regije, Slovenija, večletno",
+      "name": "surs0861204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po letu izgradnje, naselja, Slovenija, večletno",
+      "name": "surs0871206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0871206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0871206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stanovanj pridobljenih z novogradnjo, povečavo in spremembo namembnosti, po investitorju in po statističnih regijah, Slovenija, letno",
+      "name": "surs1906902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, Slovenija, letno",
+      "name": "surs1970715s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970715s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970715S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zemljišča, pripravljena za namakanje [ha], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2722205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja glede na lastništvo, površino, število sob in tip naselja, Slovenija, popis 2002",
+      "name": "surs05w1807s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1807s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1807S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Izbrani kazalniki stanovanjskega standarda, Slovenija, večletno",
+      "name": "surs0861001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in letu zgraditve, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs0861211s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861211s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861211S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in opremljenosti, statistične regije, Slovenija, večletno",
+      "name": "surs0861235s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861235s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861235S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež gospodinjstev (%) po stanovanjskih razmerah in dohodkovnem kvintilnem razredu, Slovenija, letno",
+      "name": "surs0867705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0867705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0867705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stanovanj - izbrani kazalniki, po kohezijskih regijah, Slovenija, letno",
+      "name": "surs1906909s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906909s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906909S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena dokončanih stanovanj - izbrani kazalniki, po statističnih regijah, Slovenija, letno",
+      "name": "surs1906910s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1906910s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1906910S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/10040",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Voda dobavljena iz javnega vodovoda (1000 m3), kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Voda, dobavljena iz javnega vodovoda (1000 m3), po porečjih, Slovenija, letno",
+      "name": "surs2750115s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750115s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750115S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Preskrba podjetij z vodo po vrsti oskrbe (1000 m3), kohezijski regiji, Slovenija, letno",
+      "name": "surs2750305s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750305s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750305S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Povzetek statistike voda (1000 m3), Slovenija, letno",
+      "name": "surs2777505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2777505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2777505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213, 8226, 8214, 8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število naseljenih stanovanj po številu sob in številu oseb v stanovanju, Slovenija, večletno",
+      "name": "surs0861004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861004S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in gospodinjstva po številu sob, Slovenija, večletno",
+      "name": "surs0861025s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861025s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861025S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in inštalacijah, Slovenija, večletno",
+      "name": "surs0861040s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861040s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861040S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in številu sob, Slovenija, večletno",
+      "name": "surs0861050s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861050s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861050S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po uporabni površini, občine, Slovenija, večletno",
+      "name": "surs0861107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Izbrani kazalniki stanovanjskega standarda, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs0861201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Električne naprave in opremljenost naprav z energijsko nalepko (%), gospodinjstva, Slovenija, 2010, 2014",
+      "name": "surs1815418s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815418s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815418S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8167, 8257",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za vode, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2700011s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700011s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700011S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Načrpana voda iz javnega vodovoda po vodnih virih (1000 m3), porečja, Slovenija, letno",
+      "name": "surs2750110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po stopnjah čiščenja [1000 m3], kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalnik kakovosti pitne vode, Slovenija, 2004 - 2015",
+      "name": "surs3268604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3268604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3268604S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po statističnih regijah, Slovenija, 2004H2 - 2018H2",
+      "name": "surs0214819s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214819s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214819S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po stanju 31. 12. (SKD 2008), Slovenija, letno",
+      "name": "surs0329103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0329103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0329103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8283",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po številu sob, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558864s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558864s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558864S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja glede na nekatere prostore v sklopu stanovanja, občine, Slovenija, popis 2002",
+      "name": "surs05w1211s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1211s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1211S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po številu gospodinjstev, vrsti stavbe, številu sob, površini in tipu naselja, Slovenija, popis 2002",
+      "name": "surs05w1809s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1809s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1809S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po vrsti stavbe, številu nadstropij, materialu nosilne konstrukcije in vrsti strešne kritine, ter stanovanja po vrsti stavbe in številu nadstropij, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2409s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2409s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2409S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po glavnem viru ogrevanja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2414s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2414s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2414S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po uporabni površini, Slovenija, večletno",
+      "name": "surs0861007s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861007s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861007S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po gostoti naseljenosti [m2 na osebo], občine, Slovenija, večletno",
+      "name": "surs0861103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in inštalacijah, statistične regije, Slovenija, večletno",
+      "name": "surs0861240s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861240s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861240S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po načinu ogrevanja, naselja, Slovenija, večletno",
+      "name": "surs0871205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0871205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0871205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gradbena dovoljenja - izbrani kazalniki, po kohezijskih regijah, Slovenija, letno",
+      "name": "surs1970719s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970719s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970719S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastale količine odpadkov iz proizvodnih in storitvenih dejavnosti (tone) po evropski statistični klasifikaciji odpadkov (EWC - Stat), dejavnosti (SKD 2008) in nevarnosti odpadka, Slovenija, letno",
+      "name": "surs2706302s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706302s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706302S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po mestu izpusta [1000 m3], Slovenija, 2003 - 2016",
+      "name": "surs2750203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadna voda v industriji po načinu izpusta (1000 m3), kohezijski regiji, Slovenija, letno",
+      "name": "surs2750350s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750350s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750350S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji in drugimi bivalnimi prostori glede na vrsto stavbe, občine, Slovenija, popis 2002",
+      "name": "surs05w1203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1203S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po številu sob, občine, Slovenija, popis 2002",
+      "name": "surs05w1206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1206S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po virih ogrevanja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2415s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2415s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2415S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti, vrsti stavbe in letu zgraditve, Slovenija, večletno",
+      "name": "surs0861011s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861011s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861011S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in uporabni površini, Slovenija, večletno",
+      "name": "surs0861030s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861030s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861030S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in opremljenosti, Slovenija, večletno",
+      "name": "surs0861035s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861035s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861035S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in številu sob, občine, Slovenija, večletno",
+      "name": "surs0861125s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861125s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861125S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po uporabni površini, statistične regije, Slovenija, večletno",
+      "name": "surs0861207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po uporabni površini, naselja, Slovenija, večletno",
+      "name": "surs0871202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0871202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0871202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Osnovna površina glede na prostor pridelave, kohezijski regiji, Slovenija, večletno",
+      "name": "surs15p6003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs15p6003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/15P6003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8140",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po letu zgraditve po metodologiji popisa 1991, občine, Slovenija, 1999 - 2001",
+      "name": "surs1907101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, stanovanja po številu sob in površini, po metodologiji popisa 2011, občine, Slovenija, 2010 - 2014",
+      "name": "surs1907112s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907112s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907112S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, po tipu gradbene aktivnosti, po upravnih enotah, Slovenija, letno",
+      "name": "surs1970718s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970718s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970718S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Predelane, odstranjene količine odpadkov (tone) po seznamu odpadkov (LoW), Slovenija, letno",
+      "name": "surs2706312s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706312s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706312S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Voda za namakanje po vodnih virih [1000 m3], Slovenija, letno",
+      "name": "surs2722201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po povodjih in porečjih [1000 m3], Slovenija, letno",
+      "name": "surs2750204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba vode v industriji (1000 m3)",
+      "name": "surs2750325s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750325s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750325S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadna voda v industriji po mestu izpusta in vrsti vode (1000 m3), Slovenija, letno",
+      "name": "surs2750330s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750330s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750330S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki temeljnih naravnih dobrin, Slovenija, letno",
+      "name": "surs2775202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2775202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2775202S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pregled toka odpadkov (tone), Slovenija, četrtletno",
+      "name": "surs2779406s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2779406s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2779406S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/12117",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjske razmere gospodinjstev (%), Slovenija, letno",
+      "name": "sursh162s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh162s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H162S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po letu zgraditve stavbe, občine, Slovenija, popis 2002",
+      "name": "surs05w1204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1204S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji glede na material nosilne konstrukcije in vrsto strešne kritine, občine, Slovenija, popis 2002",
+      "name": "surs05w1205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1205S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja, površina in število sob po legi stanovanja v stavbi in tipu naselja, Slovenija, popis 2002",
+      "name": "surs05w1808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1808S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za bivanje in opravljanje dejavnosti po številu sob, številu sob samo za opravljanje dejavnosti ter tipu naselja in stanovanja skupaj, Slovenija, popis 2002",
+      "name": "surs05w1811s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1811s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1811S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po namenu, vrsti zgraditve ter tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2407s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2407s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2407S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po tipu lastništva, vrsti stavbe in gostoti naseljenosti, Slovenija, večletno",
+      "name": "surs0861003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861003S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število naseljenih stanovanj po uporabni površini in številu prebivalcev, Slovenija, večletno",
+      "name": "surs0861005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in opremljenosti, občine, Slovenija, večletno",
+      "name": "surs0861135s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861135s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861135S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitniški namen ali sekundarno rabo po vrsti stavbe in številu sob, občine, Slovenija, 2011, 2015, 2018",
+      "name": "surs0861150s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861150s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861150S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po tipu lastništva in vrsti stavbe, statistične regije, Slovenija, večletno",
+      "name": "surs0861210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po številu sob, statistične regije, Slovenija, večletno",
+      "name": "surs0861225s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861225s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861225S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež gospodinjstev (%) po stanovanjskih razmerah, kohezijski regiji, Slovenija, letno",
+      "name": "surs0867720s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0867720s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0867720S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, število stanovanj po opremljenosti z napeljavami in s pomožnimi prostori po metodologiji popisa 1991, občine, Slovenija, 1999 - 2001",
+      "name": "surs1907103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, število stanovanj po opremljenosti z napeljavami in s pomožnimi prostori, po metodologiji popisa 2002, statistične regije, Slovenija, 2002 - 2010",
+      "name": "surs1907108s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907108s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907108S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, število stanovanj po letu zgraditve, po metodologiji popisa 2011, statistične regije, Slovenija, 2010 - 2014",
+      "name": "surs1907115s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907115s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907115S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Izbrani kazalniki za odpadke, kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2700010s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2700010s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700010S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastale količine komunalnih odpadkov in ravnanje z njimi (tone), Slovenija, letno",
+      "name": "surs2706101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Količine nastalih, zbranih in odloženih komunalnih odpadkov (tone), kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2706105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastale količine odpadkov iz proizvodnih in storitvenih dejavnosti in ravnanje z njimi (tone), kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2706304s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706304s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706304S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastale količine odpadkov iz proizvodnih in storitvenih dejavnosti in ravnanje z njimi (tone) po klasifikacijskem seznamu odpadkov (LoW), Slovenija, letno",
+      "name": "surs2706308s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706308s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706308S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Investicije za varstvo okolja po dejavnostih in namenu, organizacijsko načelo - SKD 2008 (1000 EUR), Slovenija, letno",
+      "name": "surs2711809s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2711809s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2711809S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8209",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Voda za namakanje po vodnih virih [1000 m3], kohezijske in statistične regije, Slovenija, letno",
+      "name": "surs2722206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2722206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2722206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8176",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Output domačih procesov (1000 ton), Slovenija, letno",
+      "name": "surs2724713s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724713s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724713S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodnja sektorja okoljskega blaga in storitev (1000 EUR) po dejavnostih (SKD 2008) in okoljskih domenah (CEPA in CReMA), Slovenija, 2010 - 2022",
+      "name": "surs2730801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2730801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2730801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/7780",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadne vode po stopnjah čiščenja [1000 m3], Slovenija, 2003 - 2016",
+      "name": "surs2750202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8213",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prečiščena odpadna voda, nastala v industriji, glede na način prečiščevanja (1000 m3), Slovenija, letno",
+      "name": "surs2750340s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750340s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750340S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odpadna voda v industriji po mestu izpusta (1000 m3), kohezijski regiji, Slovenija, letno",
+      "name": "surs2750345s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750345s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750345S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8226",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki naravnih virov, Slovenija, 2000 - 2015",
+      "name": "surs3268902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3268902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3268902S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalnik izpustov toplogrednih plinov, Slovenija, 1986, 1990 - 2014",
+      "name": "surs3269204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3269204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3269204S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po kohezijskih regijah, Slovenija, 2004H2 - 2018H2",
+      "name": "surs0214829s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214829s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214829S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini in številu sob, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558814s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558814s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558814S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po letu zgraditve stavbe, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558862s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558862s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558862S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po uporabi, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0602S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po letu zgraditve stavbe, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0607S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po uporabi ter drugi naseljeni prostori, občine, Slovenija, popis 2002",
+      "name": "surs05w1201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1201S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po napeljavah in pomožnih prostorih, občine, Slovenija, popis 2002",
+      "name": "surs05w1210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1210S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po povprečni površini stanovanja na osebo, občine, Slovenija, popis 2002",
+      "name": "surs05w1212s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1212s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1212S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitek in rekreacijo po številu sob, površini in vrsti stavbe ter skupna površina, občine, Slovenija, popis 2002",
+      "name": "surs05w1213s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1213s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1213S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini, Slovenija, popisa 1991, 2002",
+      "name": "surs05w1802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1802S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po uporabi, drugi naseljeni prostori ter število oseb v stanovanju, Slovenija, popis 2002",
+      "name": "surs05w1803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1803S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in površina stanovanj po letu zgraditve stavbe, tipu naselja, vrsti stavbe in številu nadstropij, Slovenija, popis 2002",
+      "name": "surs05w1805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1805S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in stanovanjska površina po uporabi ter drugi naseljeni prostori, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2401S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini in številu sob, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2402S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po materialu nosilne konstrukcije, vrsti strešne kritine in tipu naselja, statististične regije, Slovenija, popis 2002",
+      "name": "surs05w2408s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2408s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2408S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število in površina stanovanj po lastništvu, tipu naselja in vrsti stavbe, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2412s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2412s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2412S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po materialu nosilne konstrukcije stavbe, vrsti strešne kritine in tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2413s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2413s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2413S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po načinu ogrevanja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2416s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2416s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2416S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po vrsti napeljav, pomožnih prostorih in tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2418s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2418s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2418S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po letu zgraditve stavbe, upravne enote, Slovenija, popis 2002",
+      "name": "surs05w3003s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w3003s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W3003S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po povprečni površini stanovanja na osebo, upravne enote, Slovenija, popis 2002",
+      "name": "surs05w3005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w3005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W3005S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti, vrsti stavbe in načinu ogrevanja, Slovenija, večletno",
+      "name": "surs0861020s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861020s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861020S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po uporabni površini, občine, Slovenija, večletno",
+      "name": "surs0861130s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861130s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861130S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in inštalacijah, občine, Slovenija, večletno",
+      "name": "surs0861140s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861140s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861140S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po tipu lastništva in uporabni površini, statistične regije, Slovenija, večletno",
+      "name": "surs0861202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število naseljenih stanovanj po uporabni površini in številu prebivalcev, statistične regije, Slovenija, večletno",
+      "name": "surs0861205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Delež gospodinjstev (%) po stanovanjskih razmerah in tipu gospodinjstva, Slovenija, letno",
+      "name": "surs0867710s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0867710s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0867710S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Proizvodne zmogljivosti v akvakulturi, Slovenija, letno",
+      "name": "surs1519106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1519106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1519106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8240",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po letu zgraditve, po metodologiji popisa 2002, občine, Slovenija, 2002 - 2010",
+      "name": "surs1907102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po opremljenosti z napeljavami in s pomožnimi prostori, po metodologiji popisa 2002, občine, Slovenija, 2002 - 2010",
+      "name": "surs1907104s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907104s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907104S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po številu sob in površini, po metodologiji popisa 2002, statistične regije, Slovenija, 2002 - 2010",
+      "name": "surs1907107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, število stanovanj po letu zgraditve, po metodologiji popisa 2002, statistične regije, Slovenija, 2002 - 2010",
+      "name": "surs1907109s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907109s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907109S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, stanovanja po letu zgraditve, po metodologiji popisa 2011, občine, Slovenija, 2010 - 2014",
+      "name": "surs1907110s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907110s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907110S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, stanovanja po številu sob in površini, po metodologiji popisa 2011, statistične regije, Slovenija, 2010 - 2014",
+      "name": "surs1907113s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907113s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907113S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, stanovanja po opremljenosti z napeljavami in s pomožnimi prostori, po metodologiji popisa 2011, statistične regije, Slovenija, 2010 - 2014",
+      "name": "surs1907114s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907114s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907114S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Nastale količine odpadkov iz proizvodnih in storitvenih dejavnosti in ravnanje z njimi (tone) po dejavnostih (SKD 2008) in nevarnosti odpadka, Slovenija, letno",
+      "name": "surs2706306s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706306s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706306S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11059, 11061, 11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Investicije za varstvo okolja v industriji po namenu - SKD 2008 (1000 EUR), Slovenija, letno",
+      "name": "surs2711808s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2711808s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2711808S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8209",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Voda po vodnih virih (1000 m3), kohezijski in statistične regije, Slovenija, letno",
+      "name": "surs2750106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2750106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2750106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8214",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Teritorialne enote in hišne številke po kohezijskih regijah, Slovenija, 2000 - 2018",
+      "name": "surs0214830s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0214830s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0214830S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8229",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji in drugimi bivalnimi prostori glede na vrsto stavbe, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558815s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558815s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558815S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po letu zadnje prenove, preračun na občine, veljavne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558866s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558866s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558866S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja po povprečni površini stanovanja na osebo, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558870s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558870s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558870S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja za počitek in rekreacijo po številu sob in površini, preračun na občine, veljavne dne 1. 1. 2007, Slovenija, popis 2002",
+      "name": "surs0558871s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0558871s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0558871S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po napeljavah, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0608S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po letu zgraditve, občine in naselja, Slovenija, popis 2002",
+      "name": "surs05w0609s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w0609s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W0609S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po letu zadnje prenove, občine, Slovenija, popis 2002",
+      "name": "surs05w1208s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1208s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1208S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po letu zgraditve stavbe, občine, Slovenija, popis 2002",
+      "name": "surs05w1209s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1209s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1209S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po številu sob, Slovenija, popisa 1991, 2002",
+      "name": "surs05w1801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1801S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini, številu sob, tipu naselja in število vseh sob v stanovanjih, Slovenija, popis 2002",
+      "name": "surs05w1804s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1804s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1804S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po vrsti zgraditve, materialu nosilne konstrukcije, vrsti strešne kritine ter tipu naselja, Slovenija, popis 2002",
+      "name": "surs05w1806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w1806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W1806S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini, številu sob in število vseh sob v stanovanjih, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2404S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji in stanovanja po letu zgraditve stavbe, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2405S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji po namenu, vrsti zgraditve ter tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2406s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2406s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2406S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja in površina po lastništvu in tipu naselja, statistične regije, Slovenija, popis 2002",
+      "name": "surs05w2411s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w2411s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W2411S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po površini in številu sob ter število vseh sob v stanovanjih, upravne enote, Slovenija, popis 2002",
+      "name": "surs05w3002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w3002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W3002S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stavbe s stanovanji glede na material nosilne konstrukcije in vrsto strešne kritine, upravne enote, Slovenija, popis 2002",
+      "name": "surs05w3004s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05w3004s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05W3004S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naseljena stanovanja, prebivalci in gospodinjstva po številu sob, Slovenija, večletno",
+      "name": "surs0861006s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861006s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861006S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanja po naseljenosti in načinu ogrevanja, statistične regije, Slovenija, večletno",
+      "name": "surs0861220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0861220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0861220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8211",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Električne naprave v stanovanjih in opremljenost naprav z energijsko nalepko [%] [stara metodologija], Slovenija, 1996, 2002",
+      "name": "surs1815454s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1815454s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1815454S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po številu sob in površini, po metodoligiji popisa 1991, občine, Slovenija, 1999 - 2001",
+      "name": "surs1907105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Stanovanjski sklad, stanovanja po številu sob in površini, po metodologiji popisa 2002, občine, Slovenija, 2002 - 2010",
+      "name": "surs1907106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Ocena stanovanjskega sklada, stanovanja po opremljenosti z napeljavami in s pomožnimi prostori, po metodologiji popisa 2011, občine, Slovenija, 2010 - 2014",
+      "name": "surs1907111s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1907111s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1907111S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8217",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki 06. cilja trajnostnega razvoja (SDG): Čista voda in sanitarna ureditev, 2. del, Slovenija, letno",
+      "name": "surs3283828s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs3283828s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/3283828S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Razdelitev sredstev po javnem razpisu za sofinanciranje malih komunalnih čistilnih naprav na območju Občine Pivka",
+      "name": "razdelitev-sredstev-po-javnem-razpisu-za-sofinanciranje-malih-komunalnih-cistilnih-naprav-na-obmocju",
+      "dataset_url": "https://podatki.gov.si/data/dataset/razdelitev-sredstev-po-javnem-razpisu-za-sofinanciranje-malih-komunalnih-cistilnih-naprav-na-obmocju",
+      "links": {
+        "pdf": [
+          "https://podatki.gov.si/dataset/021d31b6-27e5-41cd-a704-b13c6a2c8c6e/resource/7bdf4117-989a-48b8-8953-d87daa0dbb68/download/razdelitevsredstevjrmkn2023.pdf",
+          "https://podatki.gov.si/dataset/021d31b6-27e5-41cd-a704-b13c6a2c8c6e/resource/25fc0785-dc0c-425c-bd11-7d5b0c4d990e/download/prejemnikisredstevmkn2024.pdf"
+        ],
+        "html": [
+          "https://www.pivka.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam naselij po krajevnih skupnostih v občini Tržič",
+      "name": "seznam-naselij-po-krajevnih-skupnostih-v-obcini-trzic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-naselij-po-krajevnih-skupnostih-v-obcini-trzic",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8f05ae43-0fb0-49b4-a546-114d96e3ece5/resource/b3e8f94c-645c-43b4-b3ab-6801a86d7355/download/naseljapoksjihopsi2024.csv"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi novogradenj (mesec / povprečje leta 2021) po vrsti stavbe, Slovenija, mesečno",
+      "name": "surs1970722s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1970722s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1970722S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8218",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obdelava odpadkov (tone) po evropski statistični klasifikaciji odpadkov (EWC - Stat), postopku obdelave in nevarnosti, Slovenija, večletno",
+      "name": "surs2706320s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706320s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706320S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naprave za predelavo in odstranjevanje odpadkov, kohezijski regiji, Slovenija, večletno",
+      "name": "surs2706321s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706321s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706321S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odlaganje odpadkov, kohezijski regiji, Slovenija, večletno",
+      "name": "surs2706322s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2706322s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2706322S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11063",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "NAMEA emisije po rezidenčnem principu, Slovenija, letno",
+      "name": "surs2719902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2719902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8173",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "NAMEA emisije toplogrednih plinov v zrak (SKD 2008), Slovenija, četrletno",
+      "name": "surs2719903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2719903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719903S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pomožni izvajalci okoljevarstvenih storitev, po dejavnostih (SKD 2008), izdatkih (mio. EUR) in okoljskih domenah (CEP), Slovenija, letno",
+      "name": "surs2731504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8273",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Specializirani izvajalci okoljevarstvenih storitev po izdatkih (mio. EUR) in okoljskih domenah (CEP), Slovenija, letno",
+      "name": "surs2731505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8273",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Okoljske subvencije in podobni transferji (mio. EUR) po okoljskih domenah (CEP), Slovenija, letno",
+      "name": "surs2731506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2731506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2731506S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Oskrba z vodo (1.000 m3), Slovenija, letno",
+      "name": "surs2787801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2787801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2787801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/14202",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba vode (1.000 m3), Slovenija, letno",
+      "name": "surs2787802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2787802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2787802S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/14202",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sprememba vodnih zalog (mio. m3), Slovenija, letno",
+      "name": "surs2787803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2787803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2787803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/14202",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Okolje in prostor",
+    "open_data": true
+  }
+}

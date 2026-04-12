@@ -1,0 +1,1547 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Zdravje\" AND open_data:true",
+  "total_datasets": 133,
+  "datasets": [
+    {
+      "title": "Statistični podatki aplikacije #OstaniZdrav",
+      "name": "statisticni-podatki-aplikacije-ostanizdrav",
+      "dataset_url": "https://podatki.gov.si/data/dataset/statisticni-podatki-aplikacije-ostanizdrav",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d3e718b3-01f0-40bd-93b0-b56d3bb4e97f/resource/f8711982-df42-48e6-9c07-92fcb89cb15c/download/android2.csv",
+          "https://podatki.gov.si/dataset/d3e718b3-01f0-40bd-93b0-b56d3bb4e97f/resource/1786b9c7-def2-40f0-bccf-7866b5878ef5/download/iosprenosi.csv",
+          "https://podatki.gov.si/dataset/d3e718b3-01f0-40bd-93b0-b56d3bb4e97f/resource/406b4306-cf45-4d49-b44e-48c8b4c1de78/download/tanstatistika.csv",
+          "https://podatki.gov.si/dataset/d3e718b3-01f0-40bd-93b0-b56d3bb4e97f/resource/1167a46b-22ac-455f-b134-fedaf258ea0d/download/tanvneseno.csv"
+        ],
+        "html": [
+          "https://www.gov.si/teme/koronavirus-sars-cov-2/mobilna-aplikacija-ostanizdrav/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije defibrilatorjev (AED)",
+      "name": "lokacije-defibrilatorjev-aed",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-defibrilatorjev-aed",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5abdc896-d7b3-43a1-b580-ab2e6cff981c/resource/945e24c6-4808-4ee7-a86c-ff56a703fc6a/download/lokacijeaedvobinibreice.csv"
+        ],
+        "html": [
+          "https://www.google.com/maps/d/viewer?mid=14oFqj7aqimyHnWQyb0GmcZ8SCT8kRlPT&ll=45.933386652333716%2C15.62185452339746&z=11"
+        ]
+      }
+    },
+    {
+      "title": "Spremljanje covid-19 v bolnišnicah - EPISARI",
+      "name": "spremljanje-covid-19-v-bolnisnicah-episari",
+      "dataset_url": "https://podatki.gov.si/data/dataset/spremljanje-covid-19-v-bolnisnicah-episari",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/7d73b91a-b551-4783-bb2c-8e4c8953a974/resource/7716561d-3c4e-4522-be4c-493cce35510a/download/episaricsv.csv"
+        ],
+        "pdf": [
+          "https://podatki.gov.si/dataset/7d73b91a-b551-4783-bb2c-8e4c8953a974/resource/cd5ee72f-063f-49f0-959c-18d2d7fe23db/download/metodolokanavodilaverzija5final.pdf"
+        ]
+      }
+    },
+    {
+      "title": "Potrjeni primeri covid-19 po cepljenju v Sloveniji (NIJZ CNB)",
+      "name": "potrjeni-primeri-covid-19-po-cepljenju",
+      "dataset_url": "https://podatki.gov.si/data/dataset/potrjeni-primeri-covid-19-po-cepljenju",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/47edd697-a06b-44a6-86b7-0092ea34274a/resource/eb4bd862-737d-47f0-8e0a-47541986c2c3/download/pc14dnipozpublic.csv"
+        ],
+        "html": [
+          "https://www.nijz.si/sl/dnevno-spremljanje-okuzb-s-sars-cov-2-covid-19"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn in specializiranih prodajaln, ki imajo dovoljenje za izdajo zdravil prek medmrežja",
+      "name": "seznam-lekarn-in-specializiranih-prodajaln-ki-imajo-dovoljenje-za-izdajo-zdravil-prek-medmrezja",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-in-specializiranih-prodajaln-ki-imajo-dovoljenje-za-izdajo-zdravil-prek-medmrezja",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bf1f3241-50c9-4353-a6ee-f4ef1154da6c/resource/4c4d136d-bc66-4f89-a7f2-dfeecb1d8e25/download/lekarne.csv"
+        ],
+        "html": [
+          "http://www.mz.gov.si/",
+          "https://www.gov.si/teme/mreza-javne-zdravstvene-sluzbe/#e34438"
+        ]
+      }
+    },
+    {
+      "title": "Hospitalizirani primeri SARI potrjeni covid-19 po cepilnem statusu v Sloveniji (NIJZ CNB)",
+      "name": "hospitalizirani-primeri-sari-potrjeni-covid-19-po-cepilnem-statusu-v-sloveniji-nijz-cnb",
+      "dataset_url": "https://podatki.gov.si/data/dataset/hospitalizirani-primeri-sari-potrjeni-covid-19-po-cepilnem-statusu-v-sloveniji-nijz-cnb",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2a40d74b-4e75-4051-8ab7-289c70348cb7/resource/816af1be-4e56-4fca-a647-db7b09a2c98b/download/saricov19hospitalizacija.csv"
+        ],
+        "html": [
+          "https://www.nijz.si/sl/dnevno-spremljanje-okuzb-s-sars-cov-2-covid-19"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca defibrilatorjev v Občini Žalec",
+      "name": "evidenca-defibrilatorjev-v-obcini-zalec3",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-defibrilatorjev-v-obcini-zalec3",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c6d97ff6-df33-42eb-949f-ce6861e95967/resource/e69079c7-be03-42bf-999d-2c02cd4a047d/download/evidencadefibrilatorjev2.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije defibrilatorjev v občini Sevnica",
+      "name": "lokacije-defibrilatorjev-v-obcini-sevnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-defibrilatorjev-v-obcini-sevnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8166f125-10e6-44b1-aaf1-d4f196d28ab6/resource/c6d4f4e8-9e6d-42c9-b263-6eda466c9e6a/download/defibrilatorjivobinisevnica.csv"
+        ],
+        "html": [
+          "https://www.obcina-sevnica.si/sl/pametna-skupnost/interaktivni-zemljevid/",
+          "https://www.google.com/maps/d/edit?mid=1GESV8e1A-51tXXxWICyjM64a-F34SbzX&usp=sharing"
+        ]
+      }
+    },
+    {
+      "title": "Dnevno spremljanje potrjenih primerov covida-19 (NIJZ CNB)",
+      "name": "dnevno-spremljanje-okuzb-covid-19",
+      "dataset_url": "https://podatki.gov.si/data/dataset/dnevno-spremljanje-okuzb-covid-19",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/56a1a649-5201-46d2-b503-03c6b36a6ee7/resource/b2fee4c1-f579-4f6d-8d54-7a1b8755e970/download/covid19potrjeniprimeri.csv",
+          "https://podatki.gov.si/dataset/56a1a649-5201-46d2-b503-03c6b36a6ee7/resource/9f297da4-1a93-4f62-8c14-cfff5c5d7377/download/vwlusyokuzeni.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Trbovlje",
+      "name": "lokacije-aed-v-obcini-trbovlje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-trbovlje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/51ae16d0-4ee3-4b11-8d45-b03a2f1c074e/resource/ff5f95b1-c280-4145-9e4f-0d1bb84d0bdd/download/trbovljeopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Jesenice",
+      "name": "lokacije-aed-v-obcini-jesenice",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-jesenice",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/847e4f3c-405c-4f67-86ad-5de6a95679d7/resource/3f42fbf6-4bef-46b9-8e47-793bc50c238d/download/008ob006jesenicelokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Mestni občini Novo mesto",
+      "name": "lokacije-aed-v-mestni-novo-mesto",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-mestni-novo-mesto",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1c232cb2-39b3-43bc-b647-1b9f962eb74e/resource/3d22d1a1-0da4-4306-a13d-79a9f78bc716/download/novomestoopsiaed.csv"
+        ],
+        "html": [
+          "https://novomesto.si/"
+        ]
+      }
+    },
+    {
+      "title": "ŠPORTNI OBJEKTI OBČINA GROSUPLJE",
+      "name": "sportni-objekti-obcina-grosuplje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sportni-objekti-obcina-grosuplje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/4122c34d-f0dd-4500-941c-58404b4ed960/resource/cc2fad95-484d-47ce-8d62-5b0f04755848/download/sportniobjektiobcinagrosuplje.csv"
+        ],
+        "html": [
+          "https://grosuplje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Javne zdravstvene službe na primarni ravni v občini Izola",
+      "name": "javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-izola",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-izola",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3d3d96d1-3135-4063-9d59-c8d2851a75cd/resource/e15e8def-b9e5-4d3d-b53d-8ecc38711ec8/download/zdravstvenidomoviinambulantevobciniizola.csv"
+        ],
+        "html": [
+          "https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-vrsti-izvajalcev/",
+          "https://izola.si/"
+        ]
+      }
+    },
+    {
+      "title": "Prejemniki dolgotrajne oskrbe po načinu izvajanja (število), Slovenija, letno",
+      "name": "sursh170s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/sursh170s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H170S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8124",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Kočevje",
+      "name": "lokacije-aed-v-obcini-kocevje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-kocevje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ffb208ae-9d38-499b-a6e5-41546a85cfa6/resource/48438c64-d5b4-4612-b22e-9655084f00f6/download/aedvobinikoevje.csv"
+        ],
+        "html": [
+          "https://www.kocevje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam Lekarn v Mestni občini Velenje",
+      "name": "seznam-lekarn-v-mestni-obcini-velenje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-mestni-obcini-velenje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bcfe6002-18ec-4b2b-8aa8-2251ed6eb212/resource/150c176e-9243-4df8-8312-57f0ed94d5a5/download/velenjeopsilekarne.csv"
+        ],
+        "html": [
+          "https://www.velenje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Kostel",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-kostel",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-kostel",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bd79cde0-8301-41cb-a5ea-884355e45772/resource/979853ed-0db0-482b-836c-09a625eb7e44/download/002ob003kostelzdravstvenidomoviinambulante.csv"
+        ],
+        "html": [
+          "https://www.kostel.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Kranjska Gora",
+      "name": "lokacije-aed-v-obcini-kranjska-gora",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-kranjska-gora",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1a971c69-0b8d-40d5-9f91-49c46117fcc2/resource/669e92f7-9543-4c0a-a951-81a45e6bfa4f/download/008ob009kranjskagoralokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Splošno zdravstveno stanje oseb, glede na trenutni status aktivnosti, Slovenija, 2005 - 2022",
+      "name": "surs0868505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0868505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0868505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Tržič",
+      "name": "zdravstvene-ustanove-v-obcini-trzic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-trzic",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/20f0dd1a-440c-4236-8e22-9d0f9f311be1/resource/70ce6784-20ec-47de-b2c5-7e62a4f6bf5c/download/006ob014trziczdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvena mreža na primarni ravni v Mestni občini Koper",
+      "name": "zdravstvena-mreza-na-primarni-ravni-v-mestni-obcini-koper",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvena-mreza-na-primarni-ravni-v-mestni-obcini-koper",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/00b65b55-7de7-4f7a-8dd6-710612572e13/resource/461903da-3c68-42ba-b608-7d3155240c4c/download/zdravstvenamreza.csv"
+        ],
+        "html": [
+          "https://www.koper.si/obcina/obcinska-uprava/urad-za-druzbene-dejavnosti/zdravstvo/"
+        ]
+      }
+    },
+    {
+      "title": "Precepljenost proti covid19 (NIJZ CNB)",
+      "name": "precepljenost-proti-covid19",
+      "dataset_url": "https://podatki.gov.si/data/dataset/precepljenost-proti-covid19",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3634ebb7-605b-412a-8145-96b714c1e72b/resource/639e2e1a-7d4b-4b10-8cdc-f2f8b0258ea0/download/vwlusycepljenje.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Šenčur",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-sencur",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-sencur",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3dceb1a9-dec3-4837-bb71-dfbcf6f95b9b/resource/89df2a44-4e10-478e-8c3f-9b66f4ad596c/download/006ob013enurzdravstvenidomovi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Mokronog-Trebelno",
+      "name": "lokacije-aed-v-obcini-mokronog-trebelno",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-mokronog-trebelno",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c78566d7-b108-4294-b437-ae4d38b4e394/resource/33d6d5fc-5b60-44cc-908b-c6667684c83d/download/lokacijeaedvobcinimokronogtrebelno.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v Mestni občini Kranj",
+      "name": "zdravstvene-ustanove-in-domovi-v-mestni-obcini-kranj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-mestni-obcini-kranj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/42e85917-9809-46e1-bb3a-83d2ce098e68/resource/bc7ce21d-2fc0-4ce1-b124-af9b77bb7c80/download/006ob006kranjzdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Radlje ob Dravi",
+      "name": "defibrilatorji-v-obcini-radlje-ob-dravi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-radlje-ob-dravi",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/791cc59b-9c31-4f84-a4ae-78bff47c59db/resource/dd0059a8-14e8-47c6-963b-9dde9a8e353d/download/008ob008radljeobdravidefibrilatorji.csv"
+        ],
+        "html": [
+          "http://www.obcina-radlje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Javne zdravstvene službe na primarni ravni v občini Medvode",
+      "name": "javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-medvode",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-medvode",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/e5421f2a-a052-4769-b3d5-4cf1fae34596/resource/b29cd193-8529-4940-a9d7-ca8f8e202e5d/download/zdravstvenidomlekarna.csv"
+        ],
+        "html": [
+          "https://www.medvode.si/",
+          "https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-vrsti-izvajalcev/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Bohinj",
+      "name": "lokacije-aed-v-obcini-bohinj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-bohinj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/9a93bc54-3514-4b9f-983c-31897edd828a/resource/36195dc2-230a-4a8b-9797-9855ea1be1ea/download/008ob02bohinjlokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Mestni občini Velenje",
+      "name": "lokacije-aed-v-mestni-obcini-velenje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-mestni-obcini-velenje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/acb025ae-e520-4c5d-9ad4-6b4a0ed4e790/resource/4e494d8b-88fa-4e64-a78c-3906f86e42b1/download/velenjeopsiaed.csv"
+        ],
+        "html": [
+          "https://www.velenje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Mestni občini Novo mesto",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-mestni-obcini-novo-mesto",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-mestni-obcini-novo-mesto",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5315d6f7-4bfd-44f2-8c5d-0c899834855c/resource/38a9f816-434f-41ec-9933-0d309c0d6239/download/novomestoopsijavnezdravstveneustanove.csv"
+        ],
+        "html": [
+          "https://novomesto.si/",
+          "https://www.gov.si/teme/mreza-javne-zdravstvene-sluzbe/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Mežica",
+      "name": "defibrilatorji-v-obcini-mezica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-mezica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d2ac2736-da27-477a-9554-f3a41d9fd78a/resource/d2f44904-f2e3-45d3-8e39-abb6a961c47b/download/008ob003meicadefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.mezica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Šenčur",
+      "name": "lokacije-aed-v-obcini-sencur",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-sencur",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/37aa3301-b5c7-4c9f-9779-60ef49d9e52d/resource/294bef2d-35ea-4022-b1d4-4050730afd16/download/008ob013enurlokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca defibrilatorjev v Občini Kozje",
+      "name": "evidenca-defibrilatorjev-v-obcini-kozje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-defibrilatorjev-v-obcini-kozje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8405c7e3-1c80-468a-b9b6-9fadc155daa4/resource/b2f61beb-1f4a-483e-9bc2-3e2b5f744bdc/download/evidencadefibrilatorjevvobinikozje.csv"
+        ],
+        "html": [
+          "https://www.kozje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Jezersko",
+      "name": "lokacije-aed-v-obcini-jezersko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-jezersko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/911b3803-f4c7-4e00-b5d3-242a6de8e3a2/resource/ba330679-c2a2-45dc-9f8b-6e3dbdc60b32/download/008ob014jezerskolokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Trebnje",
+      "name": "seznam-lekarn-v-obcini-trebnje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-trebnje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a68a7c4e-17ab-48f9-86e1-e8a86efc898b/resource/b28b993f-1fa0-4768-aabd-a5ed2f5ed1bd/download/trebnjeopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Gorenja vas - Poljane",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-gorenja-vas-poljane",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-gorenja-vas-poljane",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/c5400d0d-0930-43ff-af74-3a967a8d448e/resource/2156c84f-49d2-48b0-a2ab-34a6c49fd396/download/006gorenjavaspoljanezdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Žirovnica",
+      "name": "lokacije-aed-v-obcini-zirovnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-zirovnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2b0426f3-101f-4603-baa3-ec47322ee78c/resource/197a2dd1-c939-479e-8351-126f87aa63e1/download/008ob017irovnicalokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Javne zdravstvene službe na primarni ravni v občini Ankaran",
+      "name": "javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-ankaran",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-ankaran",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/7dcf5e74-cc77-46db-a48f-be927d74a4ec/resource/5e4bf64b-42a2-4377-a383-ca957d231bab/download/javnezdravstveneslube.csv"
+        ],
+        "html": [
+          "https://obcina-ankaran.si/sl/zivljenje-v-ankaranu/zdravje"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v mestni občini Slovenj Gradec",
+      "name": "defibrilatorji-v-mestni-obcini-slovenj-gradec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-mestni-obcini-slovenj-gradec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d6bc4b98-000f-4048-8867-caf6e0824fb6/resource/7f4cb1f5-3040-4105-ac3d-49f30f0d94ae/download/008ob011slovenjgradecdefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.slovenjgradec.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Vuzenica",
+      "name": "defibrilatorji-v-obcini-vuzenica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-vuzenica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/efe6bc25-08fb-4d1f-bc69-d183f745f297/resource/577e0b03-ee89-47bc-a3ee-238b7cdb13db/download/008ob012vuzenicadefibrilatorji.csv"
+        ],
+        "html": [
+          "http://www.vuzenica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Straža",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-straza",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-straza",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/520ef373-0049-4fba-8ae7-3efcbb7fe66c/resource/aae661b9-2069-4da3-b571-3d6630dcabcc/download/strazaopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v mestni občini Slovenj Gradec",
+      "name": "zdravstvene-ustanove-v-mestni-obcini-slovenj-gradec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-mestni-obcini-slovenj-gradec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/eb87b486-b849-4d5d-b9fd-c96541a63b5c/resource/80935673-d86f-435b-b6da-062f0bb67431/download/005ob011slovenjgradeczdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.slovenjgradec.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Ribnica na Pohorju",
+      "name": "zdravstvene-ustanove-v-obcini-ribnica-na-pohorju",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-ribnica-na-pohorju",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/6389e06f-aead-4872-aa21-3e1cdd1b46b7/resource/4c405a59-e22d-4195-a537-89667c350623/download/005ob010ribnicanapohorjuzdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.ribnicanapohorju.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Muta",
+      "name": "zdravstvene-ustanove-v-obcini-muta",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-muta",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/488333b8-e3ef-4056-b0bf-a1acf04636b3/resource/47b45aac-3860-41f0-98cc-33d4583a04b4/download/005ob005mutazdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.muta.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Šentjernej",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-sentjernej",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-sentjernej",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/268e815e-3503-4ab9-b063-c128f75afe04/resource/90cd3e04-1b1d-4645-bda9-700d391f8d43/download/strazaopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Šentjernej",
+      "name": "seznam-lekarn-v-obcini-sentjernej",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-sentjernej",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3d418499-4efa-4c33-84c6-45a217117eb6/resource/3cdc64ae-6064-4f89-ba63-9a13bd358753/download/strazaopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Straža",
+      "name": "seznam-lekarn-v-obcini-straza",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-straza",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d1bd2a8b-4e27-4268-a8e6-419688cd6305/resource/12446ea7-bfab-4e9c-9cd2-5aca1e7085a4/download/strazaopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Ravne na Koroškem",
+      "name": "zdravstvene-ustanove-v-obcini-ravne-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-ravne-na-koroskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/28f80c86-3ecf-4693-bf58-c427381a2f1f/resource/5b8fdc86-a4b8-4b69-a1f6-90c917af27a3/download/005ob009ravnenakorokemzdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.ravne.si/"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba prepovedanih drog kadarkoli v življenju po spolu, statistični regiji in letu raziskave, Slovenija, 2012 in 2018",
+      "name": "nijz20602004",
+      "dataset_url": "https://podatki.gov.si/data/dataset/nijz20602004",
+      "links": {
+        "html": [
+          "https://podatki.nijz.si/Selection.aspx?px_tableid=20602004.px&px_language=sl&px_db=NIJZ%20podatkovni%20portal&px_path=NIJZ podatkovni portal/2 Determinante zdravja/6 Prepovedane droge/2 Uporaba prepovedanih drog/",
+          "https://podatki.nijz.si/docs/Metodološka_pojasnila_ATADD.pdf",
+          "https://www.scb.se/en/services/statistical-programs-for-px-files/install-px-win/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Tržič",
+      "name": "lokacije-aed-v-obcini-trzic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-trzic",
+      "links": {
+        "html": [
+          "https://gz-trzic.si/lokacije-aed/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Bled",
+      "name": "lokacije-aed-v-obcini-bled",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-bled",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b4993312-55ea-4f9f-8f9d-9fd247db0301/resource/13de5413-0402-476c-a7ed-f5543504eb5d/download/008ob001bledlokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Velike Lašče",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-velike-lasce",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-velike-lasce",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/0b780142-8ea2-419d-8a4d-ab7e672f63dd/resource/0e617478-5ef1-4db8-9a68-4101bbdf27b9/download/002ob009velikelascezdravstvenidomoviinambulante.csv"
+        ],
+        "html": [
+          "https://obcina.velike-lasce.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije defibrilatorjev v občini Krško",
+      "name": "lokacije-defibratorjev-v-obcini-krsko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-defibratorjev-v-obcini-krsko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d82c1820-33b5-443b-8bcf-d94fe107df37/resource/857fcfc8-54dd-4c3c-bed7-6ad4be5bbf5e/download/seznamdefibrilatorjevvobinikrsko.csv"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Ravne na Koroškem",
+      "name": "defibrilatorji-v-obcini-ravne-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-ravne-na-koroskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a780cd3b-e582-45bb-a45d-1ede25fd473c/resource/7c46ba95-197a-4da1-b2b5-38dc1ec0def2/download/008ob009ravnenakorokemdefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.ravne.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Radovljica",
+      "name": "lokacije-aed-v-obcini-radovljica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-radovljica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/cbc90241-f34c-41b2-b5ad-2a3fdd72d142/resource/cfbee082-da6e-4da8-82dc-e2cf3b87a87f/download/004ob012radovljicaaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Preddvor",
+      "name": "lokacije-aed-v-obcini-preddvor",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-preddvor",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/e06a6152-7010-4fb3-b2ef-bebd45bfb268/resource/ec7d785d-4993-4b5a-99da-7f7988977fef/download/002ob011preddvoraed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Radeče",
+      "name": "defibrilatorji-v-obcini-radece",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-radece",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a57a0a4a-beb3-411e-be43-645589254e9e/resource/13f6f8d9-c1b9-4ece-af60-b4c1ea74cc11/download/opsiradecedefibrilatorji.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Železniki",
+      "name": "lokacije-aed-v-obcini-zelezniki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-zelezniki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/947e5361-78ff-48af-9fa0-34e0ff39be8c/resource/0ee6a8d5-a708-4ffc-9bcd-869f95842d4a/download/008ob01eleznikilokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Železniki",
+      "name": "zdravstvene-ustanove-v-obcini-zelezniki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-zelezniki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/989b9408-752e-4bb0-8609-753b525189b4/resource/b9ec3847-22d1-494a-8415-4673af520441/download/006ob015eleznikizdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Dravograd",
+      "name": "defibrilatorji-v-obcini-dravograd",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-dravograd",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/63695563-4bc1-4103-a571-19819a8e46f4/resource/7dbaabc5-7f00-4fa8-94a9-224d8ce7895e/download/008ob002dravograddefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.dravograd.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Muta",
+      "name": "defibrilatorji-v-obcini-muta",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-muta",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5fbf0658-36b7-4af3-99ab-78ff2cc402fe/resource/35ddc5fc-f2f7-4322-ba36-6381ae97d00d/download/008ob005mutadefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.muta.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Črna na Koroškem",
+      "name": "defibrilatorji-v-obcini-crna-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-crna-na-koroskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/457143e7-2cd6-4a86-ac91-fdbd44888395/resource/fb688c71-8b9f-420c-9b84-2073561ac4dc/download/008ob001rnanakorokemdefibrilatorji.csv"
+        ],
+        "html": [
+          "http://www.crna.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Mislinja",
+      "name": "defibrilatorji-v-obcini-mislinja",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-mislinja",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/37444f60-ccfb-4839-bc19-659a7bd27824/resource/06554e52-a7dd-497b-aa59-b83f66007de0/download/008ob004mislinjadefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.mislinja.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Ribnica na Pohorju",
+      "name": "defibrilatorji-v-obcini-ribnica-na-pohorju",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-ribnica-na-pohorju",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2d093fe0-b02b-41d9-8d93-29644fe50264/resource/3e345bd1-b711-45f7-ae0b-017fd7fceb15/download/008ob010ribnicanapohorjudefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.ribnicanapohorju.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Naklo",
+      "name": "lokacije-aed-v-obcini-naklo",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-naklo",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/67826d61-0b64-4c89-b0ba-60e69c39e491/resource/d73e034c-3f0d-4c89-8a79-e5caf092a14b/download/008ob010naklolokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Šoštanj",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-sostanj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-sostanj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/fa5b72cd-e400-4fa3-b05f-e2265d765530/resource/1ff8ba14-2d72-4c8e-af1b-3cadb206216f/download/sostanjopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Žirovnica",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-zirovnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-zirovnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/2520ad7b-5094-400b-970d-daca2fe9d461/resource/c137926c-c166-4756-8999-d0f31338da8a/download/006ob017irovnicazdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Bistrica ob Sotli",
+      "name": "lokacije-aed-v-obcini-bistrica-ob-sotli",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-bistrica-ob-sotli",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/34d0b331-3be7-440d-b092-885746909cb7/resource/6d7177fb-63a7-491a-b2ba-f11fdfaa89aa/download/lokacijeaedvobinibistricaobsotli.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Mirna Peč",
+      "name": "lokacije-aed-v-obcini-mirna-pec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-mirna-pec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a5c66aa3-4f16-4fec-823e-a9498815a9cb/resource/34256c39-f8c5-4538-887d-e913be9587e9/download/mirnapecopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Črnomelj",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-crnomelj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-crnomelj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/02d56db0-d6d8-4a21-99f2-b28d76c70cd8/resource/85854faf-96af-426e-8eea-b37f994e15f7/download/002ob001rnomeljzdravstvenidomoviinambulante.csv"
+        ],
+        "html": [
+          "http://www.crnomelj.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Trbovlje",
+      "name": "seznam-lekarn-v-obcini-trbovlje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-trbovlje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a51fc963-40c3-41ae-b5d5-83bf79a7b3c1/resource/bd390e61-b2d0-48ea-b38a-d45f63ead92d/download/trbovljeopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Jezersko",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-jezersko",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-jezersko",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/fe0a261a-4c34-4e10-a823-61a012c47e0a/resource/939d5cc4-62eb-4328-a31e-0f40868f34a5/download/006ob014jezerskozdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Žiri",
+      "name": "lokacije-aed-v-obcini-ziri",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-ziri",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5f6e1f13-119a-4138-8aa5-9c9c052848ac/resource/340e3e1d-0f1a-4e2d-a0be-41062ef04dd9/download/008lokacijeaeddomovobinairi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih AED v občini Mirna",
+      "name": "seznam-javno-dostopnih-aed-v-obcini-mirna",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-aed-v-obcini-mirna",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/6ccdb2cf-7fd9-447f-ad55-0ea37c5514c9/resource/fd53378b-4053-45f3-bbe7-cfd44bdb7e66/download/aedseznammirna.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Mislinja",
+      "name": "zdravstvene-ustanove-v-obcini-mislinja",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-mislinja",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1d3a13ae-dc51-4cb6-8795-75c43dd29b36/resource/dc425414-30c2-4e58-a425-28eb10300caf/download/005ob004mislinjazdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.mislinja.si/"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca defibrilatorjev v Občini Prebold",
+      "name": "evidenca-defibrilatorjev-v-obcini-prebold",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-defibrilatorjev-v-obcini-prebold",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f0850dc2-d0e7-441a-af84-7950a5d128c5/resource/ec8f2892-2e61-4e80-90ca-9cd732cf0a8b/download/evidencadefibrilatorjevvobciniprebold.csv"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Prevalje",
+      "name": "defibrilatorji-v-obcini-prevalje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-prevalje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/782ebece-0e02-4106-b69d-bd5d42930e2a/resource/82e651e9-284e-492b-a559-35099c2333de/download/008ob007prevaljedefibrilatorji.csv"
+        ],
+        "html": [
+          "http://www.prevalje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Kostanjevica na Krki",
+      "name": "lokacije-aed-v-obcini-kostanjevica-na-krki",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-kostanjevica-na-krki",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/4a9157bc-c20d-42d1-a389-b30833dfa6c6/resource/4a4cdc54-cee1-4fd0-9f2b-a6f71296094f/download/avtomatskidefibrilatorji.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Loški Potok",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-loski-potok",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-loski-potok",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/dbfdcf69-fa84-4ba2-a46b-fc8a38bd1d5e/resource/c6273249-19e3-4d3c-ada2-a561ccf10af0/download/002ob004lokipotokzdravstvenidomoviinambulatne.csv"
+        ],
+        "html": [
+          "https://www.loski-potok.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Mežica",
+      "name": "zdravstvene-ustanove-v-obcini-mezica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-mezica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bb7fdf34-9a4d-4899-9c89-38d3474c5866/resource/8212e09b-e96c-4b68-a03c-566344b0ed41/download/005ob003meicazdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.mezica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Vuzenica",
+      "name": "zdravstvene-ustanove-v-obcini-vuzenica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-vuzenica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/136d3b8b-5801-4a1a-a696-fffed4b66787/resource/1f7e4a45-99a2-4070-961e-568457a93f50/download/005ob012vuzenicazdravstvenidomovi.csv"
+        ],
+        "html": [
+          "http://www.vuzenica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Podvelka",
+      "name": "zdravstvene-ustanove-v-obcini-podvelka",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-podvelka",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/49a66fc9-fd4c-4126-889e-559af4a72d5a/resource/ef872009-7e8b-4a64-91ce-acaa42e50f02/download/005ob006podvelkazdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.podvelka.si/"
+        ]
+      }
+    },
+    {
+      "title": "Splošno zdravstveno stanje oseb, glede na starost, Slovenija, letno",
+      "name": "surs0868510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs0868510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0868510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8291",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Mestni občini Kranj",
+      "name": "lokacije-aed-v-mestni-obcini-kranj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-mestni-obcini-kranj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8e1c376f-a9cb-4058-a62e-e953133ab6e8/resource/38b4f427-a956-4b6d-80fb-27c4838fd246/download/008ob008kranjaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Mestni občini Velenje",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-mestni-obcini-velenje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-mestni-obcini-velenje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a57537da-558c-4276-9674-e018d9886d40/resource/949b5ea8-5ddd-4327-9025-4b66b543e193/download/velenjeopsijavnezdravstveneustanove.csv"
+        ],
+        "html": [
+          "https://www.velenje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Šoštanj",
+      "name": "lokacije-aed-v-obcini-sostanj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-sostanj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/33813361-b5df-462e-b043-0f699f8e3b98/resource/8bc1898e-35ff-4a98-ade4-6ef2361d586e/download/sostanjopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Straža",
+      "name": "lokacije-aed-v-obcini-straza",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-straza",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/024d6ee4-f4be-4bf8-ad79-e0c39f4a5c58/resource/c42c1ee8-aaf1-4832-b8c8-ede7e75d7727/download/strazaopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Kranjska Gora",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-kranjska-gora",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-kranjska-gora",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ab64b836-4f7f-4587-a77b-c81a6c76fa2f/resource/49e1fa4e-73e0-4e7b-bddf-2fe31abb9694/download/006ob009kranjskagorazdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Žiri",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-ziri",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-ziri",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/fc8fb614-3974-431a-9716-730ec65aea2e/resource/318cac54-3168-47e7-82bc-25a22de2e68d/download/006zdravstvenidomoviinambulanteobinairi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam Lekarn v Mestni občini Novo mesto",
+      "name": "seznam-lekarn-v-mestni-obcini-novo-mesto",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-mestni-obcini-novo-mesto",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ccf99c58-8da1-4866-9082-210c5f252837/resource/64f16b89-bef6-4a18-8f5f-dd53e1a43c5a/download/novomestoopsilekarne.csv"
+        ],
+        "html": [
+          "https://novomesto.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Cerklje na Gorenjskem",
+      "name": "lokacije-aed-v-obcini-cerklje-na-gorenjskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-cerklje-na-gorenjskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/e9449b84-9b3e-4a16-bce7-a697ab26cea3/resource/df03e23f-b1c4-42fc-9fea-0d34383793ab/download/008ob003cerkljenagorenjskemlokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Gorje",
+      "name": "lokacije-aed-v-obcini-gorje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-gorje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5262b783-c69d-4efe-8b04-bc0ce9ea9989/resource/c4047c17-2ed4-4e96-b09a-602a992e858c/download/008ob005gorjelokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Bled",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-bled",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-bled",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/81da9cc7-2687-4789-9e8c-f3fc73bed708/resource/616fbe17-1fe2-40ca-a445-b69553ff8303/download/006ob001bledzdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Javne zdravstvene službe na primarni ravni v občini Brezovica",
+      "name": "javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-brezovica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javne-zdravstvene-sluzbe-na-primarni-ravni-v-obcini-brezovica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1defc2b3-7f62-4198-82d0-60e71dfb1669/resource/529440f2-1416-4d91-818d-f114b867740b/download/koncesionarji.csv"
+        ],
+        "html": [
+          "http://www.brezovica.si"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Trebnje",
+      "name": "lokacije-aed-v-obcini-trebnje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-trebnje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/15f76d14-f813-410e-8e98-4e1286fa997e/resource/f5860d0d-bcb8-4190-978b-6899f57f750e/download/trebnjeopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Bohinj",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-bohinj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-bohinj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/9f6276cf-8d3d-4350-beb2-db75e2a4d680/resource/3a6dc8a2-e36d-4b03-9a5b-bce59d379c54/download/006ob02bohinjzdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Jesenice",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-jesenice",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-jesenice",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/d9d500dc-2bb3-468e-a860-aec158227545/resource/b4f69474-33fc-4743-b6ae-73afc9388191/download/006ob006jesenicezdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Trbovlje",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-trbovlje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-trbovlje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8876a301-1a95-4bfc-9c30-d6d4c66f2302/resource/d9024253-c90e-4de7-8189-f44e2d77e3c2/download/trbovljeopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Gorje",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-gorje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-gorje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/0c44e998-e227-466f-b7f3-8e0d66890560/resource/c2ae8790-7f5e-49b5-8ac7-0c9044b6f5fb/download/006ob005gorjezdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Semič",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-semic",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-semic",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/13138635-a13b-4455-af5d-63e787b5aec4/resource/c13184c6-d973-4782-8a71-30074fbf6e47/download/002ob007semizdravstvenidomoviinambulatne.csv"
+        ],
+        "html": [
+          "https://www.semic.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v Občini Šentjernej",
+      "name": "lokacije-aed-v-obcini-sentjernej",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-sentjernej",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/95c53e21-da72-4b82-a48e-7f587d7e24b8/resource/7be6a406-d597-4cce-b6ab-8ba307fd9128/download/strazaopsiaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Radovljica",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-radovljica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-radovljica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/78e15eab-5361-4ad9-936d-8d5c5f1958e5/resource/d2393bd7-aafe-487e-9207-a49595146f62/download/006ob012radovljicazdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Ribnica",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-ribnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-ribnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/5ea03c82-26f9-4425-b4b6-17dd2e8288fb/resource/df8bb369-616d-4c31-a699-b8f6321fe007/download/002ob006ribnicazdravstvenidomoviinambulatne.csv"
+        ],
+        "html": [
+          "https://www.ribnica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Mirna Peč",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-mirna-pec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-mirna-pec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/cd8a68fe-47fb-4152-8c2d-25bf1f14f0da/resource/098c076d-1905-4cbc-bb14-a40d95e11464/download/mirnapecopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Naklo",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-naklo",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-naklo",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/70642963-6f18-4273-b613-0e910055f6a3/resource/63c03a65-314a-4868-b0f7-fe425d86c117/download/006ob010naklozdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Radlje ob Dravi",
+      "name": "zdravstvene-ustanove-v-obcini-radlje-ob-dravi",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-radlje-ob-dravi",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/246358f6-60b1-424b-93fe-30d04fe91f5f/resource/fd05548e-5060-40f3-b4cd-2c8d3778e34b/download/005ob008radljeobdravizdravstvenidomovi.csv"
+        ],
+        "html": [
+          "http://www.obcina-radlje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javnih zdravstvenih ustanov v Občini Trebnje",
+      "name": "seznam-javnih-zdravstvenih-ustanov-v-obcini-trebnje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javnih-zdravstvenih-ustanov-v-obcini-trebnje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/627adf87-c045-460e-9790-b94e5aa2991c/resource/1150ba47-588a-4618-999c-bfda117d16ae/download/trebnjeopsijavnezdravstveneustanove.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Kočevje",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-kocevje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-kocevje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/7602bea2-cfca-442e-8943-d8258622b527/resource/77d1f9c8-bac3-4cbe-bc42-6b55e400fd9b/download/002ob002koevjezdravstvenidomoviinambulante.csv"
+        ],
+        "html": [
+          "https://www.kocevje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED v občini Gorenja vas - Poljane",
+      "name": "lokacije-aed-v-obcini-gorenja-vas-poljane",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-v-obcini-gorenja-vas-poljane",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b81d795d-46b5-4c66-b90f-466ad8d67d57/resource/24a9fc65-e94d-4ac3-aa84-2a86c007a5d4/download/008obgorenajvaspoljanelokacijeaed.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Šoštanj",
+      "name": "seznam-lekarn-v-obcini-sostanj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-sostanj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/da8ce174-3b10-4216-b47c-34b2790ba3a9/resource/20fef824-2270-4780-a0fb-444f7d2c682a/download/sostanjopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam zdravstvenih ustanov v občini Idrija",
+      "name": "seznam-zdravstvenih-ustanov-v-obcini-idrija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-zdravstvenih-ustanov-v-obcini-idrija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/81c444a2-7fd9-4bc8-b1d0-1d3086cf2a36/resource/f048bcfd-5828-4af8-b00f-a7238617c7e1/download/objektizdravstveneoskrbevobciniidrija.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam lekarn v Občini Mirna Peč",
+      "name": "seznam-lekarn-v-obcini-mirna-pec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-lekarn-v-obcini-mirna-pec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3fb1846a-d0e6-4700-99c7-5797ecaefee2/resource/368e43ac-47ab-47c5-be92-a9d00ad0c85c/download/mirnapecopsilekarne.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Preddvor",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-preddvor",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-preddvor",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/96ffb2f8-a941-42d6-a0eb-032f223a34e8/resource/46cfdb54-133e-4803-976f-e08ef25385ad/download/002ob011preddvorzdravstvo.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Dravograd",
+      "name": "zdravstvene-ustanove-v-obcini-dravograd",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-dravograd",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8e3038bc-8792-42c4-91f8-de5215364f1b/resource/323f7c48-bf61-486c-9185-d91c717a3f73/download/005ob002dravogradzdravstvenidomovi.csv"
+        ],
+        "html": [
+          "https://www.dravograd.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Metlika",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-metlika",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-metlika",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/75cd4b21-ea43-4ea0-b39e-54f029c91b1b/resource/25917962-0066-4f54-a840-2f8dcea7b812/download/002ob005metlikazdravstvenidomoviinambulatne.csv"
+        ],
+        "html": [
+          "https://www.metlika.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove in domovi v občini Cerklje na Gorenjskem",
+      "name": "zdravstvene-ustanove-in-domovi-v-obcini-cerklje-na-gorenjskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-in-domovi-v-obcini-cerklje-na-gorenjskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/df2a9d2a-9b14-4cb0-a452-05b6cc727f6f/resource/98049910-ebc3-420d-8699-316d97cb098f/download/006ob003cerkljenagorenjskemzdravstvenidomoviinambulante.csv"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstveni domovi in ambulante v občini Sodražica",
+      "name": "zdravstveni-domovi-in-ambulante-v-obcini-sodrazica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstveni-domovi-in-ambulante-v-obcini-sodrazica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/33246c9d-7d13-4d6e-926c-06ebd51b58db/resource/aa2a7ea4-6647-4251-a52a-89de8de5788b/download/002ob008sodrazicazdravstvenidomoviinambulatne.csv"
+        ],
+        "html": [
+          "https://sodrazica.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Črna na Koroškem",
+      "name": "zdravstvene-ustanove-v-obcini-crna-na-koroskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-crna-na-koroskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/b5baad76-10ac-40f8-ad07-09f639e57e3e/resource/1e50835c-fd35-4f7a-a5a5-ed8a0643ab0c/download/005ob001rnanakorokemzdravstvenidomovi.csv"
+        ],
+        "html": [
+          "http://www.crna.si/"
+        ]
+      }
+    },
+    {
+      "title": "Zdravstvene ustanove v občini Prevalje",
+      "name": "zdravstvene-ustanove-v-obcini-prevalje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zdravstvene-ustanove-v-obcini-prevalje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/3c60e565-088b-48b8-bd9f-bedc28ce2698/resource/860ef973-9228-4b06-b546-6eb5b8d03d7b/download/005ob007prevaljezdravstvenidomovi.csv"
+        ],
+        "html": [
+          "http://www.prevalje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Defibrilatorji v občini Podvelka",
+      "name": "defibrilatorji-v-obcini-podvelka",
+      "dataset_url": "https://podatki.gov.si/data/dataset/defibrilatorji-v-obcini-podvelka",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/8a647502-da07-42b5-8bdf-5963b608c936/resource/737b7033-4006-406b-97c5-c44ed82bb06e/download/008ob006podvelkadefibrilatorji.csv"
+        ],
+        "html": [
+          "https://www.podvelka.si/"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba prepovedanih drog po spolu, starosti in letu raziskave, Slovenija, 2012 in 2018",
+      "name": "nijz20602001",
+      "dataset_url": "https://podatki.gov.si/data/dataset/nijz20602001",
+      "links": {
+        "html": [
+          "https://podatki.nijz.si/Selection.aspx?px_tableid=20602001.px&px_language=sl&px_db=NIJZ%20podatkovni%20portal&px_path=NIJZ podatkovni portal/2 Determinante zdravja/6 Prepovedane droge/2 Uporaba prepovedanih drog/",
+          "https://podatki.nijz.si/docs/Metodološka_pojasnila_ATADD.pdf",
+          "https://www.scb.se/en/services/statistical-programs-for-px-files/install-px-win/"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba prepovedanih drog kadarkoli v življenju po spolu, izobrazbi in letu raziskave, Slovenija, 2012 in 2018",
+      "name": "nijz20602002",
+      "dataset_url": "https://podatki.gov.si/data/dataset/nijz20602002",
+      "links": {
+        "html": [
+          "https://podatki.nijz.si/Selection.aspx?px_tableid=20602002.px&px_language=sl&px_db=NIJZ%20podatkovni%20portal&px_path=NIJZ podatkovni portal/2 Determinante zdravja/6 Prepovedane droge/2 Uporaba prepovedanih drog/",
+          "https://podatki.nijz.si/docs/Metodološka_pojasnila_ATADD.pdf",
+          "https://www.scb.se/en/services/statistical-programs-for-px-files/install-px-win/"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba prepovedanih drog kadarkoli v življenju po spolu, statusu aktivnosti in letu raziskave, Slovenija, 2012 in 2018",
+      "name": "nijz20602003",
+      "dataset_url": "https://podatki.gov.si/data/dataset/nijz20602003",
+      "links": {
+        "html": [
+          "https://podatki.nijz.si/Selection.aspx?px_tableid=20602003.px&px_language=sl&px_db=NIJZ%20podatkovni%20portal&px_path=NIJZ podatkovni portal/2 Determinante zdravja/6 Prepovedane droge/2 Uporaba prepovedanih drog/",
+          "https://podatki.nijz.si/docs/Metodološka_pojasnila_ATADD.pdf",
+          "https://www.scb.se/en/services/statistical-programs-for-px-files/install-px-win/"
+        ]
+      }
+    },
+    {
+      "title": "Podatki o cepljenju proti gripi in covid-19",
+      "name": "cepljenje_gripa_covid_19",
+      "dataset_url": "https://podatki.gov.si/data/dataset/cepljenje_gripa_covid_19",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/bf402be5-b9cc-4f06-8e96-9ff5764e3053/resource/7626db17-b2ae-4228-90f5-2cb9304c946f/download/gripacovid19regije.csv",
+          "https://podatki.gov.si/dataset/bf402be5-b9cc-4f06-8e96-9ff5764e3053/resource/6f5f77b0-01c1-4f3d-b137-7522a0c620bc/download/gripacovid19starost.csv"
+        ]
+      }
+    },
+    {
+      "title": "Epidemiološko spremljanje SARS-CoV-2 v odpadni vodi, Slovenija",
+      "name": "epidemiolosko-spremljanje-sars-cov-2-v-odpadni-vodi-slovenija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/epidemiolosko-spremljanje-sars-cov-2-v-odpadni-vodi-slovenija",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1b72495b-a13c-4c5f-9c3c-c99c83570998/resource/5f546967-f6e8-4807-a928-4c5f2a3f8e59/download/ocenjenostokuzenihosebssarscov2.csv",
+          "https://podatki.gov.si/dataset/1b72495b-a13c-4c5f-9c3c-c99c83570998/resource/0555e8e9-4462-44ee-a0b7-fa1d8c11ecfa/download/delezimutacijgenomasarscov2.csv"
+        ]
+      }
+    },
+    {
+      "title": "Izbor in priprava dosjeja potencialno nevrotoksične kemikalije z uporabo in-silico metod za namen izvajanja evropske kemijske zakonodaje REACH (ŠTUDIJA)",
+      "name": "izbor-in-priprava-dosjeja-potencialno-nevrotoksicne-kemikalije-z-uporabo-in-silico-metod-za-namen-iz",
+      "dataset_url": "https://podatki.gov.si/data/dataset/izbor-in-priprava-dosjeja-potencialno-nevrotoksicne-kemikalije-z-uporabo-in-silico-metod-za-namen-iz",
+      "links": {
+        "html": [
+          "https://www.gov.si/drzavni-organi/organi-v-sestavi/urad-za-kemikalije/"
+        ]
+      }
+    },
+    {
+      "title": "Izhodišča za izvajanje Konvencije Minamata o živem srebru v Sloveniji (ŠTUDIJA)",
+      "name": "izhodisca-za-izvajanje-konvencije-minamata-o-zivem-srebru-v-sloveniji-studija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/izhodisca-za-izvajanje-konvencije-minamata-o-zivem-srebru-v-sloveniji-studija",
+      "links": {
+        "html": [
+          "https://www.gov.si/drzavni-organi/organi-v-sestavi/urad-za-kemikalije/"
+        ],
+        "pdf": [
+          "https://podatki.gov.si/dataset/09bf4773-81f2-447d-a2fb-70809df52888/resource/fcce6f47-bf2c-443e-998e-a54522f23381/download/izhodiazaizvajanjekonvencije.pdf"
+        ]
+      }
+    },
+    {
+      "title": "Izpostavljenost otrok in mladostnikov izbranim kemikalijam preko življenjskega okolja (ŠTUDIJA)",
+      "name": "izpostavljenost-otrok-in-mladostnikov-izbranim-kemikalijam-preko-zivljenjskega-okolja-studija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/izpostavljenost-otrok-in-mladostnikov-izbranim-kemikalijam-preko-zivljenjskega-okolja-studija",
+      "links": {
+        "html": [
+          "https://www.gov.si/drzavni-organi/organi-v-sestavi/urad-za-kemikalije/"
+        ],
+        "pdf": [
+          "https://podatki.gov.si/dataset/ee4f725e-b583-42fd-94f0-ad107bcdb130/resource/e1fea54a-6918-454f-a36e-d5024d85abe6/download/arrscrplp2018v316400024.pdf",
+          "https://podatki.gov.si/dataset/ee4f725e-b583-42fd-94f0-ad107bcdb130/resource/66247ce6-dd33-4665-a202-3960c2951723/download/crp1640zakljucnoporocilo25112019.pdf"
+        ]
+      }
+    },
+    {
+      "title": "Lokacije AED defibrilatorjev v Mestni občini Nova Gorica",
+      "name": "lokacije-aed-defibrilatorjev-v-mestni-obcini-nova-gorica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/lokacije-aed-defibrilatorjev-v-mestni-obcini-nova-gorica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/da3bf569-e903-46f7-9db7-6077b7dab0b5/resource/dccf97ae-6a7e-4e19-be5e-b363c1b5811e/download/lokacijeaeddefibrilatorjevmong.csv"
+        ],
+        "html": [
+          "https://www.nova-gorica.si/krajevne-skupnosti/",
+          "https://www.dsz.si/index.php/sl/aed?start=70"
+        ]
+      }
+    },
+    {
+      "title": "Poskus interpretacije rezultatov biomonitoringa v povezavi s podatki o onesnaženosti okolja, s poudarkom na onesnaženosti zraka in oceni potencialnih vplivov teh onesnažil na zdravje (ŠTUDIJA)",
+      "name": "poskus-interpretacije-rezultatov-biomonitoringa-v-povezavi-s-podatki-o-onesnazenosti-okolja-s-poudar",
+      "dataset_url": "https://podatki.gov.si/data/dataset/poskus-interpretacije-rezultatov-biomonitoringa-v-povezavi-s-podatki-o-onesnazenosti-okolja-s-poudar",
+      "links": {
+        "html": [
+          "https://www.gov.si/drzavni-organi/organi-v-sestavi/urad-za-kemikalije/"
+        ],
+        "pdf": [
+          "https://podatki.gov.si/dataset/4baf93f1-8cc4-4319-bfdd-687ee8fa3039/resource/e056fad7-40f8-48d1-aaeb-5a4d70eb8b48/download/arrscrpzp2020v317220033.pdf",
+          "https://podatki.gov.si/dataset/4baf93f1-8cc4-4319-bfdd-687ee8fa3039/resource/ba13de75-b232-428c-b8e4-c1b9d7b23e38/download/poroilocrp1722konnoporoilo.pdf"
+        ]
+      }
+    },
+    {
+      "title": "Potencialne snovi za vključitev na kandidatno listo zakonodaje REACH (ŠTUDIJA)",
+      "name": "potencialne-snovi-za-vkljucitev-na-kandidatno-listo-zakonodaje-reach-studija",
+      "dataset_url": "https://podatki.gov.si/data/dataset/potencialne-snovi-za-vkljucitev-na-kandidatno-listo-zakonodaje-reach-studija",
+      "links": {
+        "html": [
+          "https://www.gov.si/teme/registracija-evalvacija-in-avtorizacija-kemikalij/"
+        ],
+        "pdf": [
+          "https://podatki.gov.si/dataset/209e2290-e685-4fde-9d96-ffa5eb4cef52/resource/f21d4f43-04cc-45f1-bcc0-e2cdd3375017/download/konnoporoilocrp2016v11641vsebinskidel.pdf"
+        ]
+      }
+    },
+    {
+      "title": "Spremljanje različic SARS-CoV-2 v Sloveniji",
+      "name": "spremljanje-razlicic-sars-cov-2-v-sloveniji",
+      "dataset_url": "https://podatki.gov.si/data/dataset/spremljanje-razlicic-sars-cov-2-v-sloveniji",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/f50f7205-c8f7-46f2-8c8c-e73666bc7896/resource/abab35b3-4bed-4f0b-b5b6-e48e1b264dea/download/agregiranerazliicesarscov2.csv"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Zdravje",
+    "open_data": true
+  }
+}

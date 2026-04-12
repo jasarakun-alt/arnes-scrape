@@ -1,0 +1,2954 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Znanost in tehnologija\" AND open_data:true",
+  "total_datasets": 246,
+  "datasets": [
+    {
+      "title": "Brezplačne WiFi točke v občini Sevnica",
+      "name": "brezplacne-wifi-tocke-v-obcini-sevnica",
+      "dataset_url": "https://podatki.gov.si/data/dataset/brezplacne-wifi-tocke-v-obcini-sevnica",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/921309af-6e84-4d70-8170-3bb58e3ef9ae/resource/1cdf08db-4d2b-4be1-bbab-20b323445ff8/download/brezplanewifitokevobinisevnica.csv"
+        ],
+        "html": [
+          "https://www.obcina-sevnica.si/",
+          "https://www.google.com/maps/d/edit?mid=1G7ytm6lIBb8D0KvOR-6v8FLNfYHqrha_&usp=sharing"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenu uporabe interneta pri uporabnikih interneta, starostni skupini in spolu, Slovenija, letno",
+      "name": "surs2974205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Mestni občini Velenje",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-mestni-obcini-velenje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-mestni-obcini-velenje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ef0caeaf-3872-4f56-bc1d-d1031a50b880/resource/a15cb92c-7385-43ff-8f68-0bf0fecff0ed/download/velenjeopsijavnewifitocke.csv"
+        ],
+        "html": [
+          "https://www.velenje.si/"
+        ]
+      }
+    },
+    {
+      "title": "Dostop do interneta po statusu uporabnika in po vrsti dostopa, Slovenija, letno",
+      "name": "surs2963318s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963318s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963318S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vpliv uporabe računalnikov in programske opreme na delo in samoocena veščin pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem ti živijo, Slovenija, 2018",
+      "name": "surs2980530s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980530s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980530S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodinjstev po dostopu do interneta in tipu gospodinjstva, Slovenija, letno",
+      "name": "surs2974001s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974001s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974001S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Raziskovalci po področjih znanosti in spolu, Slovenija, 2007 - 2016",
+      "name": "surs2364104s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2364104s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2364104S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8175",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po uporabi 3D-tiskanja v prejšnjem letu ter dejavnosti (SKD 2008), Slovenija, 2018, 2020",
+      "name": "surs2980220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Trebnje",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-trebnje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-trebnje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/72396cf5-0cf1-4c05-a56c-8dfe7d1b3279/resource/28d31b9a-679e-43df-9d55-62bdd1bc57aa/download/trebnjeopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenih uporabe mobilnega telefona, izobrazbi in spolu, Slovenija, letno",
+      "name": "surs2979510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Straža",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-straza",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-straza",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/69202551-90a5-4dc1-a4b6-ca86e1a92bba/resource/5379b77c-f932-488c-a41c-f003b1751ad0/download/strazaopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po razlogih, ki so jim preprečevali spletno nakupovanje v zadnjih 3 mesecih, in stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2974544s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974544s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974544S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dostop do interneta po statusu uporabnika in vrsti dostopa, Slovenija, četrtletno",
+      "name": "surs2963309s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963309s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963309S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba storitev računalništva v oblaku pri rednih uporabnikih interneta, po starostnih razredih in spolu, Slovenija, 2014",
+      "name": "surs2974801s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974801s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974801S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba IKT med zaposlenimi v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2013",
+      "name": "surs2965703s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965703s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965703S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po izvajanju aktivnosti IKT v prejšnjem letu in velikostnem razredu, Slovenija, 2016–2020",
+      "name": "surs2977701s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2977701s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2977701S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Trbovlje",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-trbovlje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-trbovlje",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/766bf4af-821e-4745-9752-dad16a84f0c9/resource/06e03ba5-2c8b-426b-a6e6-f7d961c8f291/download/trbovljeopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi in vrsti pametnih naprav ali sistemov za zasebne namene, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2020, 2022",
+      "name": "surs2983608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983608S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe strojne opreme IKT in računalniških omrežij v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2019",
+      "name": "surs2965101s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965101s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965101S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Mirna Peč",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-mirna-pec",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-mirna-pec",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/9e532086-b4c6-43ca-9d1f-01b12d08a3b2/resource/d4a91578-04c6-48d7-95d1-30b16bbc4388/download/mirnapecopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Šentjernej",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-sentjernej",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-sentjernej",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/94536a88-8592-4a1a-b9be-955b313dae45/resource/8b72f040-a30c-43b9-b17f-d745d8eb4831/download/strazaopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v občini Mirna",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-mirna",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-mirna",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/a09d7a47-a550-49d2-9e6b-321fee22818a/resource/76093d2b-0cce-4b79-952c-a5c6d3644ecb/download/mirnalokacijewifi.csv"
+        ]
+      }
+    },
+    {
+      "title": "Pomembnost dostopa do interneta kadarkoli in kjerkoli pri rednih uporabnikih interneta, po starostnih razredih in spolu, Slovenija, 2018 – 2019",
+      "name": "surs2974217s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974217s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974217S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po uporabi robotov v prejšnjem letu in velikostnem razredu, Slovenija, 2018, 2020",
+      "name": "surs2980205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število raziskovalcev po sektorju zaposlitve in starostnih skupinah, Slovenija, 2007 - 2016",
+      "name": "surs2364103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2364103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2364103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8175",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po razlogih, da nimajo svojega digitalnega potrdila, po izobrazbi in spolu, Slovenija, 2017, 2021",
+      "name": "surs2979630s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979630s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979630S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenih uporabe mobilnega telefona in statusu aktivnosti, Slovenija, letno",
+      "name": "surs2979515s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979515s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979515S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skrb za varnost pri uporabi interneta v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi interneta, s katerimi so se srečali posamezniki v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za raziskovalno-razvojno dejavnost (%) po statistični regiji, Slovenija, letno",
+      "name": "surs2372405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2372405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2372405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9533",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazalniki za raziskovalno-razvojno dejavnost, kohezijski regiji, Slovenija, letno",
+      "name": "surs2372410s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2372410s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2372410S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9533",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenih uporabe mobilnega telefona, starostni skupini in spolu, Slovenija, letno",
+      "name": "surs2979505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po razlogih, da nimajo svojega digitalnega potrdila, po statusu aktivnosti, Slovenija, 2017, 2021",
+      "name": "surs2979635s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979635s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979635S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba storitev računalništva v oblaku pri rednih uporabnikih interneta, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2014",
+      "name": "surs2974804s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974804s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974804S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe strojne opreme IKT in računalniških omrežij v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2009 - 2013",
+      "name": "surs2965104s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965104s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965104S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po uporabi robotov v prejšnjem letu ter dejavnosti (SKD 2008), Slovenija, 2018, 2020",
+      "name": "surs2980210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Javno dostopne WiFi točke v Občini Mokronog-Trebelno",
+      "name": "javno-dostopne-wifi-tocke-v-obcini-mokronog-trebelno",
+      "dataset_url": "https://podatki.gov.si/data/dataset/javno-dostopne-wifi-tocke-v-obcini-mokronog-trebelno",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/ad7d68c6-6fd9-4d9a-b9d9-2d615deebeef/resource/d70a8893-d7d2-4bca-81c3-c264aed45e09/download/javnodostopnewifitockevobcinimokronogtrebelno.csv"
+        ],
+        "html": [
+          "https://www.mokronog-trebelno.si/"
+        ]
+      }
+    },
+    {
+      "title": "Seznam javno dostopnih WiFi točk v Občini Šoštanj",
+      "name": "seznam-javno-dostopnih-wifi-tock-v-obcini-sostanj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/seznam-javno-dostopnih-wifi-tock-v-obcini-sostanj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/1c6b7d41-2b5c-4c09-bb79-081e930a7bb0/resource/2eae725b-0d3f-456f-a458-5bcd0dcb7426/download/sostanjopsijavnewifitocke.csv"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenih uporabe mobilnega telefona, stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, letno",
+      "name": "surs2979520s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979520s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979520S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po namenih in razlogih za uporabo elektronskih identifikacijskih sredstev v zadnjih 12 mesecih za zasebne namene, po status aktivnosti, Slovenija, 2017, 2019, 2021",
+      "name": "surs2979615s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979615s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979615S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen uporabe interneta pri rednih uporabnikih interneta, po starostnih razredih in spolu, Slovenija, 2007 - 2014",
+      "name": "surs2979705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vpliv uporabe računalnikov in programske opreme na delo in samoocena veščin pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po zaposlitvenem statusu in spolu, Slovenija, 2018",
+      "name": "surs2980520s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980520s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980520S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi pametnih naprav ali sistemov (za upravljanje energije, pametnih varnostnih rešitev, pametnih gospodinjskih aparatov, virtualnih asistentov) in razlogu za neuporabo za zasebne namene, po statusu aktivnosti, Slovenija, 2020, 2022",
+      "name": "surs2983603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen uporabe interneta pri rednih uporabnikih interneta, po statusu aktivnosti, Slovenija, 2007 - 2014",
+      "name": "surs2979715s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979715s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979715S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen uporabe interneta pri rednih uporabnikih interneta, po izobrazbi in spolu, Slovenija, 2007 - 2014",
+      "name": "surs2979710s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979710s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979710S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po uporabi 3D-tiskanja v prejšnjem letu in velikostnem razredu, Slovenija, 2018, 2020",
+      "name": "surs2980215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Spremembe pri delu zaradi uporabe računalnikov, računalniško podprte opreme, programske opreme v zadnjih 12 mesecih pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2018",
+      "name": "surs2980540s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980540s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980540S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Namen uporabe interneta pri rednih uporabnikih interneta, po stopnji urbanizacije območja, v katerem ti živijo, Slovenija, 2007 - 2014",
+      "name": "surs2979720s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979720s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979720S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po namenih in razlogih za uporabo elektronskih identifikacijskih sredstev v zadnjih 12 mesecih za zasebne namene, po starostnih razredih in spolu, Slovenija, 2017, 2019, 2021",
+      "name": "surs2979605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po razlogih, da nimajo svojega digitalnega potrdila, po starostnih razredih in spolu, Slovenija, 2017, 2021",
+      "name": "surs2979625s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979625s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979625S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Varnost pri uporabi pametnega telefona v zadnjih 12 mesecih za zasebne namene pri posameznikih, po izobrazbi in spolu, Slovenija, 2018",
+      "name": "surs2980310s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980310s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980310S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba računalnikov ali računalniško podrte opreme pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po zaposlitvenem statusu in spolu, Slovenija, 2018",
+      "name": "surs2980505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi pametnih naprav ali sistemov (za upravljanje energije, pametnih varnostnih rešitev, pametnih gospodinjskih aparatov, virtualnih asistentov) in razlogu za neuporabo za zasebne namene, po starostnih razredih in spolu, Slovenija, 2020, 2022",
+      "name": "surs2983601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po razvitosti in funkcionalnosti spletne strani ter velikostnem razredu, Slovenija, 2009–2020",
+      "name": "surs2966201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Realizirane prednosti uporabe storitev računalništva v oblaku v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2014",
+      "name": "surs2973706s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973706s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973706S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naprave za dostop do interneta, ki bi jih redni uporabniki interneta najbolj pogrešali, če jih ne bi mogli več uporabljati, po starostnih razredih in spolu, Slovenija, 2018 – 2019",
+      "name": "surs2974213s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974213s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974213S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba računalnikov ali računalniško podrte opreme pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem ti živijo, Slovenija, 2018",
+      "name": "surs2980515s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980515s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980515S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Spremembe pri delu zaradi uporabe računalnikov, računalniško podprte opreme, programske opreme v zadnjih 12 mesecih pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem ti živijo, Slovenija, 2018",
+      "name": "surs2980545s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980545s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980545S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dodelitev prenosnih naprav z mobilnim dostopom do interneta po tipu in namenu uporabe v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2012",
+      "name": "surs2970901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2970901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2970901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po vrsti najema računalniške storitve v oblaku in velikostnem razredu, Slovenija, 2014–2020",
+      "name": "surs2973701s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973701s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973701S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Varnost pri uporabi pametnega telefona v zadnjih 12 mesecih za zasebne namene pri posameznikih, po starostnih razredih in spolu, Slovenija, 2018",
+      "name": "surs2980305s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980305s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980305S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Varnost pri uporabi pametnega telefona v zadnjih 12 mesecih za zasebne namene pri posameznikih, po statusu aktivnosti, Slovenija, 2018",
+      "name": "surs2980315s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980315s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980315S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Spremembe pri delu zaradi uporabe računalnikov, računalniško podprte opreme, programske opreme v zadnjih 12 mesecih pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po zaposlitvenem statusu in spolu, Slovenija, 2018",
+      "name": "surs2980535s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980535s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980535S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe programske opreme v podjetjih z 10 ali več zaposlenimi osebami, po dejavnostih podjetij (SKD 2008), Slovenija, 2010 - 2011",
+      "name": "surs2965106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po pogodbeno zagotovljeni hitrosti uporabljene fiksne internetne povezave, po velikostnem razredu, Slovenija, 2014 - 2020",
+      "name": "surs2965203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po načinu dostopa do interneta pri uporabnikih interneta, po starostnih razredih in spolu, Slovenija, večletno",
+      "name": "surs2974209s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974209s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974209S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi interneta, s katerimi so se srečali posamezniki v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba IKT med zaposlenimi v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2009 - 2013",
+      "name": "surs2965704s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965704s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965704S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Načini plačila pri prodaji prek spletnih strani, po dejavnosti podjetij (SKD 2008), Slovenija, 2009",
+      "name": "surs2965806s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965806s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965806S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dodelitev prenosnih naprav z mobilnim dostopom do interneta po tipu in namenu uporabe v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2012",
+      "name": "surs2970902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2970902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2970902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po načinu dostopa do interneta pri uporabnikih interneta in stopnji urbanizacije območja, v katerem ti uporabniki živijo, Slovenija, večletno",
+      "name": "surs2974212s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974212s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974212S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vrste dostopa in nameni uporabe interneta v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2009 - 2013",
+      "name": "surs2965208s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965208s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965208S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po razlogih, da nimajo svojega digitalnega potrdila, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2017, 2021",
+      "name": "surs2979640s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979640s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979640S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba elektronskih identifikacijskih postopkov v zadnjih 12 mesecih za zasebne namene pri posameznikih, po starostnih razredih in spolu, Slovenija, 2018",
+      "name": "surs2980405s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980405s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980405S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba računalnikov ali računalniško podrte opreme pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2018",
+      "name": "surs2980510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Priključki na fiksni lokaciji po statusu uporabnika in po vrsti priključka, Slovenija, letno",
+      "name": "surs2963310s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963310s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963310S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe strojne opreme IKT in računalniških omrežij v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2013",
+      "name": "surs2965103s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965103s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965103S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba internih varnostnih pripomočkov ali postopkov v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2010",
+      "name": "surs2965913s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965913s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965913S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Razvitost spletnih strani v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2009 - 2013",
+      "name": "surs2966204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dejavniki, ki omejujejo podjetjem uporabo storitev računalništva v oblaku v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2014",
+      "name": "surs2973704s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973704s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973704S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po načinu dostopa do interneta pri uporabnikih interneta, po izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2974210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naprave za dostop do interneta, ki bi jih redni uporabniki interneta najbolj pogrešali, če jih ne bi mogli več uporabljati, po statusu aktivnosti, Slovenija, 2018 – 2019",
+      "name": "surs2974215s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974215s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974215S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba elektronskih identifikacijskih postopkov v zadnjih 12 mesecih za zasebne namene pri posameznikih, po statusu aktivnosti, Slovenija, 2018",
+      "name": "surs2980415s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980415s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980415S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Umrli po dopolnjenem letu starosti, letu rojstva in spolu, Slovenija, 2020",
+      "name": "surs05l1022s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs05l1022s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05L1022S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/9513",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Formalne strategije za varno uporabo IKT z načrtom za njen redni pregled v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2010, 2015, 2016",
+      "name": "surs2965902s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965902s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965902S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodinjstev po dostopu do interneta in stopnji urbanizacije območja, v katerem gospodinjstva živijo, Slovenija, letno",
+      "name": "surs2974002s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974002s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974002S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naprave za dostop do interneta, ki bi jih redni uporabniki interneta najbolj pogrešali, če jih ne bi mogli več uporabljati, po izobrazbi in spolu, Slovenija, 2018 – 2019",
+      "name": "surs2974214s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974214s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974214S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pomembnost dostopa do interneta kadarkoli in kjerkoli pri rednih uporabnikih interneta, po izobrazbi in spolu, Slovenija, 2018 – 2019",
+      "name": "surs2974218s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974218s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974218S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pomembnost dostopa do interneta kadarkoli in kjerkoli pri rednih uporabnikih interneta, po statusu aktivnosti, Slovenija, 2018 – 2019",
+      "name": "surs2974219s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974219s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974219S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vpliv uporabe računalnikov in programske opreme na delo in samoocena veščin pri zaposlenih in samozaposlenih, ki so uporabljali internet v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2018",
+      "name": "surs2980525s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980525s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980525S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe programske opreme IKT v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2009 - 2011",
+      "name": "surs2965108s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965108s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965108S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po pogodbeno zagotovljeni hitrosti uporabljene fiksne internetne povezave, po dejavnostih (SKD 2008), Slovenija, 2014 - 2020",
+      "name": "surs2965204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pogodbeno zagotovljene hitrosti internetnih povezav v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2011 - 2013",
+      "name": "surs2965205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Formalne strategije za varno uporabo IKT z načrtom za njen redni pregled v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2010",
+      "name": "surs2965903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965903S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dodelitev prenosnih naprav z mobilnim dostopom do interneta po tipu in namenu uporabe v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2012",
+      "name": "surs2970904s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2970904s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2970904S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Realizirane prednosti uporabe storitev računalništva v oblaku v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2014",
+      "name": "surs2973705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pomembnost dostopa do interneta kadarkoli in kjerkoli pri rednih uporabnikih interneta, po stopnji urbanizacije območja, v katerem ti uporabniki živijo, Slovenija, 2018 – 2019",
+      "name": "surs2974220s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974220s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974220S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi internetnih storitev za hrambo podatkov na internetu pri rednih uporabnikih interneta, po izobrazbi in spolu, Slovenija, 2014",
+      "name": "surs2974810s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974810s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974810S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi interneta, s katerimi so se srečali posamezniki v zadnjih 12 mesecih, po starostnih razredih in spolu, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po izvajanju aktivnosti IKT v prejšnjem letu ter dejavnosti (SKD 2008), Slovenija, 2016–2020",
+      "name": "surs2977702s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2977702s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2977702S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z dostopom do interneta, po vrsti dostopa in namenu uporabe, po velikostnem razredu, Slovenija, 2009 - 2020",
+      "name": "surs2965201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pogodbeno zagotovljene hitrosti internetnih povezav v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2011 - 2013",
+      "name": "surs2965210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vrednost (mio. EUR) po vrsti elektronske prodaje v prejšnjem letu in velikostnem razredu, Slovenija, letno",
+      "name": "surs2965419s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965419s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965419S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število zaposlenih v podjetjih z 10 ali več zaposlenimi, ki uporabljajo IKT, po dejavnostih (SKD 2008), Slovenija, 2010 - 2020",
+      "name": "surs2965702s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965702s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965702S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba internih varnostnih pripomočkov ali postopkov v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2010",
+      "name": "surs2965914s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965914s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965914S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba internih varnostnih pripomočkov ali postopkov v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2010",
+      "name": "surs2965916s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965916s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965916S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dodelitev prenosnih naprav z mobilnim dostopom do interneta po tipu in namenu uporabe v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2012",
+      "name": "surs2970903s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2970903s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2970903S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dejavniki, ki preprečujejo podjetjem uporabo storitev računalništva v oblaku, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2014",
+      "name": "surs2973707s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973707s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973707S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenu uporabe interneta pri uporabnikih interneta, po statusu aktivnosti, Slovenija, letno",
+      "name": "surs2974207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po načinu dostopa do interneta pri uporabnikih interneta, po statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2974211s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974211s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974211S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi internetnih storitev za hrambo podatkov na internetu pri rednih uporabnikih interneta, po starostnih razredih in spolu, Slovenija, 2014",
+      "name": "surs2974809s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974809s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974809S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi internetnih storitev za hrambo podatkov na internetu pri rednih uporabnikih interneta, po statusu aktivnosti, Slovenija, 2014",
+      "name": "surs2974811s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974811s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974811S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skrb za varnost pri uporabi interneta v zadnjih 12 mesecih, po starostnih razredih in spolu, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skrb za varnost pri uporabi interneta v zadnjih 12 mesecih, po statusu aktivnosti, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po namenih in razlogih za uporabo elektronskih identifikacijskih sredstev v zadnjih 12 mesecih za zasebne namene, po izobrazbi in spolu, Slovenija, 2017, 2019, 2021",
+      "name": "surs2979610s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979610s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979610S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Varnost pri uporabi pametnega telefona v zadnjih 12 mesecih za zasebne namene pri posameznikih, po stopnji urbanizacije območja, v katerim ti posamezniki živijo, Slovenija, 2018",
+      "name": "surs2980320s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980320s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980320S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba elektronskih identifikacijskih postopkov v zadnjih 12 mesecih za zasebne namene pri posameznikih, po izobrazbi in spolu, Slovenija, 2018",
+      "name": "surs2980410s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980410s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980410S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Prihodki in investicije na področju elektronskih komunikacij (1000 EUR), Slovenija, letno",
+      "name": "surs2963320s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963320s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963320S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/5296, 8243",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe strojne opreme IKT in računalniških omrežij v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2010 - 2019",
+      "name": "surs2965102s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965102s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965102S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe programske opreme v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2011",
+      "name": "surs2965105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obseg uporabe programske opreme v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2011",
+      "name": "surs2965107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi z dostopom do interneta, po vrsti dostopa in namenu uporabe, po dejavnostih (SKD 2008), Slovenija, 2010 - 2020",
+      "name": "surs2965202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vrste dostopa in nameni uporabe interneta v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2013",
+      "name": "surs2965207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Formalne strategije za varno uporabo IKT z načrtom za njen redni pregled v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2010, 2015, 2016",
+      "name": "surs2965901s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965901s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965901S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Formalne strategije za varno uporabo IKT z načrtom za njen redni pregled v podjetjih v finančnem sektorju z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2010",
+      "name": "surs2965904s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965904s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965904S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Razvitost spletnih strani v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009 - 2013",
+      "name": "surs2966203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodinjstev po vrsti težave pri uporabi fiksne širokopasovne internetne povezave, po tipu gospodinjstva, Slovenija, 2020–2021",
+      "name": "surs2974005s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974005s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974005S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenu uporabe interneta pri uporabnikih interneta, po stopnji urbanizacije območja, v katerem ti uporabniki živijo, Slovenija, letno",
+      "name": "surs2974208s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974208s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974208S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Naprave za dostop do interneta, ki bi jih redni uporabniki interneta najbolj pogrešali, če jih ne bi mogli več uporabljati, po stopnji urbanizacije območja, v katerem ti uporabniki živijo, Slovenija, 2018 – 2019",
+      "name": "surs2974216s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974216s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974216S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi spletnih portalov javne uprave v zadnjih 12 mesecih, po starostnih razredih in spolu, Slovenija, 2020–2021",
+      "name": "surs2974409s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974409s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974409S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba storitev računalništva v oblaku pri rednih uporabnikih interneta, po izobrazbi in spolu, Slovenija, 2014",
+      "name": "surs2974802s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974802s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974802S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba storitev računalništva v oblaku pri rednih uporabnikih interneta, po statusu aktivnosti, Slovenija, 2014",
+      "name": "surs2974803s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974803s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974803S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi internetnih storitev za hrambo podatkov na internetu pri rednih uporabnikih interneta, po stopnji urbanizacije območja, v katerem ti živijo, Slovenija, 2014",
+      "name": "surs2974812s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974812s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974812S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Težave pri uporabi interneta, s katerimi so se srečali posamezniki v zadnjih 12 mesecih, po statusu aktivnosti, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Skrb za varnost pri uporabi interneta v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem posamezniki živijo, Slovenija, 2010, 2015, 2016, 2019",
+      "name": "surs2976208s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2976208s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2976208S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po namenih in razlogih za uporabo elektronskih identifikacijskih sredstev v zadnjih 12 mesecih za zasebne namene, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2017, 2019, 2021",
+      "name": "surs2979620s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979620s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979620S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba interneta stvari po namenu uporabe v podjetjih, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2020",
+      "name": "surs2983301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odhodni promet iz mobilnega omrežja po statusu uporabnika in po vrsti omrežja (1000 minut), Slovenija, letno",
+      "name": "surs2963315s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963315s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963315S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pogodbeno zagotovljene hitrosti internetnih povezav v podjetjih z 10 ali več zaposlenimi osebami, po dejavnosti podjetij (SKD 2008), Slovenija, 2011 - 2013",
+      "name": "surs2965206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pogodbeno zagotovljene hitrosti internetnih povezav v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2011 - 2013",
+      "name": "surs2965209s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965209s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965209S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Načini plačila pri prodaji prek spletnih strani, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2009",
+      "name": "surs2965805s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965805s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965805S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba internih varnostnih pripomočkov ali postopkov v podjetjih v finančnem sektorju, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2010",
+      "name": "surs2965915s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965915s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965915S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po razvitosti in funkcionalnosti spletne strani ter dejavnosti (SKD 2008), Slovenija, 2009–2020",
+      "name": "surs2966202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po vrsti najema računalniške storitve v oblaku in dejavnosti (SKD 2008), Slovenija, 2014–2020",
+      "name": "surs2973702s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973702s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973702S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dejavniki, ki omejujejo podjetjem uporabo storitev računalništva v oblaku, po velikosti podjetij glede na število zaposlenih oseb, Slovenija, 2014",
+      "name": "surs2973703s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973703s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973703S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po namenu uporabe interneta pri uporabnikih interneta, izobrazbi in spolu, Slovenija, letno",
+      "name": "surs2974206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi elektronskih identifikacijskih postopkov v zadnjih 3 mesecih za zasebne namene, po izobrazbi in spolu, Slovenija, 2020",
+      "name": "surs2980422s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980422s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980422S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277, 8098",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi in vrsti pametnih naprav ali sistemov za zasebne namene, po izobrazbi in spolu, Slovenija, 2020, 2022",
+      "name": "surs2983606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983606S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi in vrsti pametnih naprav ali sistemov za zasebne namene, po statusu aktivnosti, Slovenija, 2020, 2022",
+      "name": "surs2983607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983607S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odhodni klici iz mobilnega omrežja po statusu uporabnika in po vrsti omrežja (1000), Slovenija, letno",
+      "name": "surs2963314s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963314s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963314S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Dejavniki, ki preprečujejo podjetjem z 10 ali več zaposlenimi osebami uporabo storitev računalništva v oblaku, po dejavnosti podjetij (SKD 2008), Slovenija, 2014",
+      "name": "surs2973708s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973708s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973708S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število gospodinjstev po vrsti težave pri uporabi fiksne širokopasovne internetne povezave, po stopnji urbanizacije območja, v katerem gospodinjstva živijo, Slovenija, 2020–2021",
+      "name": "surs2974006s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974006s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974006S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po zavedanju o piškotkih, registraciji in poskusu izbrisa uporabniškega računa v brezplačni aplikaciji ali storitvi v zadnjih 3 mesecih, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2978514s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978514s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978514S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po vrsti komunikacije prek interneta in velikostnem razredu, Slovenija, 2020",
+      "name": "surs2983401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po težavah pri digitalni preobrazbi poslovanja in velikostnem razredu, Slovenija, 2020",
+      "name": "surs2983501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi pametnih naprav ali sistemov (za upravljanje energije, pametnih varnostnih rešitev, pametnih gospodinjskih aparatov, virtualnih asistentov) in razlogu za neuporabo za zasebne namene, po izobrazbi in spolu, Slovenija, 2020, 2022",
+      "name": "surs2983602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi pametnih naprav ali sistemov (za upravljanje energije, pametnih varnostnih rešitev, pametnih gospodinjskih aparatov, virtualnih asistentov) in razlogu za neuporabo za zasebne namene, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2020, 2022",
+      "name": "surs2983604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983604S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi in vrsti pametnih naprav ali sistemov za zasebne namene, po starostnih razredih in spolu, Slovenija, 2020,2022",
+      "name": "surs2983605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po preverjanju resničnosti informacij ali vsebin na novičarskih spletnih straneh ali družbenih medijih, starostnih razredih in spolu, Slovenija, večletno",
+      "name": "surs2984501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po preverjanju resničnosti informacij ali vsebin na novičarskih spletnih straneh ali družbenih medijih, statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2984503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odhodni promet s fiksne lokacije po statusu uporabnika in po vrsti omrežja (1000 minut), Slovenija, letno",
+      "name": "surs2963312s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963312s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963312S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Mednarodno gostovanje po vrsti storitve, Slovenija, letno",
+      "name": "surs2963317s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963317s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963317S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/5296, 8242",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po elektronski izmenjavi informacij v podjetju in velikostnem razredu, Slovenija, letno",
+      "name": "surs2965311s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965311s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965311S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Vrednost (mio. EUR) v podjetjih z 10 ali več zaposlenimi in samozaposlenimi po vrsti elektronske prodaje v prejšnjem letu in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965420s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965420s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965420S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število zaposlenih in samozaposlenih v podjetju z 10 ali več zaposlenimi in samozaposlenimi po uporabi IKT v podjetju ter dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965706s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965706s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965706S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po težavah pri spletnem nakupu v zadnjih 3 mesecih in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2974547s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974547s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974547S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po aktivnosti za zaščito osebnih podatkov, ki so jo izvedli na internetu v zadnjih 3 mesecih, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2978510s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978510s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978510S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po aktivnosti za zaščito osebnih podatkov, ki so jo izvedli na internetu v zadnjih 3 mesecih, statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2978511s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978511s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978511S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po zavedanju o piškotkih, registraciji in poskusu izbrisa uporabniškega računa v brezplačni aplikaciji ali storitvi v zadnjih 3 mesecih, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2978513s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978513s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978513S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po zavedanju o piškotkih, registraciji in poskusu izbrisa uporabniškega računa v brezplačni aplikaciji ali storitvi v zadnjih 3 mesecih, statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2978515s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978515s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978515S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po zavedanju o piškotkih, registraciji in poskusu izbrisa uporabniškega računa v brezplačni aplikaciji ali storitvi v zadnjih 3 mesecih, stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2978516s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978516s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978516S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po izvedbi finančnih aktivnosti prek interneta v zadnjih 3 mesecih za zasebne namene, starostni skupini in spolu, Slovenija, letno",
+      "name": "surs2978605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po izvedbi finančnih aktivnosti prek interneta v zadnjih 3 mesecih za zasebne namene, izobrazbi in spolu, Slovenija, letno",
+      "name": "surs2978606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978606S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po izvedbi finančnih aktivnosti prek interneta v zadnjih 3 mesecih za zasebne namene, statusu aktivnosti, Slovenija, letno",
+      "name": "surs2978607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978607S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po izvedbi finančnih aktivnosti prek interneta v zadnjih 3 mesecih za zasebne namene, stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, letno",
+      "name": "surs2978608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978608S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po varnosti pri uporabi pametnega telefona v zadnjih 3 mesecih za zasebne namene, po starostnih razredih in spolu, Slovenija, 2020",
+      "name": "surs2980321s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980321s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980321S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po varnosti pri uporabi pametnega telefona v zadnjih 3 mesecih za zasebne namene, po izobrazbi in spolu, Slovenija, 2020",
+      "name": "surs2980322s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980322s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980322S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po varnosti pri uporabi pametnega telefona v zadnjih 3 mesecih za zasebne namene, po statusu aktivnosti, Slovenija, 2020",
+      "name": "surs2980323s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980323s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980323S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po varnosti pri uporabi pametnega telefona v zadnjih 3 mesecih za zasebne namene, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2020",
+      "name": "surs2980324s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980324s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980324S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi elektronskih identifikacijskih postopkov v zadnjih 3 mesecih za zasebne namene, po starostnih razredih in spolu, Slovenija, 2020",
+      "name": "surs2980421s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980421s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980421S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi elektronskih identifikacijskih postopkov v zadnjih 3 mesecih za zasebne namene, po statusu aktivnosti, Slovenija, 2020",
+      "name": "surs2980423s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980423s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980423S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov po uporabi elektronskih identifikacijskih postopkov v zadnjih 3 mesecih za zasebne namene, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2020",
+      "name": "surs2980424s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2980424s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2980424S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba interneta stvari po namenu uporabe v podjetjih z 10 ali več zaposlenimi osebami, po dejavnostih podjetij (SKD 2008), Slovenija, 2020",
+      "name": "surs2983302s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983302s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983302S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba interneta stvari po namenu uporabe v podjetjih z 10 ali več zaposlenimi in samozaposlenimi, po dejavnostih podjetij (SKD 2008), Slovenija, večletno",
+      "name": "surs2983304s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983304s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983304S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po vrsti komunikacije prek interneta in dejavnosti (SKD 2008), Slovenija, 2020",
+      "name": "surs2983402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po težavah pri digitalni preobrazbi poslovanja ter dejavnosti (SKD 2008), Slovenija, 2020",
+      "name": "surs2983502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po uporabi programske opreme, starostnih razredih in spolu, Slovenija, večletno",
+      "name": "surs2984401s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984401s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984401S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po uporabi programske opreme in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2984403s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984403s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984403S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po uporabi programske opreme in stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2984404s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984404s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984404S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po preverjanju resničnosti informacij ali vsebin na novičarskih spletnih straneh ali družbenih medijih, stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2984504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po razlogih za neuporabo tehnologij umetne inteligence ob pretehtanju možnosti uporabe in velikostnem razredu, Slovenija, večletno",
+      "name": "surs2984703s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984703s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984703S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po razlogih za neuporabo tehnologij umetne inteligence ob pretehtanju možnosti uporabe ter dejavnosti (SKD 2008), Slovenija, večletno",
+      "name": "surs2984704s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984704s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984704S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Odhodni klici s fiksne lokacije po statusu uporabnika in po vrsti omrežja (1000), Slovenija, letno",
+      "name": "surs2963311s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963311s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963311S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporabniki mobilnega omrežja po statusu uporabnika in po vrsti uporabnika, Slovenija, letno",
+      "name": "surs2963313s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963313s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963313S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Podatkovne storitve po statusu uporabnika in po vrsti storitve, Slovenija, letno",
+      "name": "surs2963316s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963316s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963316S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8242, 5296",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Operaterji, infrastruktura in zaposlenost na področju elektronskih komunikacij, Slovenija, letno",
+      "name": "surs2963319s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2963319s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2963319S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/5296, 8243",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po pogodbeni hitrosti fiksne internetne povezave in velikostnem razredu, Slovenija, letno",
+      "name": "surs2965211s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965211s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965211S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po pogodbeni hitrosti fiksne internetne povezave in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965212s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965212s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965212S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po vrsti dostopa in dodelitvi prenosne naprave ter velikostnem razredu, Slovenija, letno",
+      "name": "surs2965213s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965213s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965213S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po vrsti dostopa in dodelitvi prenosne naprave ter dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965214s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965214s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965214S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po elektronski izmenjavi informacij v podjetju ter dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965312s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965312s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965312S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po elektronski prodaji v prejšnjem letu in velikostnem razredu, Slovenija, letno",
+      "name": "surs2965417s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965417s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965417S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po elektronski prodaji v prejšnjem letu in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2965418s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965418s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965418S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število zaposlenih in samozaposlenih v podjetjih po uporabi IKT v podjetju ter velikostnem razredu, Slovenija, letno",
+      "name": "surs2965705s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2965705s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2965705S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po razvitosti in funkcionalnosti spletne strani ter velikostnem razredu, Slovenija, letno",
+      "name": "surs2966205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po razvitosti in funkcionalnosti spletne strani ter dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2966206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po strukturi računa, poslanega v prejšnjem letu, in velikostnem razredu, Slovenija, letno",
+      "name": "surs2966321s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966321s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966321S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po strukturi računa, poslanega v prejšnjem letu, in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2966322s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2966322s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2966322S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po tipu uporabe družbenega medija in velikostnem razredu, Slovenija, večletno",
+      "name": "surs2971605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2971605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2971605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po tipu uporabe družbenega medija in dejavnosti (SKD 2008), Slovenija, večletno",
+      "name": "surs2971606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2971606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2971606S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po vrsti uporabe plačljive storitve računalništva v oblaku in velikostnem razredu, Slovenija, večletno",
+      "name": "surs2973709s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973709s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973709S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po vrsti uporabe plačljive storitve računalništva v oblaku in dejavnosti (SKD 2008), Slovenija, večletno",
+      "name": "surs2973710s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2973710s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2973710S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po razlogih, ki so jim preprečevali spletno nakupovanje v zadnjih 3 mesecih, starostnih razredih in spolu, Slovenija, večletno",
+      "name": "surs2974541s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974541s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974541S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po razlogih, ki so jim preprečevali spletno nakupovanje v zadnjih 3 mesecih, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2974542s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974542s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974542S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po razlogih, ki so jim preprečevali spletno nakupovanje v zadnjih 3 mesecih, in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2974543s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974543s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974543S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po težavah pri spletnem nakupu v zadnjih 3 mesecih, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2974545s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974545s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974545S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po težavah pri spletnem nakupu v zadnjih 3 mesecih, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2974546s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974546s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974546S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po težavah pri spletnem nakupu v zadnjih 3 mesecih in stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2974548s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2974548s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2974548S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po aktivnosti za zaščito osebnih podatkov, ki so jo izvedli na internetu v zadnjih 3 mesecih, stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2978512s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978512s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978512S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Uporaba interneta stvari po namenu uporabe v podjetjih, velikosti podjetij glede na število zaposlenih in samozaposlenih, Slovenija, večletno",
+      "name": "surs2983303s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983303s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983303S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij po težavah pri digitalni preobrazbi poslovanja in velikostnem razredu, Slovenija, letno",
+      "name": "surs2983503s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983503s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983503S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število podjetij z 10 ali več zaposlenimi in samozaposlenimi po težavah pri digitalni preobrazbi poslovanja in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs2983504s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2983504s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2983504S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8271",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po uporabi programske opreme, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2984402s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984402s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984402S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16–74 let) po preverjanju resničnosti informacij ali vsebin na novičarskih spletnih straneh ali družbenih medijih, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2984502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Slovenski uporabniki mobilnih storitev in njihova potovanja v tujino, po državah, Slovenija, mesečno, eksperimentalna statistika",
+      "name": "surs2188301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2188301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2188301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/12207",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Tuji uporabniki mobilnih storitev in njihova potovanja v Slovenijo, po državah, Slovenija, mesečno, eksperimentalna statistika",
+      "name": "surs2188302s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2188302s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2188302S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/12207",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po uporabi digitalnega potrdila oz. certifikata ali mobilne identitete, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2979601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po uporabi digitalnega potrdila oz. certifikata ali mobilne identitete, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2979602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po uporabi digitalnega potrdila oz. certifikata ali mobilne identitete in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2979603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po uporabi digitalnega potrdila oz. certifikata ali mobilne identitete in stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2979604s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979604s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979604S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po uporabi digitalnega potrdila oz. certifikata ali mobilne identitete, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs2979606s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979606s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979606S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po razlogih za neuporabo digitalnega potrdila oz. certifikata ali mobilne identitete, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2979607s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979607s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979607S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po razlogih za neuporabo digitalnega potrdila oz. certifikata ali mobilne identitete, izobrazbi in spolu, Slovenija,večletno",
+      "name": "surs2979608s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979608s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979608S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po razlogih za neuporabo digitalnega potrdila oz. certifikata ali mobilne identitete in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2979609s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979609s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979609S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po razlogih za neuporabo digitalnega potrdila oz. certifikata ali mobilne identitete in stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2979611s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979611s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979611S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po razlogih za neuporabo digitalnega potrdila oz. certifikata ali mobilne identitete, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs2979612s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2979612s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2979612S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po obvladanju digitalnih veščin, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2984201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po obvladanju digitalnih veščin, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2984202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po obvladanju digitalnih veščin in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2984203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po obvladanju digitalnih veščin in stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2984204s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984204s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984204S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po obvladanju digitalnih veščin, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs2984205s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984205s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984205S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po vrsti digitalnih veščin, starostni skupini in spolu, Slovenija, večletno",
+      "name": "surs2984206s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984206s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984206S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po vrsti digitalnih veščin, izobrazbi in spolu, Slovenija, večletno",
+      "name": "surs2984207s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984207s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984207S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po vrsti digitalnih veščin in statusu aktivnosti, Slovenija, večletno",
+      "name": "surs2984208s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984208s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984208S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po vrsti digitalnih veščin in stopnji urbanizacije območja, na katerem ti posamezniki živijo, Slovenija, večletno",
+      "name": "surs2984209s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984209s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984209S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Število posameznikov (16-74 let) po vrsti digitalnih veščin, kohezijski in statistične regije, Slovenija, večletno",
+      "name": "surs2984210s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2984210s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2984210S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Znanost in tehnologija",
+    "open_data": true
+  }
+}

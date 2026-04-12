@@ -1,0 +1,84 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Mednarodne zadeve\" AND open_data:true",
+  "total_datasets": 6,
+  "datasets": [
+    {
+      "title": "Sestava celotnega izvoza snovi - v države znotraj in izven EU (1000 ton), Slovenija, letno",
+      "name": "surs2724708s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724708s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724708S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sestava uvoza snovi iz držav izven EU-28 (1000 ton), Slovenija, 1995–2020",
+      "name": "surs2724711s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724711s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724711S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sestava izvoza snovi v države izven EU-27 [1000 ton], Slovenija, 2000 - 2012",
+      "name": "surs2724709s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724709s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724709S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sestava celotnega uvoza snovi - iz držav znotraj in izven EU (1000 ton), Slovenija, letno",
+      "name": "surs2724706s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724706s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724706S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sestava uvoza snovi iz držav izven EU-27 [1000 ton], Slovenija, 2000 - 2012",
+      "name": "surs2724707s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724707s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724707S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Sestava izvoza snovi v države izven EU-28 (1000 ton), Slovenija, 1995–2020",
+      "name": "surs2724712s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2724712s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2724712S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8281",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Mednarodne zadeve",
+    "open_data": true
+  }
+}

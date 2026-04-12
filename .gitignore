@@ -1,0 +1,10 @@
+keys.txt
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.DS_Store
+iskanja/

@@ -1,0 +1,495 @@
+{
+  "source": "https://podatki.gov.si",
+  "api": "https://podatki.gov.si/api/3/action/package_search",
+  "query": "podrocje:\"Pravosodje. pravni sistem in javna varnost\" AND open_data:true",
+  "total_datasets": 41,
+  "datasets": [
+    {
+      "title": "Zanesljivi seznam (o ponudnikih kvalificiranih storitev zaupanja)",
+      "name": "zanesljivi-seznam-o-ponudnikih-kvalificiranih-storitev-zaupanja",
+      "dataset_url": "https://podatki.gov.si/data/dataset/zanesljivi-seznam-o-ponudnikih-kvalificiranih-storitev-zaupanja",
+      "links": {
+        "xml": [
+          "https://ec.europa.eu/information_society/policy/esignature/trusted-list/tl-mp.xml",
+          "https://www.tl.gov.si/SI_TL.xml"
+        ],
+        "html": [
+          "http://mdp.gov.si"
+        ]
+      }
+    },
+    {
+      "title": "Evidenca nesreč na smučiščih",
+      "name": "evidenca-nesrec-na-smuciscih1",
+      "dataset_url": "https://podatki.gov.si/data/dataset/evidenca-nesrec-na-smuciscih1",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/69ef4299-bda9-4e54-ba50-bc04fca5aa59/resource/a7b1dc95-c02f-4b46-b427-ffbc792aa224/download/evidencanesrecnasmuciscihod3.4.2019do5.4.2024.csv",
+          "https://podatki.gov.si/dataset/69ef4299-bda9-4e54-ba50-bc04fca5aa59/resource/93e02ec7-4377-4227-b5e9-225d7097b268/download/evidencanesrecnasmuciscih2019csv.csv",
+          "https://podatki.gov.si/dataset/69ef4299-bda9-4e54-ba50-bc04fca5aa59/resource/b279cd5b-c3ba-4d9d-82c8-b2d0c41ce58f/download/evidencanesrecnasmuciscih2017.csv"
+        ],
+        "html": [
+          "https://www.gov.si/teme/varnost-na-smuciscih/"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci (znani storilci) po spolu, kaznivem dejanju in glavni kazenski sankciji (tudi pogojno obsojeni), Slovenija, letno",
+      "name": "surs1360301s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360301s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360301S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in vložniku ovadbe, Slovenija, letno",
+      "name": "surs1373601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1373601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1373601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletne osebe zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in vrsti odločbe, Slovenija, 2006 - 2012",
+      "name": "surs1360191s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360191s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360191S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Kazniva dejanja od leta 2009 dalje",
+      "name": "mnzpkazniva-dejanja-od-leta-2009-dalje",
+      "dataset_url": "https://podatki.gov.si/data/dataset/mnzpkazniva-dejanja-od-leta-2009-dalje",
+      "links": {
+        "html": [
+          "https://www.policija.si/o-slovenski-policiji/statistika/kriminaliteta/kriminaliteta-statistika-navodila"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs1373605s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1373605s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1373605S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Aktivnosti za varovanje podatkov, ki so jih posamezniki izvedli na internetu v zadnjih 12 mesecih, po stopnji urbanizacije območja, v katerem ti posamezniki živijo, Slovenija, 2016",
+      "name": "surs2978508s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978508s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978508S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci [znani storilci] po spolu, kaznivem dejanju in varnostnem ukrepu, Slovenija, 2006 - 2013",
+      "name": "surs1360393s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360393s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360393S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe, ki so spoznane za odgovorne po kaznivem dejanju, Slovenija, letno",
+      "name": "surs1375601s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1375601s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1375601S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci [znani storilci] po kaznivem dejanju in trajanju postopka od obtožbe do pravnomočnosti odločbe, Slovenija, 2006 - 2013",
+      "name": "surs1360396s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360396s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360396S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci [znani storilci] po spolu, kaznivem dejanju in glavni kazenski sankciji, Slovenija, 2006 - 2013",
+      "name": "surs1360391s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360391s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360391S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletne osebe zoper katere je bil kazenski postopek pred senatom pravnomočno končan po spolu, kaznivem dejanju in vrsti odločbe, Slovenija, 2006 - 2013",
+      "name": "surs1360291s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360291s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360291S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci (znani storilci) po spolu, kaznivem dejanju in varnostnem ukrepu, Slovenija, letno",
+      "name": "surs1360303s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360303s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360303S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in vrsti odločbe, Slovenija, letno",
+      "name": "surs1373602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1373602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1373602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletne osebe, zoper katere je bil kazenski postopek pred senatom pravnomočno končan - organiziran kriminal, Slovenija, 2006 - 2013",
+      "name": "surs1360292s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360292s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360292S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pred senatom pravnomočno končan po dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs1375502s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1375502s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1375502S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obsojeni polnoletni in mladoletni, kohezijski regiji, Slovenija, letno",
+      "name": "surs1372203s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1372203s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1372203S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gasilska društva v občini Cerklje na Gorenjskem",
+      "name": "gasilska-drustva-v-obcini-cerklje-na-gorenjskem",
+      "dataset_url": "https://podatki.gov.si/data/dataset/gasilska-drustva-v-obcini-cerklje-na-gorenjskem",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/cc2721ac-9bea-4213-a10c-eb2aad72ad3b/resource/d79ae1a6-e926-4ec1-bd07-c01a8514116c/download/010ob003cerkljenagorenjskemlokacijeinkategorijegasilskihdomov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci [znani storilci] po spolu, kaznivem dejanju, povratništvu in steku, Slovenija, 2006 - 2013",
+      "name": "surs1360392s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360392s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360392S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pred senatom pravnomočno končan po kaznivem dejanju in vrsti odločbe, Slovenija, letno",
+      "name": "surs1375501s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1375501s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1375501S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci (znani storilci) po kaznivem dejanju in državljanstvu, Slovenija, letno",
+      "name": "surs1360311s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360311s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360311S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Aktivnosti za varovanje podatkov, ki so jih posamezniki izvedli na internetu v zadnjih 12 mesecih, po statusu aktivnosti, Slovenija, 2016",
+      "name": "surs2978507s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978507s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978507S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obsojeni polnoletni in mladoletni po občinah stalnega prebivališča, Slovenija, letno",
+      "name": "surs1372201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1372201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1372201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Aktivnosti za varovanje podatkov, ki so jih posamezniki izvedli na internetu v zadnjih 12 mesecih, po starostnih razredih in spolu, Slovenija, 2016",
+      "name": "surs2978505s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978505s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978505S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in razlogu zavrženja, Slovenija, letno",
+      "name": "surs1373603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1373603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1373603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Obsojeni polnoletni in mladoletni po statističnih regijah, Slovenija, letno",
+      "name": "surs1372202s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1372202s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1372202S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe, ki so spoznane za odgovorne po glavni kazenski sankciji, Slovenija, letno",
+      "name": "surs1375602s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1375602s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1375602S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pravne osebe, ki so spoznane za odgovorne po dejavnosti (SKD 2008), Slovenija, letno",
+      "name": "surs1375603s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1375603s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1375603S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Pogojno obsojene polnoletne osebe [znani storilci] po spolu in kaznivem dejanju, Slovenija, 2006 - 2013",
+      "name": "surs1360394s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360394s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360394S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni storilci zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju, spolu, starosti ob storitvi kaznivega dejanja in vrsti odločbe, Slovenija, letno",
+      "name": "surs1360106s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360106s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360106S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletne osebe [znani storilci] zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in naznanitelju, Slovenija, 2006 - 2012",
+      "name": "surs1360192s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360192s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360192S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni obsojenci [znani storilci] po spolu, kaznivem dejanju in stranski kazenski sankciji, Slovenija, 2006 - 2013",
+      "name": "surs1360395s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360395s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360395S.PX",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletne osebe zoper katere je bil kazenski postopek pred senatom pravnomočno končan po spolu, kaznivem dejanju in vrsti odločbe, Slovenija, letno",
+      "name": "surs1360201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Aktivnosti za varovanje podatkov, ki so jih posamezniki izvedli na internetu v zadnjih 12 mesecih, po izobrazbi in spolu, Slovenija, 2016",
+      "name": "surs2978506s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs2978506s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2978506S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8277",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Gasilska društva v občini Bohinj",
+      "name": "gasilska-drustva-v-obcini-bohinj",
+      "dataset_url": "https://podatki.gov.si/data/dataset/gasilska-drustva-v-obcini-bohinj",
+      "links": {
+        "csv": [
+          "https://podatki.gov.si/dataset/85a613e6-c556-4a98-8278-c51b0567241a/resource/2137781b-d382-401c-aa55-194838c3aac0/download/010ob02bohinjlokacijeinkategorijegasilskihdomov.csv"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni storilci zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in razlogu zavrženja, Slovenija, letno",
+      "name": "surs1360107s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360107s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360107S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Polnoletni storilci zoper katere je bil kazenski postopek pri državnem tožilstvu končan po kaznivem dejanju in vložniku ovadbe, Slovenija, letno",
+      "name": "surs1360105s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1360105s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1360105S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/8274",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Indeksi registracij pravnih enot po dejavnosti (SKD 2008), Slovenija, četrtletno",
+      "name": "surs1484201s",
+      "dataset_url": "https://podatki.gov.si/data/dataset/surs1484201s",
+      "links": {
+        "html": [
+          "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1484201S.PX",
+          "https://www.stat.si/StatWeb/File/DocSysFile/11692",
+          "https://www.stat.si/doc/px/pxwin.rar"
+        ]
+      }
+    },
+    {
+      "title": "Letna poročila Službe za nadzor organizacije poslovanja sodišč Ministrstva za pravosodje (SNOPS)",
+      "name": "letna-porocila-sluzbe-za-nadzor-organizacije-poslovanja-sodisc-ministrstva-za-pravosodje-snops",
+      "dataset_url": "https://podatki.gov.si/data/dataset/letna-porocila-sluzbe-za-nadzor-organizacije-poslovanja-sodisc-ministrstva-za-pravosodje-snops",
+      "links": {
+        "pdf": [
+          "https://podatki.gov.si/dataset/b090d09d-a74a-4d8c-93d6-67337357ec5b/resource/4c7d75cc-ba05-4b5a-a8aa-e99ea4b2418e/download/letnoporoilo2025.pdf",
+          "https://podatki.gov.si/dataset/b090d09d-a74a-4d8c-93d6-67337357ec5b/resource/6ee25116-b670-4ed0-a72b-f1da5cbb3376/download/letnoporocilo24snopspodpisano.pdf",
+          "https://podatki.gov.si/dataset/b090d09d-a74a-4d8c-93d6-67337357ec5b/resource/d8e68749-dba7-41ff-85dd-f79872f8db28/download/letnoporocilo2023vpodpis.pdf"
+        ],
+        "html": [
+          "https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-pravosodje/"
+        ]
+      }
+    },
+    {
+      "title": "Študije in raziskave financirane iz javnih sredstev",
+      "name": "studije-in-raziskave-financirane-iz-javnih-sredstev",
+      "dataset_url": "https://podatki.gov.si/data/dataset/studije-in-raziskave-financirane-iz-javnih-sredstev",
+      "links": {
+        "pdf": [
+          "https://podatki.gov.si/dataset/ee062112-62f7-4a2a-90f4-d81903fd3bc2/resource/5508cbb5-c975-40df-8dde-fb8abd454972/download/kompetencehacin.pdf",
+          "https://podatki.gov.si/dataset/ee062112-62f7-4a2a-90f4-d81903fd3bc2/resource/a9b85710-79b1-45f6-a298-80e8c748664a/download/socialnoklima2006.pdf"
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "podrocje": "Pravosodje. pravni sistem in javna varnost",
+    "open_data": true
+  }
+}
