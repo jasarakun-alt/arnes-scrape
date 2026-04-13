@@ -115,6 +115,16 @@ Pretvorba izhoda `scrape_podatki_gov_si.py` v CSV:
 python3 json_to_csv.py -i podatki_povezave.json -o podatki_povezave.csv
 ```
 
+## `izbrani.txt`
+
+Ročno vzdrževan seznam **neposrednih povezav do dokumentov** (predvsem PDF), razvrščen po kategorijah z naslovnimi vrsticami:
+
+- **Pravniki** — IP RS, poročila in analize z **podatki.gov.si** ipd.
+- **HR** — človekove pravice, evropska sredstva, zagovornik …
+- **Finance** — strokovna poročila, občine, MKRR …
+
+Vsaka povezava je v svoji vrstici (začenši z `http://` ali `https://`). Datoteka je namenjena referenci in ponovni uporabi URL-jev; **ni** avtomatsko brana s strani skript v tem repozitoriju.
+
 ## `guides/`
 
 Vgrajeni vodiči za `--guide <ime>` (datoteka `guides/<ime>.md`). Seznam:
